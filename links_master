@@ -226,6 +226,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://satsquatch.com/map/" target="_blank">SatSquatch</a><br />
 <a href="https://www.globeatnight.org/maps.php" target="_blank">Globe at Night</a><br />
 <a href="http://www.ssec.wisc.edu/data/geo/#/animation?satellite=goes-16&amp;end_datetime=latest&amp;n_images=28&amp;coverage=conus&amp;channel=09&amp;image_quality=gif&amp;anim_method=javascript" target="_blank">SSEC Geostationary (GOES) Satellite Imagery</a><br />
+<a href="http://www.earthenv.org/cloud" target="_blank">EarthEnv Gloval 1-km Cloud Cover</a><br />
+
 <br />
 <div style="font-size: 22px;">
 &nbsp;</div>
@@ -467,6 +469,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://www.epa.gov/hurricane-response/hurricane-response-fact-sheets" target="_blank">Hurricane Response Fact Sheets</a><br />
 <a href="https://www.ready.gov/power-outages" target="_blank">How to Prepare for Power Outages</a><br />
 <a href="https://www.ready.gov/" target="_blank">Ready.gov</a><br />
+<a href="https://tornadotalk.com/" target="_blank">TornadoTalk</a><br />
+<a href="http://mtarchive.geol.iastate.edu/" target="_blank">mtarchive.geol.iastate.edu (Weather data archive hosted by Iowa State Univ. Environmental Mesonet)</a><br />
 <br />
 <br />
 <hr />
@@ -490,6 +494,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.weatheronline.co.uk/cgi-bin/expertcharts?MODELL=nogaps&amp;MODELLTYP=1&amp;VAR=pslv&amp;INFO=1" target="_blank">Weather Model Metadata - WeatherOnline</a><br />
 <a href="http://www.weather.gov/media/rah/rah.nwp.reference.pdf" target="_blank">RAH NWP Reference</a><br />
 <a href="http://www.weather.gov/media/nws/Public_release_notes_NAM.v4.0.pdf" target="_blank">Public Release Notes on March 15, 2017 NAM Upgrade</a><br />
+<a href="https://ssd.wrh.noaa.gov/satable/" target="_blank">Ensemble Situational Awareness Table</a><br />
 <div style="font-size: 20px;">
 <u>Model Websites:</u></div>
 <a href="http://mp1.met.psu.edu/~fxg1/ewall.html" target="_blank">PSU e-WALL</a><br />
@@ -562,6 +567,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://hopwrf.info/" target="_blank">HopWRF Ensemble</a><br />
 <a href="https://ensemble.ucar.edu/" target="_blank">NCAR Ensemble Forecasts</a><br />
 <a href="http://ensemble.ucar.edu/sounding.php" target="_blank">NCAR Ensemble Sounding Viewer</a><br />
+<a href="http://hrrr.chpc.utah.edu/" target="_blank">HRRR Archive at the Univ. of Utah</a><br />
 <div style="font-size: 20px;">
 <u>Other Model Data/Private Models:</u></div>
 <a href="http://www.tornadohq.com/" target="_blank">Tornado HQ</a><br />
@@ -591,6 +597,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepthunder/" target="_blank">IBM's Deep Thunder Model</a><br />
 <a href="https://www.panasonic.aero/2016/01/06/panasonic-weather-solutions-introduces-panasonic-global-4d-weather-the-worlds-most-advanced-global-weather-forecasting-platform/" target="_blank">Panasonic Weather Solutions Introduces Panasonic Global 4D Weather</a><br />
 <a href="https://www.weather.gov/mdl/ekdmos_home" target="_blank">Ensemble Kernel Density Model Output Statistics [EKDMOS]</a><br />
+<a href="http://moe.met.fsu.edu/cyclonephase/" target="_blank">Cyclone phase evolution: Analyses and Forecasts, Florida State Univ.</a><br />
 <div style="font-size: 20px;">
 <u>Software:</u></div>
 <a href="http://pykl3radar.com/index.php" target="_blank">PYKL3 Radar [Paid]</a><br />
@@ -933,8 +940,10 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://pbs.twimg.com/media/C_TipRwVwAA9F_m.jpg" target="_blank">The Astrobiology Periodic Tale</a><br />
 <a href="https://earthobservatory.nasa.gov/" target="_blank">NASA Earth Observatory</a><br />
 <a href="http://www.swpc.noaa.gov/content/education-and-outreach" target="_blank">Space Weather Education and Outreach</a><br />
-<a href="http://www.pari.edu/about-pari/" target="_blank">Pisgah Astronomical Research Institute - PARI</a><br />
-<br />
+<a href="http://www.pari.edu/about-pari/" target="_blank">Pisgah Astronomical Research Institute [PARI]</a><br />
+<a href="https://eol.jsc.nasa.gov/ESRS/HDEV/" target="_blank">High-Definition Earth-Viewing System [HDEV]</a><br />
+<a href="https://www.missionjuno.swri.edu/junocam" target="_blank">JunoCam: Citizen Science</a><br />
+<a href="https://www.jpss.noaa.gov/" target="_blank">Joint Polar Satellite System [JPSS]</a><br />
 <br />
 <hr />
 <a href="http://andrewswxcenter.com/Useful-Links/" name="10"></a>
@@ -1214,6 +1223,8 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://www.climatelawgovernance.org/" target="_blank">Climate Law and Governance Initiative</a><br />
 <a href="https://scijinks.gov/climate-zones/" target="_blank">Climate and Climate Zones - SciJinks</a><br />
 <a href="https://www.ornl.gov/news/new-exascale-earth-modeling-system-energy" target="_blank">E3SM - Exascale Earth Modeling System for Energy - Oak Ridge Nat'l Laboratory [ORNL]</a><br />
+<a href="https://www.ncdc.noaa.gov/societal-impacts/wind/" target="_blank">U.S. Wind Climatology, NCEI</a><br />
+
 <div style="font-size: 20px;">
 <u>Climate Change:</u></div>
 <a href="http://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&amp;projections=0-RCP85-SLR&amp;level=5&amp;unit=feet&amp;pois=hide" target="_blank">Surging Seas Database - Risk Zone Map</a><br />
@@ -1262,6 +1273,7 @@ States Will Suffer More Than Others"</a><br />
 <a href="http://www.pbs.org/wgbh/nova/next/earth/depoliticizing-climate-change/" target="_blank">Depoliticizing Climate Change</a><br />
 <a href="https://m.phys.org/news/2017-07-effective-individual-tackle-climate-discussed.html" target="_blank">"The most effective individual steps to tackle climate change aren't being discussed"</a><br />
 <a href="https://www.drawdown.org/solutions-summary-by-rank" target="_blank">Summary of Carbon Drawdown Solutions by Overall Efficacy</a><br />
+<a href="http://globalwarmingindex.org/" target="_blank">Current Global Warming Index</a><br />
 
 <br />
 <hr />
@@ -1613,7 +1625,8 @@ States Will Suffer More Than Others"</a><br />
 <a href="https://ghrc.nsstc.nasa.gov/hydro/details/lohrfc" target="_blank">LIS/OTD 0.5 Degree High Resolution Full Globe Lightning Climatology (HRFC)</a><br />
 <a href="https://lightning.nsstc.nasa.gov/data/data_lis-otd-climatology.html" target="_blank">TRMM-LIS/OTD Gridded Lightning Climatology Data Sets</a><br />
 <a href="https://weather.msfc.nasa.gov/cgi-bin/sportPublishData.pl?dataset=goes16glm&amp;product=group" target="_blank">GOES-16 Geostationary Lightning Mapper Group Density</a><br />
-<br />
+<a href="http://lightning.nmt.edu/oklma/" target="_blank">Oklahoma Lightning Mapping Array [OKLMA]</a><br />
+
 <br />
 <br />
 <hr />
@@ -1760,7 +1773,7 @@ States Will Suffer More Than Others"</a><br />
 <a href="http://geoawesomeness.com/scientists-discovered-new-continent-called-zealandia/" target="_blank">The Discovery of "Zealandia"</a><br />
 <a href="http://www.onlyinyourstate.com/virginia/mole-hill-volcano-dayton-virginia/" target="_blank">Mole Hills volcano in NE Virginia</a><br />
 <a href="http://ds.iris.edu/seismon/" target="_blank">Seismic Monitor - [IRIS]</a><br />
-<br />
+<a href="https://www.clisap.de/fileadmin/B-Research/IA/IA5/LITHOMAP/dev/lithomap.html?utm_content=bufferf5090&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">Lithological Map Viewer</a><br />
 <br />
 <br />
 <br />
