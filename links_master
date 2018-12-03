@@ -227,7 +227,9 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://www.globeatnight.org/maps.php" target="_blank">Globe at Night</a><br />
 <a href="http://www.ssec.wisc.edu/data/geo/#/animation?satellite=goes-16&amp;end_datetime=latest&amp;n_images=28&amp;coverage=conus&amp;channel=09&amp;image_quality=gif&amp;anim_method=javascript" target="_blank">SSEC Geostationary (GOES) Satellite Imagery</a><br />
 <a href="http://www.earthenv.org/cloud" target="_blank">EarthEnv Gloval 1-km Cloud Cover</a><br />
-
+<a href="http://cimss.ssec.wisc.edu/goes/goesdata.html?fbclid=IwAR0kWGD1n_g5Eun19j1F_H8lDdaRi9QrVPDTB74tQk6XtetCfr22N2-FIJU" target="_blank">Links for GOES-16 and GOES-17 Imagery</a><br />
+<a href="http://ge.ssec.wisc.edu/modis-today/index.php?viewcal=true&satellite=t1&product=true_color&fbclid=IwAR0EBYvp00txqcwTj6CBX0PTGzIteV4dz9TKzbWRwKQoXKg2g8As5N5uqwo" target="_blank">MODIS Today: TERRA Satellite Image of the Day, Space Science and Engineering Center [SSEC], Univ. of Wisconsin-Madison</a><br />
+<br />
 <br />
 <div style="font-size: 22px;">
 &nbsp;</div>
@@ -399,7 +401,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://www.youtube.com/watch?v=WL7jc4-03Uc&feature=youtu.be" target="_blank">Skip Talbot's Field Tactics for Practical Storm Spotting [Free]</a><br />
 <a href="https://stormandsky.com/stormanalysis101" target="_blank">Storm Analysis 101 Educational Video [Paid]</a><br />
 <a href="http://atlas.niu.edu/pperfect/" target="_blank">SPC Modified Practically Perfect Severe Weather Verification - Univ. of Northern Illinois</a><br />
-
+<a href="https://www.weather.gov/jetstream/skewt_samples?fbclid=IwAR3EYlUF8MWTqu-slGJrRWnAgswJ5jISKvxkPkGef6iTZF8ep5gXidDtYbw" target="_blank">Skew-T and Sensible Weather: Examples</a><br />
+<br />
 <div style="font-size: 20px;">
 <u>Weather Data Access/Information/History:</u></div>
 <a href="https://digital.weather.gov/" target="_blank">National Digital Forecast Database [NDFD]</a><br />
@@ -455,6 +458,9 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://vortex.plymouth.edu/cgi-bin/sfc/gen-pltmap.cgi?re=se&amp;va=dewp&amp;cu=la&amp;density=4&amp;sc=1.0&amp;ge=1024x768&amp;ti=0&amp;pg=web&amp;id=&amp;zoom=.6" target="_blank">Current Dew Points across SE U.S. - Plymouth State Weather Center</a><br />
 <a href="http://www.wrh.noaa.gov/zoa/getobext.php?sid=krdu" target="_blank">Five-minute ASOS Observations</a><br />
 <a href="http://www.meteo.psu.edu/bufkit/CONUS_NAM_12.html" target="_blank">Bufkit Data Distribution System - Penn St. Univ.</a><br />
+<a href="https://www.ncdc.noaa.gov/billions/overview" target="_blank">Billion-Dollar Weather Disasters: Overview, NCEI</a><br />
+<a href="http://www.pa.op.dlr.de/arctic/ecmwf.php?im=25" target="_blank">Potential Vorticity at 600K Isentrope/Polar Vortex Movement at Arctic/Antarctic Poles - Andreas Dornback</a><br />
+<br />
 <div style="font-size: 20px;">
 <u>Safety:</u></div>
 <a href="http://www.cimms.ou.edu/~doswell/Chasing2.html" target="_blank">Storm Chasing Safety, Courtesy, and Responsibility</a><br />
@@ -665,8 +671,11 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://tropicalatlantic.com/recon/recon.cgi" target="_blank">Aerial Reconnaissance in the North Atlantic Basin - TropicalAtlantic</a><br />
 <a href="http://andrew.rsmas.miami.edu/bmcnoldy/tropics/radar/" target="_blank">Tropical Cyclone Radar Loops</a><br />
 <a href="https://coast.noaa.gov/hurricanes/" target="_blank">Historical Hurricane Tracks - coast.noaa.gov</a><br />
-<br />
-<br />
+<a href="https://slosh.nws.noaa.gov/?fbclid=IwAR1T7nHzbVrnZrpcA2jpjZOTr5soIrIvkZu_CGWL6I3UQVIvJV7os3NEeSs" target="_blank">Sea Lake and Overland Surge from Hurricanes [SLOSH] model and other resources</a><br />
+<a href="https://www.nrlmry.navy.mil/TC.html?fbclid=IwAR0SQFUVXtNkDGUmIdeRTJXnNY7L77qp7aEhfOR1Wlk5kLiVZ2kJKCNtT1w" target="_blank">Naval Research Laboratory [NRL] Tropical Cyclone Page</a><br />
+<a href="http://wxmaps.org/pix/hurpot?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Maximum Potential Hurricane Intensity Maps - Dr. Kerry Emanuel Methodology</a><br />
+<a href="https://ncics.org/portfolio/monitor/mjo/?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Tropical Monitoring Page - North Carolina Institute for Climate Sutides [NCICS]</a><br />
+
 <br />
 <hr />
 <a href="http://andrewswxcenter.com/Useful-Links/" name="7"></a>
@@ -713,7 +722,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.nws.noaa.gov/oh/hdsc/studies/pmp.html" target="_blank">Current NWS Probable Maximum Precipitation (PMP) Documents</a><br />
 <a href="https://www.epa.gov/sourcewaterprotection/drinking-water-mapping-application-protect-source-waters-dwmaps" target="_blank">Drinking Water Mapping Application to Protect Source Waters [DWMAPS]</a><br />
 <a href="http://cw3e.ucsd.edu/distribution-of-landfalling-atmospheric-rivers-on-the-u-s-west-coast-during-water-year-2018/" target="_blank">Distribution of Landfalling Atmospheric Rivers on the U.S. West Coast During Water Year 2018</a><br />
+<a href="https://mrms.nssl.noaa.gov/qvs/product_viewer.php?fbclid=IwAR3dG3AnNcTdijDYZ7bvnyiBS-tUYD8eyFFSV7xAMRV3jsCZWgEkbBigA78" target="_blank">Multi-radar Multi-sensor [MRMS] Operational Product Viewer</a><br />
+<a href="http://finslive.mecklenburgcountync.gov/finslive/?gauge=rain&period=PT24H" target="_blank">Flood Information & Notification System [FINS] - Charlotte-Mecklenburg</a><br />
 
+<br />
 <div style="font-size: 20px;">
 <u>Inland Hydrology/Rivers/Water Quality:</u></div>
 <a href="http://wdr.water.usgs.gov/allsearch.php" target="_blank">Water-Resources data for the United States - USGS</a><br />
@@ -740,6 +752,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.wakeupwakecounty.org/issues/water/little-river-reservoir/" target="_blank">Little River Reservoir Schematic and Planning</a><br />
 <a href="https://owi.usgs.gov/vizlab/microplastics/" target="_blank">Microplastics in our Nation's waterways</a><br />
 <a href="http://www.crowdhydrology.com/" target="_blank">CrowdHydrology</a><br />
+<a href="https://www.weather.gov/serfc/?fbclid=IwAR1GnKWy78qRNt7oyIGFg4P5ZU-t0HugulVjZoyG6aYt_TW5AVWhBALQXU0" target="_blank">Southeast River Forecast Center</a><br />
 <div style="font-size: 20px;">
 <u>Coastal Hydrology/Tides/Oceanography:</u></div>
 <a href="http://oceanservice.noaa.gov/facts/light_travel.html" target="_blank">How far does light travel in the ocean?</a><br />
@@ -832,6 +845,7 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://www.fao.org/docrep/X0490E/x0490e08.htm" target="_blank">Penman-Monteith Equation for Determining Reference Evapotranspiration</a><br />
 <a href="http://162.242.222.244/resources/fote/states/map_northcarolina.asp" target="_blank">North Carolina Farmland in the Path of Development - American Farmland Trust</a><br />
 <a href="https://biodiversitymapping.org/wordpress/index.php/usa-trees/" target="_blank">Tree Biodiversity in the United States of America</a><br />
+<a href="https://weather.msfc.nasa.gov/sport/case_studies/lis_NC.html?fbclid=IwAR2PvyJNGPxvT5qvaKrf7rudmPCLmreDZM87eylgOTcsHxa0VWbY8xrfnbU" target="_blank">Short-term Prediction Research and Transition Center [SPoRT] Real-time 3km Land Information System over NC</a><br />
 
 <br />
 <br />
@@ -1224,6 +1238,8 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://scijinks.gov/climate-zones/" target="_blank">Climate and Climate Zones - SciJinks</a><br />
 <a href="https://www.ornl.gov/news/new-exascale-earth-modeling-system-energy" target="_blank">E3SM - Exascale Earth Modeling System for Energy - Oak Ridge Nat'l Laboratory [ORNL]</a><br />
 <a href="https://www.ncdc.noaa.gov/societal-impacts/wind/" target="_blank">U.S. Wind Climatology, NCEI</a><br />
+<a href="http://koeppen-geiger.vu-wien.ac.at/" target="_blank">World Maps of Koppen-Geiger Climate Classification</a><br />
+<a href="http://dinosaurpictures.org/ancient-earth?fbclid=IwAR2WgdQlRa0j8A1cnFF8tKTvcUkqXhZEum3l5F0CxPPsN-FgUglb3OwV994#260" target="_blank">Ancient Earth Globe (Past Earth Simulation Viewer)</a><br />
 
 <div style="font-size: 20px;">
 <u>Climate Change:</u></div>
@@ -1256,6 +1272,8 @@ States Will Suffer More Than Others"</a><br />
 <a href="http://www.zmescience.com/ecology/climate/the-world-without-ice/" target="_blank">How would the world look like without ice?</a><br />
 <a href="https://skepticalscience.com/argument.php" target="_blank">SkepticalScience - Climate Change FAQs</a><br />
 <a href="http://www.realclimate.org/index.php/archives/2017/07/joy-plots-for-climate-change/" target="_blank">Joy plots for climate change</a><br />
+<a href="https://climexp.knmi.nl/start.cgi?fbclid=IwAR1aq5BfBoeKc-imTn35xqHLeYHi-VZJp9pbjhtTEilQibiVE56mpflDDBA" target="_blank">Climate Explorer, Koninklijk Nederlands Meteorologisch Instituut [KNMI]</a><br />
+<br />
 <div style="font-size: 20px;">
 <u>Climate Resilience:</u></div>
 <a href="http://toolkit.climate.gov/" target="_blank">U.S. Climate Resilience Toolkit</a><br />
