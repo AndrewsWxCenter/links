@@ -909,7 +909,6 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=5f239fd3e72f424f98ef3d5def547eb5&amp;extent=-146.2334,13.1913,-46.3896,56.5319" target="_blank">AirData Air Quality Monitors Mapper</a><br />
 <a href="https://www.star.nesdis.noaa.gov/smcd/spb/aq/index.php?product_id=0" target="_blank">Infusing Satellite Data into Environmental Applications [IDEA]</a><br />
 <a href="http://deq.nc.gov/about/divisions/air-quality/social-media-air-quality-notifications/enviroflash" target="_blank">EnviroFlash Air Quality Forecast Subscription [Free]</a><br />
-<a href="https://www.edf.org/climate/methanemaps/city-snapshots" target="_blank">Environmental Defense Fund's Methane Map Project - City Snapshots</a><br />
 <a href="http://weather.hawaii.edu/vmap/hysplit/animate.cgi?domain=bigis&variable=so2&ftype=ensmax01" target="_blank">Sulfur Dioxide Concentration Monitoring Model from Univ. of Hawai'i at Manoa</a><br />
 <a href="https://vsc-ash.wr.usgs.gov/ashgui/#/publicruns" target="_blank">Ash3d Public Run Results (North/South American Volcano Ash Cloud Models)</a><br />
 
@@ -1017,21 +1016,21 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>NCEP Centers:</u></div>
-<a href="http://www.ncep.noaa.gov/" target="_blank">National Centers for Environmental Prediction [NCEP]</a><br />
-<a href="http://www.aviationweather.gov/" target="_blank">Aviation Weather Center [AWC]</a><br />
-<a href="http://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
-<a href="http://www.nco.ncep.noaa.gov/" target="_blank">NCEP Central Operations [NCO]</a><br />
-<a href="http://www.nhc.noaa.gov/" target="_blank">National Hurricane Center [NHC]</a><br />
-<a href="http://www.opc.ncep.noaa.gov/" target="_blank">Ocean Prediction Center [OCP]</a><br />
-<a href="http://www.spc.noaa.gov/" target="_blank">Storm Prediction Center [SPC]</a><br />
-<a href="http://www.swpc.noaa.gov/" target="_blank">Space Weather Prediction Center [SWPC]</a><br />
-<a href="http://www.wpc.ncep.noaa.gov/" target="_blank">Weather Prediction Center [WPC]</a><br />
-<a href="http://www.natice.noaa.gov/" target="_blank">National Ice Center [USNIC]</a><br />
-<a href="http://www.tsunami.gov/" target="_blank">Tsunami Warning Center [TWC]</a><br />
-<a href="http://ptwc.weather.gov/?region=1&amp;id=pacific.TSUPAC.2014.04.02.0131" target="_blank">Pacific Tsunami Warning Center [PTWC]</a><br />
-<a href="http://www.ndbc.noaa.gov/" target="_blank">National Data Buoy Center [NDBC]</a><br />
-<a href="http://www.emc.ncep.noaa.gov/" target="_blank">Environmental Modeling Center [EMC]</a><br />
-<a href="http://www.atdd.noaa.gov/" target="_blank">NOAA Atmospheric Turbulence and Diffusion Division</a><br />
+<a href="https://www.ncep.noaa.gov/" target="_blank">National Centers for Environmental Prediction [NCEP]</a><br />
+<a href="https://www.aviationweather.gov/" target="_blank">Aviation Weather Center [AWC]</a><br />
+<a href="https://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
+<a href="https://www.nco.ncep.noaa.gov/" target="_blank">NCEP Central Operations [NCO]</a><br />
+<a href="https://www.nhc.noaa.gov/" target="_blank">National Hurricane Center [NHC]</a><br />
+<a href="https://www.opc.ncep.noaa.gov/" target="_blank">Ocean Prediction Center [OPC]</a><br />
+<a href="https://www.spc.noaa.gov/" target="_blank">Storm Prediction Center [SPC]</a><br />
+<a href="https://www.swpc.noaa.gov/" target="_blank">Space Weather Prediction Center [SWPC]</a><br />
+<a href="https://www.wpc.ncep.noaa.gov/" target="_blank">Weather Prediction Center [WPC]</a><br />
+<a href="https://www.natice.noaa.gov/" target="_blank">National Ice Center [USNIC]</a><br />
+<a href="https://www.tsunami.gov/" target="_blank">Tsunami Warning Center [TWC]</a><br />
+<a href="https://ptwc.weather.gov/?region=1&amp;id=pacific.TSUPAC.2014.04.02.0131" target="_blank">Pacific Tsunami Warning Center [PTWC]</a><br />
+<a href="https://www.ndbc.noaa.gov/" target="_blank">National Data Buoy Center [NDBC]</a><br />
+<a href="https://www.emc.ncep.noaa.gov/" target="_blank">Environmental Modeling Center [EMC]</a><br />
+<a href="https://www.atdd.noaa.gov/" target="_blank">NOAA Atmospheric Turbulence and Diffusion Division</a><br />
 <br />
 <br />
 <br />
@@ -1057,25 +1056,18 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://www.wunderground.com/weather-radar/united-states-regional/ga/columbus" target="_blank">Southeastern U.S. Regional Radar</a><br />
 <a href="http://www.intellicast.com/Local/WxMap.aspx" target="_blank">Intellicast Radar</a><br />
 <a href="http://maps.baronweather.com/" target="_blank">Baron Weather - Interactive Radar Map</a><br />
-<a href="http://preview.weather.gov/edd/" target="_blank">NWS Enhanced Data Display v4.0 [NWS EDD]</a><br />
+<a href="http://preview.weather.gov/edd/" target="_blank">NWS Enhanced Data Display v4.6.1 [NWS EDD]</a><br />
 <a href="http://content.wdtinc.com/clients/imapweather.com/map.php?MAPID=14873&amp;CLIENTID=20649" target="_blank">imapweather.com</a><br />
 <a href="http://www2.mmm.ucar.edu/imagearchive/" target="_blank">Radar Image Archive (Daily data dating back to 1996)</a><br />
 <a href="http://smn.cna.gob.mx/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=84" target="_blank">Mexico Radar</a><br />
-<a href="http://synoptic.envsci.rutgers.edu/riggi/kpah_20090508.gif" target="_blank">Radar Loop of a Mesoscale Cyclonic Vortex [MCV]</a><br />
-<a href="http://thevane.gawker.com/this-one-little-programming-tweak-will-save-thousands-o-1592764166" target="_blank">Article on the integration of SAILS and AVSET modifications into Doppler Radar</a><br />
 <a href="http://www.nssl.noaa.gov/tools/radar/mpar/" target="_blank">NSSL Radar Research Tools</a><br />
 <a href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/rs/rad/home.rxml" target="_blank">Radar Meteorology - Online Remote Sensing Guide</a><br />
-<a href="http://blog.wdtinc.com/a-brief-history-of-weather-radar?utm_campaign=Wx%20Radar%20History%20-DM&amp;utm_source=Author" target="_blank">A Brief History of Weather Radar - WDT - Weather Decision Technologies</a><br />
 <a href="http://www.lakeeriewx.com/CaseStudies/ChaffOnRadar/ChaffOnRadar.html" target="_blank">Chaff on Radar Imagery</a><br />
 <a href="http://www.vaisala.com/en/products/thunderstormandlightningdetectionsystems/Pages/Vaisala-Thunderstorm-Manager.aspx" target="_blank">Vaisala Thunderstorm Manager</a><br />
 <a href="http://preview.weather.gov/edd/resource/edd/mobile/index.html?lr=T&amp;r=T&amp;pc=F&amp;lh=F&amp;h=T&amp;obs=F&amp;obfield=Temperature&amp;obp=1&amp;ndfd=F&amp;ndfdregion=conus&amp;ndfdfield=maxt&amp;ndfdvt&amp;z=5&amp;ll=-98.4287%2C39.1191&amp;bm=Blank&amp;s=F&amp;c=F&amp;sc=717171&amp;cc=717171&amp;ml=High%20Density%20Cities%7CBorders%20and%20Labels%7C1%2CU.S.%20Counties%20(Hi-Res)%7CBorders%20and%20Labels%7C0.7%2CU.S.%20States%20(Hi-Res)%7CBorders%20and%20Labels%7C0.7#%2F" target="_blank">NWS Mobile EDD v3.3</a><br />
-<a href="https://futurism.com/what-would-the-night-sky-look-like-if-we-could-see-in-all-the-wavelengths-at-once-2/" target="_blank">"What would the sky look like if we could see all light wavelengths at once?"</a><br />
-<a href="https://www.roc.noaa.gov/wsr88d/windfarm/TurbinesImpactOn.aspx?wid=dev" target="_blank">"How rotating wind turbine blades impact NERAD Doppler Radar"</a><br />
-<a href="http://www.ustornadoes.com/2017/03/28/interpreting-tornadic-radar-signatures-advanced-editon/" target="_blank">Understanding advanced tornadic radar signatures</a><br />
-<a href="http://www.srh.noaa.gov/jetstream/doppler/vcp_max.html" target="_blank">Volume Coverage Patterns (VCPs)</a><br />
+<a href="https://www.roc.noaa.gov/wsr88d/windfarm/TurbinesImpactOn.aspx?wid=dev" target="_blank">How rotating wind turbine blades impact NERAD Doppler Radar</a><br />
 <a href="http://www.atmos.albany.edu/index.php?d=wx_radar" target="_blank">Radar Observations - Univ. at Albany, SUNY</a><br />
 <a href="https://mesonet.agron.iastate.edu/current/radar.phtml" target="_blank">Radar and Satellite Data - Iowa State Univ.</a><br />
-<a href="https://www.meteor.iastate.edu/classes/mt432/lectures/ISURadarTalk_NWS_2013.pdf" target="_blank">NWS WSR-88D Radar Fundamentals</a><br />
 <a href="http://cimss.ssec.wisc.edu/goes/blog/?s=problem+of+parallax" target="_blank">Parallax</a><br />
 <a href="https://arrc.ou.edu/radar_px1000.html" target="_blank">Polarimetric X-band 1000 Overview - Univ. of Oklahoma</a><br />
 <a href="https://www.weather.gov/media/lmk/soo/SpectrumWidth_Operational_Use.pdf" target="_blank">Operational Uses for Spectrum Width data</a><br />
