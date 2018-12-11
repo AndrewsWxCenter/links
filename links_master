@@ -721,9 +721,6 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <u>Soil/Agriculture/Forestry:</u></div>
 <a href="http://websoilsurvey.nrcs.usda.gov/app/" target="_blank">Web Soil Survey</a><br />
 <a href="https://www.soils.org/discover-soils/soil-basics/soil-types" target="_blank">Soil Types</a><br />
-<a href="http://hydrogold.com/education.soil_moisture_concepts.html" target="_blank">Basic Soil Moisture Terminology</a><br />
-<a href="https://www.unc.edu/courses/2009spring/geog/262/001/biosphere/AA_Biosphere_NC.htm#Coastal" target="_blank">Soils and Vegetation in North Carolina</a><br />
-<a href="http://culter.colorado.edu/~kittel/SoilChar(%26RibbonTest)_handout.pdf" target="_blank">Estimating Soil Texture</a><br />
 <a href="http://www.cpc.ncep.noaa.gov/products/Soilmst_Monitoring/US/Soilmst/Soilmst.shtml" target="_blank">CPC Soil Moisture Monitoring</a><br />
 <a href="http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=NC" target="_blank">North Carolina Soil Surveys by County</a><br />
 <a href="http://www.usda.gov/wps/portal/usda/usdahome" target="_blank">United States Department of Agriculture [USDA]</a><br />
@@ -732,10 +729,10 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://www.ncagr.gov/paffairs/agreview/index.htm" target="_blank">North Carolina Agricultural Review</a><br />
 <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167" target="_blank">Soil Texture Triangle</a><br />
 <a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch06s06.html" target="_blank">Soil Porosity</a><br />
-<a href="http://climate.ncsu.edu/blog/preview.php?id=203&amp;hash=118RJ1B4AM" target="_blank">"Hitting Pay Dirt on Soil Moisture" - An article written by me on Soil Moisture</a><br />
 <a href="http://www.southfact.com/map/" target="_blank">SouthFACT Map Viewer</a><br />
 <a href="http://cropwatch.unl.edu/" target="_blank">CropWatch - Univ. of Nebraska-Lincoln</a><br />
-<a href="https://www.cocorahs.org/MasterGardenersClimateResourcesGuide1.0/" target="_blank">CoCoRaHS Climate Resources for Master Gardeners</a><a href="http://agroclimate.org/" target="_blank">AgroClimate</a><br />
+<a href="https://www.cocorahs.org/MasterGardenersClimateResourcesGuide1.0/" target="_blank">CoCoRaHS Climate Resources for Master Gardeners</a><br>
+<a href="http://agroclimate.org/" target="_blank">AgroClimate</a><br />
 <a href="https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20CAROLINA" target="_blank">2016 North Carolina State Agriculture Overview - USDA/NASS</a><br />
 <a href="http://www.ncagr.gov/stats/general/overview.htm" target="_blank">North Carolina Agriculture Overview</a><br />
 <a href="https://raintreenursery.com/plantcare/plant-care/chill-hours-requirements/" target="_blank">Chill Hours - Raintree Nursery</a><br />
@@ -750,10 +747,8 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://nassgeodata.gmu.edu/VegScape/" target="_blank">VegScape - Vegetation Condition Explorer</a><br />
 <a href="https://www.nass.usda.gov/Charts_and_Maps/Crops_County/index.php" target="_blank">Crop Data by County - USDA/NASS</a><br />
 <a href="https://www.agcensus.usda.gov/Publications/2012/Online_Resources/County_Profiles/North_Carolina/" target="_blank">2012 NC Census of Agriculture Publications</a><br />
-<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=NC" target="_blank">Published Soil Surveys for North Carolina Counties</a><br />
 <a href="https://vegdri.cr.usgs.gov/" target="_blank">Monitoring Vegetation Drought Stress - USGS</a><br />
 <a href="http://www.geotechdata.info/parameter/soil-porosity.html" target="_blank">Soil Porosity Information</a><br />
-<a href="http://www.umich.edu/~nre430/PDF/Lab02_Handout.pdf" target="_blank">Soil Profile Descriptions - Univ. of Michigan</a><br />
 <a href="https://www.khanacademy.org/science/biology/photosynthesis-in-plants/photorespiration--c3-c4-cam-plants/a/c3-c4-and-cam-plants-agriculture" target="_blank">What is the difference between C3 plants and C4 plants?</a><br />
 <a href="http://www.cropsreview.com/c3-plants.html" target="_blank">Plant Types: C3 Plants, C4 Plants, and CAM Plants</a><br />
 <a href="http://nsidc.org/data/smap" target="_blank">Soil Moisture Active Passive Data</a><br />
@@ -804,13 +799,11 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://www.swpc.noaa.gov/products/wing-kp" target="_blank">Wing Kp</a><br />
 <a href="http://spacew.com/plots.html" target="_blank">Solar Terrestrial Dispatch - Real-time Space Weather Plots</a><br />
 <a href="https://www.greatamericaneclipse.com/future/" target="_blank">Future solar eclipses in the 21st century</a><br />
-<a href="http://www.atdd.noaa.gov/crn-eclipse/" target="_blank">U.S. Climate Reference Network and the 2017 Total Solar Eclipse</a><br />
 <a href="https://services.swpc.noaa.gov/text/3-day-forecast.txt" target="_blank">3-Day NOAA Geomagnetic Activity Observation and Forecast</a><br />
 
 <div style="font-size: 20px;">
 <u>Astronomical/Moon/Aurora Data/Light Pollution:</u></div>
 <a href="http://aa.usno.navy.mil/data/docs/diskmap.php" target="_blank">Apparent Disk of Solar System Object</a><br />
-<a href="http://aa.usno.navy.mil/rstt/onedaytable?form=1&amp;ID=AA&amp;year=2016&amp;month=5&amp;day=17&amp;state=NC&amp;place=Raleigh" target="_blank">Sun and Moon Data for One Day</a><br />
 <a href="http://astro.unl.edu/classaction/animations/coordsmotion/daylighthoursexplorer.html" target="_blank">Daylight Hours Explorer</a><br />
 <a href="http://aa.usno.navy.mil/data/docs/RS_OneDay.php" target="_blank">Complete Sun and Moon Data for One Day</a><br />
 <a href="http://astrogeology.usgs.gov/search/results?m=application%2Fpdf" target="_blank">Astrogeology Science Center</a><br />
@@ -821,7 +814,6 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://www.swpc.noaa.gov/products/aurora-30-minute-forecast" target="_blank">30-minute Aurora Forecast - SWPC</a><br />
 <a href="http://darksitefinder.com/maps/world.html" target="_blank">Light Pollution Map</a><br />
 <a href="http://www.cleardarksky.com/csk/prov/North_Carolina_map.html" target="_blank">Clear Sky Charts in North Carolina</a><br />
-<a href="http://tycho.usno.navy.mil/vphase.html" target="_blank">Moon Phase Images - U.S. Navy</a><br />
 <a href="https://www.nasa.gov/centers/marshall/news/lunar/index.html" target="_blank">Lunar Impacts</a><br />
 <a href="http://www.aurorasaurus.org/" target="_blank">Aurorasaurus</a><br />
 <div style="font-size: 20px;">
@@ -846,8 +838,6 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://www.starrynighteducation.com/resources_pronunciation.html" target="_blank">Pronunciation Guide for Stellar and Interstellar Objects - Starry Night</a><br />
 <a href="http://neave.com/planetarium/" target="_blank">Online Planetarium</a><br />
 <a href="http://www.swpc.noaa.gov/content/space-weather-glossary" target="_blank">Glossary of Solar-Terrestrial Terms</a><br />
-<a href="http://www.space.com/25797-nasa-hd-earth-from-space-video-webcasts.html?cmpid=514630_20140508_23457304" target="_blank">Livestream of the view from the International Space Station [ISS]</a><br />
-<a href="http://www.isstracker.com/" target="_blank">Current Position of the ISS</a><br />
 <a href="http://www.n2yo.com/" target="_blank">n2yo.com - Live Satellite Tracking</a><br />
 <a href="http://hermann.is/gravity/" target="_blank">2D Newtonian Gravity Simulator</a><br />
 <a href="http://apod.nasa.gov/apod/astropix.html" target="_blank">Astronomy Picture of the Day</a><br />
@@ -863,16 +853,12 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://spaceflightnow.com/launch-schedule/" target="_blank">SPACEFLIGHT NOW - Launch Schedule</a><br />
 <a href="https://www.nasa.gov/football" target="_blank">NASA Football - Facts about Football and Outer Space</a><br />
 <a href="http://eyes.nasa.gov/" target="_blank">NASA's Eyes - Data Visualizations</a><br />
-<a href="https://pbs.twimg.com/media/C1fJhcmWQAAJmVq.jpg" target="_blank">Future Space Missions Graphic</a><br />
 <a href="http://www.howmanypeopleareinspacerightnow.com/" target="_blank">How many people are in space right now?</a><br />
 <a href="http://voyager.jpl.nasa.gov/where/index.html" target="_blank">View the current distance of spacecraft in the Voyager Interstellar Mission</a><br />
 <a href="http://mars.nasa.gov/mro/mission/instruments/hirise/" target="_blank">High Resolution Imaging Science Experiment [HiRISE] (Mars)</a><br />
 <a href="http://www.uahirise.org/releases/aug2016/" target="_blank">HiRISE Images - August 2016</a><br />
-<a href="http://geoawesomeness.com/the-history-of-space-exploration-on-a-single-map/" target="_blank">"The history of space exploration on a single space map"</a><br />
 <a href="https://www.nasa.gov/artemis" target="_blank">NASA's THEMIS and ARTEMIS</a><br />
 <a href="http://apollo17.org/" target="_blank">Apollo 17 in Real-time</a><br />
-<a href="http://www.careerarc.com/job-map/nasa/campaign/21631" target="_blank">Current NASA Opportunity Map</a><br />
-<a href="https://pbs.twimg.com/media/C_TipRwVwAA9F_m.jpg" target="_blank">The Astrobiology Periodic Tale</a><br />
 <a href="https://earthobservatory.nasa.gov/" target="_blank">NASA Earth Observatory</a><br />
 <a href="http://www.swpc.noaa.gov/content/education-and-outreach" target="_blank">Space Weather Education and Outreach</a><br />
 <a href="http://www.pari.edu/about-pari/" target="_blank">Pisgah Astronomical Research Institute [PARI]</a><br />
