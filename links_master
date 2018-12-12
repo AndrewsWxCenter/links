@@ -409,18 +409,12 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <div style="font-size: 20px;">
 <u>Operations/Metadata/Model Schedules &amp; Status:</u></div>
 <a href="http://www.nco.ncep.noaa.gov/pmb/nwprod/prodstat/" target="_blank">Current Status of NCEP Model Production</a><br />
-<a href="http://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf" target="_blank">Unified Surface Analysis Manual</a><br />
 <a href="https://www.netweather.tv/forum/topic/3147-guide-tocharts/" target="_blank">Model Process Times and Descriptions - Netweather Community</a><br />
 <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs" target="_blank">NOAA/NCEI/NCEP Weather Model Descriptions</a><br />
 <a href="http://www.nco.ncep.noaa.gov/pmb/products/gfs/" target="_blank">NCEP Products Inventory</a><br />
 <a href="http://forums.accuweather.com/index.php?showtopic=10865" target="_blank">Forecast Model Run Schedule - AccuWeather Forum</a><br />
-<a href="http://openweathermap.org/models" target="_blank">Weather Model Descriptions and Data - OpenWeatherMap</a><br />
-<a href="http://www.noaa.gov/noaa-develop-new-global-weather-model" target="_blank">Article on model development "NOAA to develop new global weather model"</a><br />
 <a href="http://home.earthlink.net/~tkurkowski/Weather-Models/weather-models.html" target="_blank">Weather Models 101</a><br />
-<a href="http://atmo.tamu.edu/class/atmo203/tut/nwp/melmain.html" target="_blank">Principles of Numerical Weather Prediction</a><br />
 <a href="http://www.weatheronline.co.uk/cgi-bin/expertcharts?MODELL=nogaps&amp;MODELLTYP=1&amp;VAR=pslv&amp;INFO=1" target="_blank">Weather Model Metadata - WeatherOnline</a><br />
-<a href="http://www.weather.gov/media/rah/rah.nwp.reference.pdf" target="_blank">RAH NWP Reference</a><br />
-<a href="http://www.weather.gov/media/nws/Public_release_notes_NAM.v4.0.pdf" target="_blank">Public Release Notes on March 15, 2017 NAM Upgrade</a><br />
 <a href="https://ssd.wrh.noaa.gov/satable/" target="_blank">Ensemble Situational Awareness Table</a><br />
 <div style="font-size: 20px;">
 <u>Model Websites:</u></div>
@@ -431,19 +425,14 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://meteocentre.com/tracking/track.php?&amp;mod=ncep_geps&amp;run=00&amp;lang=en&amp;area=na" target="_blank">MeteoCentre Cyclone Tracking</a><br />
 <a href="http://meteocentre.com/models/models.php?lang=en&amp;mod=ncep_geps" target="_blank">MeteoCentre Numerical Weather Prediction Maps</a><br />
 <a href="http://tropic.ssec.wisc.edu/" target="_blank">Cooperative Institute for Meteorological Satellite Studies [CIMSS]</a><br />
-<a href="http://www.wpc.ncep.noaa.gov/html/sfc-zoom.php" target="_blank">WPC Surface Analysis Page</a><br />
 <a href="http://weather.cod.edu/forecast/" target="_blank">CoD Meteorology - Numerical Weather Model Data</a><br />
 <a href="http://www.pivotalweather.com/" target="_blank">PivotalWeather</a><br />
-<a href="http://synoptic.envsci.rutgers.edu/dougsimo/indexgefs.html" target="_blank">Doug Simonian's Model Page - Global Ensemble Forecast System [GEFS] Model Data</a><br />
 <a href="https://owl.ou.edu/" target="_blank">Oklahoma Weather Lab</a><br />
 <a href="http://weather.unisys.com/index.php" target="_blank">Unisys Weather</a><br />
 <a href="http://mag.ncep.noaa.gov/model-guidance-model-area.php#" target="_blank">NCEP Central Operations</a><br />
 <a href="http://wintercast.tripod.com/id13.html" target="_blank">WinterCast Computer Models List</a><br />
 <a href="http://www.cnrfc.noaa.gov/weather_models.php" target="_blank">Weather Model Data - California Nevada River Forecast Center [CNRFC]</a><br />
-<a href="http://www.srh.noaa.gov/ridge2/" target="_blank">NWS National Mosaic - Ridge2</a><br />
 <a href="http://ggweather.com/loops/ncep_loops.htm" target="_blank">Golden Gate Weather Forecast Models Loop Page</a><br />
-<a href="http://webpages.charter.net/wxalan/models/models.html" target="_blank">Model Links</a><br />
-<a href="https://wrf.nssl.noaa.gov/" target="_blank">NSSL WRF 4 km Grid</a><br />
 <a href="http://vortex.plymouth.edu/myo/" target="_blank">Plymouth State Weather Center - "Make Your Own"</a><br />
 <a href="http://txtornado.net/menu.htm" target="_blank">TXTornado Model Page</a><br />
 <a href="http://twister.sbs.ohio-state.edu/models" target="_blank">"Twister" - Ohio State University</a><br />
@@ -466,12 +455,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <div style="font-size: 20px;">
 <u>Short/Medium Range (~1-7 Days):</u></div>
 <a href="http://hp6.wright-weather.com/eastnmm.shtml" target="_blank">Hi-RES East WRF-NMM 4-km (Eastern U.S. Model Run)</a><br />
-<a href="http://rapidrefresh.noaa.gov/HRRR/Welcome.cgi?dsKey=hrrr_jet&amp;domain=t3&amp;run_time=24+Mar+2013+-+23Z" target="_blank">Earth System Research Laboratory High Resolution Rapid Refresh [ESRL HRRR] Model Fields</a><br />
-<a href="http://www.stormchaser.niu.edu/machine/fcstsound.html" target="_blank">Forecast Model Soundings</a><br />
+<a href="https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_jet&domain=t3&run_time=24+Mar+2013+-+23Z" target="_blank">Earth System Research Laboratory High Resolution Rapid Refresh [ESRL HRRR] Model Fields</a><br />
 <a href="http://www.nws.noaa.gov/mdl/synop/products.php" target="_blank">NWS Meteorological Development Lab Model Output Statistics [MOS] Forecast Products</a><br />
 <a href="http://www.raob.com/" target="_blank">Universal RAwinsonde Observation Program [RAOB]</a><br />
 <a href="http://www.weather.gov/akq/SevereThunderstorms" target="_blank">Severe Thunderstorm Briefing Page</a><br />
-<a href="http://weather.graphics/hrrr.php" target="_blank">WeatherBell HRRR</a><br />
 <a href="http://www.emc.ncep.noaa.gov/mmb/mpyle/spcprod/00/" target="_blank">NCEP 4.0 km WRF-NMM run for SPC</a><br />
 <a href="https://weather.gc.ca/model_forecast/global_e.html" target="_blank">CMC Global Deterministic Prediction System</a><br />
 <a href="https://ruc.noaa.gov/" target="_blank">Rapid Update Cycle [RUC]</a><br />
@@ -486,14 +473,13 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.wpc.ncep.noaa.gov/medr/display/medrt.php" target="_blank">WPC high-resolution medium-range forecast display</a><br />
 <div style="font-size: 20px;">
 <u>Ensemble Forecasts:</u></div>
-<a href="http://www.spc.noaa.gov/exper/sref/fplumes/index.php?YMD=20140309&amp;RT=15&amp;PRM=3hrly-TMP&amp;SID=GSO&amp;INC=ALL&amp;NNC=&amp;max=&amp;min=&amp;mZOOM=7&amp;mLAT=35.438019265226266&amp;mLON=-82.51286632642746&amp;mTYP=roadmap" target="_blank">National Center of Environmental Prediction Short Range Ensemble Forecast Plumes [NC NCEP SREF]</a><br />
 <a href="http://www.spc.noaa.gov/exper/sref/fplumes/" target="_blank">SREF Plumes National Selection Grid</a><br />
-<a href="http://www.meteor.iastate.edu/~ckarsten/bufkit/image_loader.phtml" target="_blank">Meteogram Generator from Iowa State University</a>
+<a href="http://www.meteor.iastate.edu/~ckarsten/bufkit/image_loader.phtml" target="_blank">Meteogram Generator from Iowa State University</a><br />
 <a href="http://www.emc.ncep.noaa.gov/mmb/nammeteograms/" target="_blank">NAM Forecast Meteograms</a><br />
 <a href="http://wxmaps.org/pix/meteograms.html" target="_blank">WxMaps Meteograms</a><br />
 <a href="http://hopwrf.info/" target="_blank">HopWRF Ensemble</a><br />
 <a href="https://ensemble.ucar.edu/" target="_blank">NCAR Ensemble Forecasts</a><br />
-<a href="http://ensemble.ucar.edu/sounding.php" target="_blank">NCAR Ensemble Sounding Viewer</a><br />
+<a href="http://ensemble.ucar.edu/" target="_blank">NCAR Ensemble Sounding Viewer</a><br />
 <a href="http://hrrr.chpc.utah.edu/" target="_blank">HRRR Archive at the Univ. of Utah</a><br />
 <div style="font-size: 20px;">
 <u>Other Model Data/Private Models:</u></div>
@@ -513,16 +499,14 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.spc.noaa.gov/exper/sseo/" target="_blank">SPC Storm-Scale Ensemble of Opportunity</a><br />
 <a href="http://www.spc.noaa.gov/obswx/maps/" target="_blank">Surface and Upper Air Maps - SPC</a><br />
 <a href="http://www.spc.noaa.gov/exper/soundingclimo/" target="_blank">Sounding Climatology Page - SPC</a><br />
-<a href="http://www.redteamwx.com/archive/archivetool.php" target="_blank">RTWX SPC Mesoanalysis Archive Animator</a><br />
+<a href="https://www.spc.noaa.gov/exper/ma_archive/" target="_blank">RTWX SPC Mesoanalysis Archive Animator</a><br />
 <a href="http://archive.atmos.colostate.edu/" target="_blank">NWS DIFAX Weather Map Archive</a><br />
 <a href="http://mesonet.agron.iastate.edu/cow/" target="_blank">IEM Cow Storm Based Warning Verification</a><br />
 <a href="http://cimss.ssec.wisc.edu/severe_conv/probsev.html" target="_blank">NOAA/CIMSS ProbSevere Model</a><br />
 <a href="http://www.wpc.ncep.noaa.gov/index.shtml#page=tls" target="_blank">Forecaster's Toolbox - Weather Prediction Center</a><br />
 <a href="https://nemac.unca.edu/" target="_blank">National Environmental Modeling and Analysis Center</a><br />
-<a href="http://www.ssec.wisc.edu/news/articles/10109" target="_blank">New all-hazards ProbSevere model targets tornadoes, hail, wind</a><br />
 <a href="http://predict.habhub.org/" target="_blank">CUSF Landing Predictor 2.5</a><br />
 <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepthunder/" target="_blank">IBM's Deep Thunder Model</a><br />
-<a href="https://www.panasonic.aero/2016/01/06/panasonic-weather-solutions-introduces-panasonic-global-4d-weather-the-worlds-most-advanced-global-weather-forecasting-platform/" target="_blank">Panasonic Weather Solutions Introduces Panasonic Global 4D Weather</a><br />
 <a href="https://www.weather.gov/mdl/ekdmos_home" target="_blank">Ensemble Kernel Density Model Output Statistics [EKDMOS]</a><br />
 <a href="http://moe.met.fsu.edu/cyclonephase/" target="_blank">Cyclone phase evolution: Analyses and Forecasts, Florida State Univ.</a><br />
 <div style="font-size: 20px;">
@@ -553,7 +537,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://mesonet.k-state.edu/" target="_blank">Kansas Mesonet</a><br />
 <a href="https://ndawn.ndsu.nodak.edu/" target="_blank">North Dakota Agricultural Weather Network [NDAWN]</a><br />
 <a href="http://agweathernetwork.com/" target="_blank">Central Minnesota Ag Weather Network</a><br />
-<a href="http://climate.umt.edu/mesonet/default.php" target="_blank">Montana Mesonet (Coming March 2017)</a><br />
+<a href="http://climate.umt.edu/mesonet/default.php" target="_blank">Montana Mesonet</a><br />
 <a href="http://www.jma.go.jp/en/amedas/" target="_blank">Automated Meteorological Data Acquisition System [AMeDAS] - Japan Mesonet</a><br />
 <br />
 <br />
@@ -572,7 +556,6 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.nhc.noaa.gov/climo/" target="_blank">Tropical Cyclone Climatology</a><br />
 <a href="https://www.coast.noaa.gov/floodexposure/#/select" target="_blank">Coastal Flood Exposure Mapper</a><br />
 <a href="http://www.skeetobiteweather.com/" target="_blank">Skeetobite Weather</a><br />
-<a href="http://www.nola.com/katrina/index.ssf/2015/08/katrina_flooding_map.html" target="_blank">Anatomy of Hurricane Katrina Flooding</a><br />
 <a href="http://www.tropicalstormrisk.com/" target="_blank">tropicalstormrisk.com</a><br />
 <a href="http://moe.met.fsu.edu/tcgengifs/" target="_blank">Experimental Forecast Tropical Cyclone Genesis Potential Fields - Florida State Univ.</a><br />
 <a href="http://nchurricane.com/index.php" target="_blank">NCHurricane.com</a><br />
@@ -581,14 +564,11 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=3e04cf33cd9747f2b553e14b92a188b9" target="_blank">ESRI How-To: Hurricane Map</a><br />
 <a href="http://www.hurrtracker.com/Main/home.html" target="_blank">hurrtracker.com - Hurricane Tracker [Paid]</a><br />
 <a href="http://www.aoml.noaa.gov/hrd/hurdat/metadata_master.html" target="_blank">Documentation of Atlantic Tropical Cyclones Changes in HURDAT</a><br />
-<a href="http://wind.mit.edu/~emanuel/pcmin/climo.html" target="_blank">CaneTalk</a><br />
-<a href="http://canetalk.com/" target="_blank">Hurricane Climatological Potential Intensity Maps and Tables</a><br />
-<a href="http://wxmaps.org/pix/hurpot.html" target="_blank">Maximum Potential Hurricane Intensity</a><br />
+<a href="http://canetalk.com/" target="_blank">CaneTalk</a><br />
+<a href="http://wind.mit.edu/~emanuel/pcmin/climo.html" target="_blank">Hurricane Climatological Potential Intensity Maps and Tables</a><br />
 <a href="https://emanuel.mit.edu/products" target="_blank">Kerry Emanuel Tropical Forecasting Products</a><br />
-<a href="http://www.barbadosweather.org/Composite/kidbuuComposite_displayer.php?Product=Reflectivity&amp;Sector=fullView&amp;Composite=Sabre&amp;PlanetOfTheApes=1504748846" target="_blank">Caribbean Radar Composite</a><br />
 <a href="http://tropical.atmos.colostate.edu/Realtime/index.php?loc=northatlantic" target="_blank">Colorado State Univ. - Real-Time North Atlantic Ocean Statistics by Storm</a><br />
 <a href="https://marine.rutgers.edu/cool/sat_data/?nothumbs=0&amp;product=sst_comp&amp;region=gulfmexico" target="_blank">Sea Surface Temperature Daily Composite - Gulf of Mexico - Rutgers Univ.</a><br />
-<a href="http://iwxsl0.impactweather.com/hsi/hsi.pdf" target="_blank">The Hurricane Severity Index</a><br />
 <a href="http://tropicalatlantic.com/recon/recon.cgi" target="_blank">Aerial Reconnaissance in the North Atlantic Basin - TropicalAtlantic</a><br />
 <a href="http://andrew.rsmas.miami.edu/bmcnoldy/tropics/radar/" target="_blank">Tropical Cyclone Radar Loops</a><br />
 <a href="https://coast.noaa.gov/hurricanes/" target="_blank">Historical Hurricane Tracks - coast.noaa.gov</a><br />
@@ -612,7 +592,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://flash.ou.edu/" target="_blank">Flooded Locations and Simulated Hydrographs Project [FLASH]</a><br />
 <a href="https://fiman.nc.gov/fiman/Map.aspx" target="_blank">Flood Inundation Mapping and Alert Network [FIMAN]</a><br />
 <a href="http://water.weather.gov/ahps/inundation.php" target="_blank">Inundation Mapping Locations - NOAA</a><br />
-<a href="http://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?Southeast" target="_blank">Southeast Regional Drought Monitor</a><br />
+<a href="https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?Southeast" target="_blank">Southeast Regional Drought Monitor</a><br />
 <a href="http://www.drought.gov/drought/content/drought-my-backyard" target="_blank">Drought in My Backyard | U.S. Drought Portal</a><br />
 <a href="http://drought.rcc-acis.org/" target="_blank">ACIS Drought Portal</a><br />
 <a href="https://gis.ncdc.noaa.gov/maps/ncei/drought/us" target="_blank">U.S Drought Monitor Map from NCEI</a><br />
@@ -623,10 +603,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://www.drought.gov/drought/soil-moisture-map" target="_blank">NIDIS CRN/SCAN Soil Moisture Map</a><br />
 <div style="font-size: 20px;">
 <u>Precipitation/Water Pollution:</u></div>
-<a href="http://hdsc.nws.noaa.gov/hdsc/pfds/pfds_map_cont.html?bkmrk=nc" target="_blank">Rainfall Frequency Atlas</a><br />
 <a href="http://www.cocorahs.org/" target="_blank">CoCoRaHS - Community Collaborative Rain, Hail &amp; Snow Network</a><br />
 <a href="http://www.arcgis.com/home/webmap/viewer.html?webmap=0ea62c03e83e4d66b12a8eb98552dbdc&amp;extent=-93.8795%2C23.2123%2C-72.3463%2C38.403" target="_blank">Current Month Daily Mean Rainfall Anomalies</a><br />
-<a href="http://www.srh.noaa.gov/ridge2/RFC_Precip/" target="_blank">NWS Live Precipitation Accumulation Tool</a><br />
 <a href="http://water.weather.gov/precip/" target="_blank">Precipitation Analysis - [AHPS] Advanced Hydrologic Prediction Service</a><br />
 <a href="http://www.clemson.edu/public/carolinaclear/consortiums/acsec_home/index.html" target="_blank">Ashley Cooper Stormwater Education Consortium</a><br />
 <a href="http://www.wmo.int/pages/prog/www/IMOP/intercomparisons/SPICE/SPICE.html" target="_blank">Solid Precipitation Intercomparison Experiment [SPICE]</a><br />
@@ -635,11 +613,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://projects.nytimes.com/toxic-waters/polluters/north-carolina" target="_blank">Find Water Polluters Near You - Toxic Waters NC</a><br />
 <a href="http://rainsphere.eng.uci.edu/" target="_blank">CHRS RainSphere - UC Irvine</a><br />
 <a href="https://nc.water.usgs.gov/realtime/rainfall.php" target="_blank">Current Rainfall Totals Around North Carolina (1 Hour to 7 Day resolution)</a><br />
-<a href="http://www.srh.noaa.gov/ridge2/RFC_Precip/" target="_blank">NWS Ridge2 Past Precipitation Tool</a><br />
 <a href="https://pmm.nasa.gov/trmm/realtime-3hr-7day-rainfall" target="_blank">3 Hour and 7 Day Rainfall Data from TRMM Satellite - NASA</a><br />
 <a href="https://hdsc.nws.noaa.gov/hdsc/pfds/pfds_map_cont.html?bkmrk=nc" target="_blank">NOAA Atlas 14 Point Precipitation Frequency Estimates: NC</a><br />
 <a href="http://www.nws.noaa.gov/oh/hdsc/record_precip/record_precip_us.html" target="_blank">Greatest observed point precipitation values for the USA</a><br />
-<a href="http://www.cisa.sc.edu/map/" target="_blank">Carolinas Integrated Sciences &amp; Assessments [CISA] Condition Monitoring Map</a><br />
+<a href="https://www.cocorahs.org/maps/conditionmonitoring/" target="_blank">Carolinas Integrated Sciences &amp; Assessments [CISA] Condition Monitoring Map</a><br />
 <a href="http://www.nws.noaa.gov/oh/hdsc/studies/pmp.html" target="_blank">Current NWS Probable Maximum Precipitation (PMP) Documents</a><br />
 <a href="https://www.epa.gov/sourcewaterprotection/drinking-water-mapping-application-protect-source-waters-dwmaps" target="_blank">Drinking Water Mapping Application to Protect Source Waters [DWMAPS]</a><br />
 <a href="http://cw3e.ucsd.edu/distribution-of-landfalling-atmospheric-rivers-on-the-u-s-west-coast-during-water-year-2018/" target="_blank">Distribution of Landfalling Atmospheric Rivers on the U.S. West Coast During Water Year 2018</a><br />
@@ -650,9 +627,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <div style="font-size: 20px;">
 <u>Inland Hydrology/Rivers/Water Quality:</u></div>
 <a href="http://wdr.water.usgs.gov/allsearch.php" target="_blank">Water-Resources data for the United States - USGS</a><br />
-<a href="http://des.nh.gov/organization/commissioner/pip/factsheets/bb/documents/bb-49.pdf" target="_blank">What's the difference between a Lake and a Pond?</a><br />
 <a href="http://water.usgs.gov/wsc/map_index.html" target="_blank">Locate Your Watershed</a><br />
-<a href="http://www.eenorthcarolina.org/Documents/RiverBasin_pdfs/final_web_neuse.pdf" target="_blank">Information about the Neuse River Basin</a><br />
 <a href="https://water.usgs.gov/GIS/huc.html" target="_blank">What are HUCS?</a><br />
 <a href="http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/water/watersheds/dataset/" target="_blank">Watershed Boundary Dataset</a><br />
 <a href="http://maps.waterdata.usgs.gov/mapper/nwisquery.html?URL=http://waterdata.usgs.gov/usa/nwis/current?type=dailydischarge&amp;group_key=state_cd&amp;site_no_name_select=siteno&amp;format=sitefile_output&amp;sitefile_output_format=xml&amp;column_name=agency_cd&amp;column_name=site_no&amp;column_name=station_nm&amp;column_name=site_tp_cd&amp;column_name=dec_lat_va&amp;column_name=dec_long_va&amp;column_name=agency_use_cd" target="_blank">National Water Information System - USGS</a><br />
@@ -664,10 +639,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://water.usgs.gov/edu/earthwherewater.html" target="_blank">The World's Water - USGS</a><br />
 <a href="http://evidence.environment-agency.gov.uk/FCERM/en/FluvialDesignGuide/Chapter4.aspx" target="_blank">Fluvial Design and the Role of River Morphology</a><br />
 <a href="https://txpub.usgs.gov/DSS/streamer/web/" target="_blank">USGS Streamer</a><br />
-<a href="https://www.nytimes.com/interactive/2016/12/09/science/mapping-three-decades-of-global-water-change.html?_r=0" target="_blank">"Mapping Three Decades of Global Water Change"</a><br />
 <a href="http://geology.com/lakes-rivers-water/north-carolina.shtml" target="_blank">North Carolina Lakes, Rivers, and Water Resources - Geology.com</a><br />
 <a href="http://soundrivers.org/" target="_blank">SoundRivers - Neuse/Tar-Pamlico River Basins Nonprofit</a><br />
-<a href="http://blog.matthen.com/post/85019675571/the-meanderiness-of-a-river-its-st%C3%B8lum-number-is" target="_blank">Stolum Number - River Meanderiness</a><br />
 <a href="http://water.noaa.gov/" target="_blank">Office of Water Prediction</a><br />
 <a href="http://water.noaa.gov/tools/nwm-image-viewer" target="_blank">National Water Model Experimental Image Viewer</a><br />
 <a href="http://www.wakeupwakecounty.org/issues/water/little-river-reservoir/" target="_blank">Little River Reservoir Schematic and Planning</a><br />
@@ -678,10 +651,9 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <u>Coastal Hydrology/Tides/Oceanography:</u></div>
 <a href="http://oceanservice.noaa.gov/facts/light_travel.html" target="_blank">How far does light travel in the ocean?</a><br />
 <a href="http://tidesandcurrents.noaa.gov/stationhome.html?id=8651370#obs" target="_blank">NOAA Tides &amp; Currents</a><br />
-<a href="http://blog.weatherflow.com/cold-water-upwelling-along-northern-obx/" target="_blank">Cold Water Upwelling Along OBX - WeatherFlow</a><br />
 <a href="http://www.usno.navy.mil/" target="_blank">Naval Oceanography Portal</a><br />
 <a href="http://tbone.biol.sc.edu/tide/" target="_blank">WWW Tide and Current Predictor</a><br />
-<a href="http://sc.water.usgs.gov/drought/coastal-drought/" target="_blank">Development of a Coastal Salinity Index</a><br />
+<a href="https://www.usgs.gov/centers/sa-water" target="_blank">South Atlantic Water Science Center [SAWSC]</a><br />
 <a href="https://coast.noaa.gov/digitalcoast/" target="_blank">NOAA Digital Coast</a><br />
 <a href="https://tidesandcurrents.noaa.gov/quicklook_archive.html" target="_blank">Archived Tides &amp; Currents from Tropical Cyclones</a><br />
 <a href="http://secoora.org/" target="_blank">Southeast Coastal Ocean Observing Regional Association [SECOORA]</a><br />
@@ -693,7 +665,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://omgsrv1.meas.ncsu.edu:8080/ocean-circulation/ocean.jsp" target="_blank">Coastal Circulation and Ecosystem Nowcast/Forecast System for the South Atlantic Bight and Gulf of Mexico - NC State Univ.</a><br />
 <a href="http://omgsrv1.meas.ncsu.edu:8080/CNAPS/ocean.jsp" target="_blank">Coupled Northwest Atlantic Prediction System [CNAPS] - NC State Univ.</a><br />
 <a href="http://aces.coastal.ufl.edu/CH3D/" target="_blank">CH3D Storm Surge Modeling System - Univ. of Florida</a><br />
-<a href="http://iwave.rsmas.miami.edu/wera/" target="_blank">University of Miami/Rosenstiel School of Marine and Atmospheric Sciences 
+<a href="http://iwave.rsmas.miami.edu/wera/" target="_blank">Univ. of Miami/Rosenstiel School of Marine and Atmospheric Sciences 
 Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://cera.coastalrisk.live/" target="_blank">Coastal Emergency Risks Assessment Tool [CERA]</a><br />
 <a href="http://maracoos.org/blogs/main/" target="_blank">Mid-Atlantic Regional Association Coastal Ocean Observing System [MARACOOS]</a><br />
@@ -709,7 +681,6 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://maps.oceanwealth.org/" target="_blank">Atlas of Ocean Wealth | Mapping Ocean Ecosystem Services</a><br />
 <a href="https://marinecadastre.gov/" target="_blank">MarineCadastre</a><br />
 <a href="https://coast.noaa.gov/dataregistry/search/collection" target="_blank">NOAA DigitalCoast Data Registry</a><br />
-<a href="http://www.climatecentral.org/news/scientists-larsen-c-iceberg-size-21595" target="_blank">Statistics and Projections on the Calving of the Larsen C Iceberg</a><br />
 <a href="https://www.nodc.noaa.gov/OC5/3M_HEAT_CONTENT/" target="_blank">Global Ocean Heat and Salt Content</a><br />
 <br />
 <br />
