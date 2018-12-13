@@ -41,6 +41,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
     <option value="https://andrewswxcenter.com/links/#13">Data Visualization</option>
     <option value="https://andrewswxcenter.com/links/#14">Weather and the Law</option>
     <option value="https://andrewswxcenter.com/links/#14">Miscellaneous</option>
+    <option value="https://andrewswxcenter.com/links/#15">International Meteorology Agencies</option>
 </select>​</center>
 <br />
 <br />
@@ -267,6 +268,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.starpath.com/transpac/discussionterms.htm" target="_blank">Abbreviations used in official forecast discussions</a><br />
 <a href="http://bangladeshtornadoes.org/EML/emlpage.html" target="_blank">The Elevated Mixed Layer</a><br />
 <a href="http://www.prh.noaa.gov/cphc/pages/FAQ/Hurricanes_vs_tornadoes.php" target="_blank">Hurricanes and Tornadoes</a><br />
+<a href="http://www.weathergraphics.com/identifiers/" target="_blank">Weather Station Identifiers Primer (MILD, ICAO, WBAN, etc.)</a><br />
 <br>
 <div style="font-size: 20px;">
 <u>Education Modules/Tutorials/Notes:</u></div>
@@ -336,6 +338,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.meteo.psu.edu/bufkit/CONUS_NAM_12.html" target="_blank">Bufkit Data Distribution System - Penn St. Univ.</a><br />
 <a href="https://www.ncdc.noaa.gov/billions/overview" target="_blank">Billion-Dollar Weather Disasters: Overview, NCEI</a><br />
 <a href="http://www.pa.op.dlr.de/arctic/ecmwf.php?im=25" target="_blank">Potential Vorticity at 600K Isentrope/Polar Vortex Movement at Arctic/Antarctic Poles - Andreas Dornback</a><br />
+<a href="http://weather.rap.ucar.edu/surface/stations.txt" target="_blank">All Surface Weather Stations by Greg Thompson, NCAR/RAP</a><br />
+<a href="http://www.weather2000.com/1st_order_wbans.txt" target="_blank">1st Order WBAN Stations by Weather2000</a><br />
 <br />
 <div style="font-size: 20px;">
 <u>Safety:</u></div>
@@ -707,6 +711,8 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://marinecadastre.gov/" target="_blank">MarineCadastre</a><br />
 <a href="https://coast.noaa.gov/dataregistry/search/collection" target="_blank">NOAA DigitalCoast Data Registry</a><br />
 <a href="https://www.nodc.noaa.gov/OC5/3M_HEAT_CONTENT/" target="_blank">Global Ocean Heat and Salt Content</a><br />
+<a href="http://water.noaa.gov/map" target="_blank">Office of Water Prediction Map</a><br />
+<a href="https://hads.ncep.noaa.gov/" target="_blank">Hydrometeorological Automated Data System [HADS], NCEP</a><br />
 <br />
 <br />
 <hr />
@@ -928,7 +934,40 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <div style="font-size: 24px;">
 <u>Weather and the Law:</u></div>
 <a href="https://www.law.cornell.edu/uscode/text/18/2074" target="_blank">18 U.S. Code § 2074 - False weather reports</a><br />
+<a href="https://www.congress.gov/bill/115th-congress/house-bill/353/all-info" target="_blank">All Information (Except Text) for H.R.353 - Weather Research and Forecasting Innovation Act of 2017</a><br />
+
 <br />
+
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="15"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>International Meteorology Agencies:</u></div>
+<a href="https://www.wmo.int/pages/index_en.html" target="_blank">World Meteorological Organization [WMO]</a><br />
+<a href="http://www.met.gov.kw/" target="_blank">State of Kuwait Meteorological Department</a><br />
+<a href="http://nwp.gov.eg/" target="_blank">Egyptian Meteorological Authority</a><br />
+<a href="www.jma.go.jp/jma/indexe.html" target="_blank">Japan Meteorology Agency</a><br />
+<a href="http://www.meteofrance.com/accueil" target="_blank">M&eacute;t&eacute;o et climat (France - Weather and Climate)</a><br />
+<a href="https://www.dwd.de/EN/Home/home_node.html" target="_blank">Deutscher Wetterdienst (German Weather Service)</a><br />
+<a href="http://smn.cna.gob.mx/es/" target="_blank">Servicio Meteorol&oacute;gico Nacional (National Weather Service of Mexico)</a><br />
+<a href="https://weather.gc.ca/canada_e.html" target="_blank">Environment Canada</a><br />
+<a href="http://cubaweather.org/" target="_blank">Cuba Weather</a><br />
+<a href="https://www.met.ie/" target="_blank">Met &Eacute;ireann (Irish Meteorological Service)</a><br />
+<a href="http://www.insivumeh.gob.gt/?page_id=612" target="_blank">Instituto Nacional de Sesmolog&iacute;a, Vulcanolog&iacute;a, Meteorolog&iacute;a e Hidrolog&iacute;a [INSIVUMEH] (Guatemalan Weather Service)</a><br />
+<a href="http://www.hydromet.gov.bz/" target="_blank">National Meteorological Service of Belize</a><br />
+<a href="https://www.imn.ac.cr/en/inicio" target="_blank">Instituto Meteorol&oacute;gico Nacional de Costa Rica (Costa Rica National Institute of Meteorology)</a><br />
+<a href="http://www.hidromet.com.pa/index.php?idioma=ing" target="_blank">Hidrometeorolog&iacute;a de ETESA (Panam&aacute; Hydrometeorology)</a><br />
+<a href="https://www.senamhi.gob.pe/" target="_blank">Servicio Nacional de Meteorolog&iacute;a e Hidrolog&iacute;a del Per&uacute; [SENAMHI] (National Meteorology and Hydrology Service of Per&uacute;)</a><br />
+<a href="http://www.meteochile.gob.cl/PortalDMC-web/index.xhtml" target="_blank">Direcci&oacute;n Meteorol&oacute;gica de Chile (Chilean Meteorological Office)</a><br />
+
+
+
+
+
+<br />
+
 
 
 
@@ -1157,6 +1196,8 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://www.ncdc.noaa.gov/societal-impacts/wind/" target="_blank">U.S. Wind Climatology, NCEI</a><br />
 <a href="http://koeppen-geiger.vu-wien.ac.at/" target="_blank">World Maps of Koppen-Geiger Climate Classification</a><br />
 <a href="http://dinosaurpictures.org/ancient-earth?fbclid=IwAR2WgdQlRa0j8A1cnFF8tKTvcUkqXhZEum3l5F0CxPPsN-FgUglb3OwV994#260" target="_blank">Ancient Earth Globe (Past Earth Simulation Viewer)</a><br />
+<a href="https://climateaudit.org/station-data/" target="_blank">Climate Audit by Steve McIntyre</a><br />
+<a href="http://www.surfacestations.org/" target="_blank">surfacestations.org - Climate Station Records and Surveys</a><br />
 
 <div style="font-size: 20px;">
 <u>Climate Change:</u></div>
@@ -1801,6 +1842,8 @@ States Will Suffer More Than Others"</a><br />
 <div style="font-size: 24px;">
 <u>Miscellaneous:</u></div>
 <a href="https://www.weather.gov/ilm/heatwaves" target="_blank">Historic Heat Waves in the Carolinas</a><br />
+<a href="www.robertmanduca.com/projects/jobs.html" target="_blank">Where are the Jobs? Employment in America, 2014</a><br />
+<a href="https://mourner.github.io/road-orientation-map/#6.08/43.18/-90.927/0/14" target="_blank">Road Orientations Interactive Map</a><br />
 <br />
 
 
