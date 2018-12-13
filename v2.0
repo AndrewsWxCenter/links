@@ -14,25 +14,31 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <select onchange="location = this.options[this.selectedIndex].value;" style="font-size: 18px;">
     <option>Select a Category...</option>
     <option value="https://andrewswxcenter.com/links/#1">Essential Links</option>
-    <option value="https://andrewswxcenter.com/links/#1">NCEP Centers</option>
-    <option value="https://andrewswxcenter.com/links/#2">Exclusive to NC</option>
-    <option value="https://andrewswxcenter.com/links/#2">Radar Data/Radar Technology/Optics</option>
+    <option value="https://andrewswxcenter.com/links/#1">Exclusive to North Carolina</option>
+    <option value="https://andrewswxcenter.com/links/#2">NCEP (National Centers for Environmental Prediction)</option>
+    <option value="https://andrewswxcenter.com/links/#2">Other Weather Websites</option>
     <option value="https://andrewswxcenter.com/links/#3">Satellite Imagery</option>
-    <option value="https://andrewswxcenter.com/links/#3">Climate Data/Prediction/Resilience</option>
-    <option value="https://andrewswxcenter.com/links/#4">Informational/Educational</option>
-    <option value="https://andrewswxcenter.com/links/#4">Other Weather Websites</option>
-    <option value="https://andrewswxcenter.com/links/#5">Numerical Weather Prediction/Mesonets</option>
-    <option value="https://andrewswxcenter.com/links/#5">Winter Weather/Winter Forecasting</option>
-    <option value="https://andrewswxcenter.com/links/#6">Tropical Weather Prediction</option>
-    <option value="https://andrewswxcenter.com/links/#6">Lightning/Atmospheric Electricity</option>
-    <option value="https://andrewswxcenter.com/links/#7">Hydrology/Drought/Tides/Inundation</option>
-    <option value="https://andrewswxcenter.com/links/#7">Environment/Energy Production/Alternative Energies</option>
-    <option value="https://andrewswxcenter.com/links/#8">Soil/Agriculture</option>
+    <option value="https://andrewswxcenter.com/links/#3">Radar</option>
+    <option value="https://andrewswxcenter.com/links/#4">Weather Information/Education/Safety</option>
+    <option value="https://andrewswxcenter.com/links/#4">Climate Data/Change/Resilience</option>
+    <option value="https://andrewswxcenter.com/links/#5">Numerical Weather Prediction</option>
+    <option value="https://andrewswxcenter.com/links/#5">Winter Weather Forecasting</option>
+    <option value="https://andrewswxcenter.com/links/#6">Severe Weather Forecasting</option>
+    <option value="https://andrewswxcenter.com/links/#6">Tropical Weather Forecasting</option>
+    <option value="https://andrewswxcenter.com/links/#7">Lightning/Atmospheric Electricity</option>
+    <option value="https://andrewswxcenter.com/links/#7">Radio/Meteorological Instrumentation</option>
+    <option value="https://andrewswxcenter.com/links/#8">Soil Science</option>
     <option value="https://andrewswxcenter.com/links/#8">Seismology/Geology</option>
-    <option value="https://andrewswxcenter.com/links/#9">Space Weather</option>
-    <option value="https://andrewswxcenter.com/links/#9">Radio/Weather Sensors &amp; Equipment</option>
-    <option value="https://andrewswxcenter.com/links/#10">Air Quality/Air Pollution/Pollen</option>
-    <option value="https://andrewswxcenter.com/links/#10">Applied Meteorology/Miscellaneous</option>
+    <option value="https://andrewswxcenter.com/links/#9">Hydrology</option>
+    <option value="https://andrewswxcenter.com/links/#9">Environmental Science</option>
+    <option value="https://andrewswxcenter.com/links/#10">Space Weather</option>
+    <option value="https://andrewswxcenter.com/links/#10">Air Quality</option>
+    <option value="https://andrewswxcenter.com/links/#11">Applied Meteorology/Climate</option>
+    <option value="https://andrewswxcenter.com/links/#11">Miscellaneous</option>
+    <option value="https://andrewswxcenter.com/links/#12">Citizen Science</option>
+    <option value="https://andrewswxcenter.com/links/#12">User Submitted</option>
+    <option value="https://andrewswxcenter.com/links/#13">Postsecondary Meteorology</option>
+    <option value="https://andrewswxcenter.com/links/#13">Data Visualization</option>
 </select>​</center>
 <br />
 <br />
@@ -71,7 +77,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 
 <br />
 <div style="font-size: 24px;">
-<u>Exclusive to NC:</u></div>
+<u>NCEP (National Centers for Environmental Prediction):</u></div>
 <a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=RAH&amp;product=AFD&amp;format=ci&amp;version=1&amp;glossary=1&amp;highlight=off" target="_blank">NWS RAH AFD (NWS Raleigh Area Forecast Discussion)</a><br />
 <a href="http://www.weather.gov/rah/" target="_blank">NWS Raleigh [KRAH]</a><br />
 <a href="http://www.weather.gov/mhx/" target="_blank">NWS Newport/Morehead City [KMHX]</a><br />
@@ -224,7 +230,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 
 <br />
 <div style="font-size: 24px;">
-<u>Informational/Educational:</u></div>
+<u> Weather Information/Education:</u></div>
 <div style="font-size: 20px;">
 <u>Meteorological Definitions/Descriptions:</u></div>
 <a href="http://w1.weather.gov/glossary/" target="_blank">NWS Glossary</a><br />
@@ -364,7 +370,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 
 <br />
 <div style="font-size: 24px;">
-<u>Numerical Weather Prediction/Mesonets:</u></div>
+<u>Numerical Weather Prediction:</u></div>
 <div style="font-size: 20px;">
 <u>Operations/Metadata/Model Schedules &amp; Status:</u></div>
 <a href="http://www.nco.ncep.noaa.gov/pmb/nwprod/prodstat/" target="_blank">Current Status of NCEP Model Production</a><br />
@@ -505,7 +511,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 
 <br />
 <div style="font-size: 24px;">
-<u>Tropical Weather Prediction:</u></div>
+<u>Severe Weather Forecasting:</u></div>
 <a href="http://www.nhc.noaa.gov/" target="_blank">National Hurricane Center</a><br />
 <a href="http://derecho.math.uwm.edu/models/" target="_blank">Hurricane Forecast Model Output (University of Milwaukee-Wisconsin)</a><br />
 <a href="http://rammb.cira.colostate.edu/ramsdis/online/tropical.asp" target="_blank">Tropical RAMSDIS Online Satellite Imagery</a><br />
@@ -542,7 +548,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 
 <br />
 <div style="font-size: 24px;">
-<u>Hydrology/Drought/Tides/Inundation:</u></div>
+<u>Lightning/Atmospheric Electricity:</u></div>
 <div style="font-size: 20px;">
 <u>Flooding/Drought:</u></div>
 <a href="http://water.weather.gov/ahps2/inundation/faq_google.php" target="_blank">Flooding and Inundation FAQs</a><br />
@@ -648,7 +654,7 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Soil/Agriculture/Forestry:</u></div>
+<u>Soil Science:</u></div>
 <a href="http://websoilsurvey.nrcs.usda.gov/app/" target="_blank">Web Soil Survey</a><br />
 <a href="https://www.soils.org/discover-soils/soil-basics/soil-types" target="_blank">Soil Types</a><br />
 <a href="http://www.cpc.ncep.noaa.gov/products/Soilmst_Monitoring/US/Soilmst/Soilmst.shtml" target="_blank">CPC Soil Moisture Monitoring</a><br />
@@ -700,7 +706,7 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Space Weather:</u></div>
+<u>Hydrology:</u></div>
 <div style="font-size: 20px;">
 <u>Solar Data/Monitoring/Eclipses:</u></div>
 <a href="http://spaceweather.com/" target="_blank">SpaceWeather.com</a><br />
@@ -801,7 +807,7 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Air Quality/Air Pollution/Pollen:</u></div>
+<u>Space Weather:</u></div>
 <a href="http://www.pollen.com/allergy-weather-forecast.asp" target="_blank">Pollen Monitoring</a><br />
 <a href="http://www.epa.gov/" target="_blank"> Environmental Protection Agency [EPA]</a><br />
 <a href="http://www.usairnet.com/weather/maps/current/north-carolina/visibility/" target="_blank">North Carolina Visibility Map</a><br />
@@ -925,13 +931,62 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <br />
 <hr />
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="11"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Applied Meteorology/Climate:</u></div>
+<br />
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="12"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Citizen Science:</u></div>
+<br />
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="13"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Postsecondary Meteorology:</u></div>
+<br />
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div style="float: right; width: 49%;">
 <a href="http://andrewswxcenter.com/Useful-Links/" name="1"></a>
 
 <br />
 <div style="font-size: 24px;">
-<u>NCEP Centers:</u></div>
+<u>Exclusive to North Carolina:</u></div>
 <a href="https://www.ncep.noaa.gov/" target="_blank">National Centers for Environmental Prediction [NCEP]</a><br />
 <a href="https://www.aviationweather.gov/" target="_blank">Aviation Weather Center [AWC]</a><br />
 <a href="https://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
@@ -962,7 +1017,7 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Radar Data/Radar Technology/Optics:</u></div>
+<u>Other Weather Websites:</u></div>
 <a href="http://radar.weather.gov/Conus/full.php" target="_blank">NWS Continental United States [CONUS] Radar Mosaic</a><br />
 <a href="http://radar.weather.gov/radar.php?rid=fcx&amp;product=N0R&amp;overlay=11101111&amp;loop=no" target="_blank">NWS (NC/VA) Radar Mosaic</a><br />
 <a href="http://radar.weather.gov/radar.php?rid=rax&amp;product=N0R&amp;overlay=11101111&amp;loop=no" target="_blank">NWS (Eastern NC/VA/SC) Radar Mosaic</a><br />
@@ -995,7 +1050,7 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Climate Data/Prediction/Resilience:</u></div>
+<u>Radar:</u></div>
 <div style="font-size: 20px;">
 <u>Climate Data/Information:</u></div>
 <a href="http://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
@@ -1124,7 +1179,7 @@ States Will Suffer More Than Others"</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Other Weather Websites:</u></div>
+<u>Climate Data/Change/Resilience:</u></div>
 <a href="http://simuawips.com/" target="_blank">simuawips.com</a><br />
 <a href="http://www.wunderground.com/" target="_blank">weatherunderground.com</a><br />
 <a href="http://coolwx.com/" target="_blank">coolwx.com</a><br />
@@ -1276,7 +1331,7 @@ States Will Suffer More Than Others"</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Winter Weather/Winter Forecasting:</u></div>
+<u>Winter Weather Forecasting:</u></div>
 <a href="http://climate.ncsu.edu/climate/winter/database" target="_blank">NC Winter Storm Database</a><br />
 <a href="http://wxcaster.com/regional_snowfall.htm" target="_blank">Earl Barker's Regional Snowfall Model Page (GFS, NAM)</a><br />
 <a href="http://www.wpc.ncep.noaa.gov/pwpf/wwd_accum_probs.php" target="_blank">WPD Probabilistic Winter Precipitation Guidance</a><br />
@@ -1436,7 +1491,7 @@ States Will Suffer More Than Others"</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Lightning/Atmospheric Electricity:</u></div>
+<u>Tropical Weather Forecasting:</u></div>
 <a href="https://lightning.nsstc.nasa.gov/" target="_blank">Lightning and Atmospheric Electricity Research from Global Hydrology Resource Center [GHRC]</a><br />
 <a href="http://thunderstorm.vaisala.com/explorer.html" target="_blank">Vaisala Lightning Explorer</a><br />
 <a href="http://www.lightningmaps.org/realtime" target="_blank">Real-Time Lightning Map</a><br />
@@ -1466,7 +1521,7 @@ States Will Suffer More Than Others"</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Environment/Energy/Alt. Energies:</u></div>
+<u>Radio/Meteorological Instrumentation:</u></div>
 <a href="http://inciweb.nwcg.gov/" target="_blank">InciWeb (Wildfires)</a><br />
 <a href="http://climate.ncsu.edu/pinemap/index.php?tool=summer_temp" target="_blank">PINEMAP Decision Support System</a><br />
 <a href="http://cwfis.cfs.nrcan.gc.ca/interactive-map" target="_blank">Canadian Wildland Fire Information System</a><br />
@@ -1618,7 +1673,7 @@ States Will Suffer More Than Others"</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Radio/Weather Sensors &amp; Equipment:</u></div>
+<u>Environmental Science:</u></div>
 <div style="font-size: 20px;">
 <u>Radio:</u></div>
 <a href="http://www.radio-locator.com/cgi-bin/finder?state=NC&amp;country=u&amp;count=20&amp;s=T&amp;sr=1&amp;is_lic=Y&amp;is_cp=Y&amp;is_unl=Y&amp;is_ful=Y&amp;is_lp=Y&amp;scope=all&amp;prev=320" target="_blank">Radio Station Finder</a><br />
@@ -1722,7 +1777,7 @@ States Will Suffer More Than Others"</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Applied Meteorology/Miscellaneous:</u></div>
+<u>Air Quality:</u></div>
 <div style="font-size: 20px;">
 <u>Applied Meteorology/Meteorological Research:</u></div>
 <a href="http://www.tornadohistoryproject.com/" target="_blank">The Tornado History Project</a><br />
@@ -1794,6 +1849,33 @@ States Will Suffer More Than Others"</a><br />
 <a href="https://bl.ocks.org/mbostock/3711652" target="_blank">Global Projection Transitions</a><br />
 <br />
 <hr />
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="11"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Miscellaneous:</u></div>
+<br />
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="12"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>User Submitted:</u></div>
+<br />
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="13"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Data Visualization:</u></div>
+<br />
+
+
+
 </div>
 <br />
 <br />
