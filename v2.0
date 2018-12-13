@@ -56,17 +56,12 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.noaa.gov/" target="_blank">National Oceanic and Atmospheric Administration [NOAA]</a><br />
 <a href="http://glossary.ametsoc.org/wiki/Main_Page" target="_blank">American Meteorological Society [AMS] Glossary of Meteorology</a><br />
 <a href="http://www.ready.noaa.gov/READYtime.php" target="_blank">UTC Time Conversion Table</a><br />
-<a href="http://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=17" target="_blank">SPC Mesoscale Analysis</a><br />
-<a href="http://www.weather.gov/crh/impact" target="_blank">Severe Weather Impact Graphics</a><br />
-<a href="https://nwschat.weather.gov/lsr/#/201404250400/201404260359/0100" target="_blank">NWSChat Local Storm Report Viewer</a><br />
-<a href="http://www.ssec.wisc.edu/data/paw/tornado.html" target="_blank">Current Tornado Warnings (PDA Animated Weather)</a><br />
 <a href="http://climate.ncsu.edu/map/" target="_blank">CRONOS Advanced Analysis Map</a><br />
 <a href="http://www.wpc.ncep.noaa.gov/medr/medr.shtml" target="_blank">Weather Prediction Center's [WPC] 4-7 Day Gridded Forecasts</a><br />
 <a href="http://www.centralcarolinaskywarn.net/" target="_blank">Central Carolina SKYWARN</a><br />
 <a href="https://library.noaa.gov/Collections/Digital-Collections/US-Daily-Weather-Maps" target="_blank">Daily Weather Map Archive (Dates back to 1871 - Must download DjVu extension to view)</a><br />
 <a href="http://www.weather.gov/briefing/" target="_blank">NWS Daily Briefing</a><br />
 <a href="http://www.cpc.noaa.gov/products/predictions/threats/threats.php" target="_blank">Current/Imminent U.S. Probabilistic Weather Hazards Outlook</a><br />
-<a href="https://mping.ou.edu/display/" target="_blank">mPing Data Display</a><br />
 <a href="https://www.weather.gov/wrn/dhh-safety" target="_blank">Weather Safety Information for Deaf and Hard of Hearing</a><br />
 <a href="http://www.time.gov/" target="_blank">The Official NIST US Time</a><br />
 <a href="https://weather.im/iembot/" target="_blank">IEMBot Anonymous Monitor - View Real-time weather alerts from the NWS</a><br />
@@ -78,27 +73,26 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <br />
 <div style="font-size: 24px;">
 <u>NCEP (National Centers for Environmental Prediction):</u></div>
-<a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=RAH&amp;product=AFD&amp;format=ci&amp;version=1&amp;glossary=1&amp;highlight=off" target="_blank">NWS RAH AFD (NWS Raleigh Area Forecast Discussion)</a><br />
-<a href="http://www.weather.gov/rah/" target="_blank">NWS Raleigh [KRAH]</a><br />
-<a href="http://www.weather.gov/mhx/" target="_blank">NWS Newport/Morehead City [KMHX]</a><br />
-<a href="http://www.weather.gov/ilm/" target="_blank">NWS Wilmington [KILM]</a><br />
-<a href="http://www.weather.gov/gsp/" target="_blank">NWS Greenville/Spartanburg, SC [KGSP]</a><br />
-<a href="http://www.weather.gov/rnk/" target="_blank">NWS Blacksburg, VA [KRNK]</a><br />
-<a href="http://climate.ncsu.edu/" target="_blank">State Climate Office of North Carolina</a><br />
-<a href="http://w2.weather.gov/climate/index.php?wfo=rah" target="_blank">Climate Database (NWS Raleigh)</a><br />
-<a href="http://coolwx.com/cgi-bin/getbufr.cgi?region=NC&amp;stn=KGSO&amp;model=gfs&amp;time=current&amp;field=prec" target="_blank">Model Forecast Precipitation for KGSO</a><br />
-<a href="http://coolwx.com/cgi-bin/getbufr.cgi?region=NC&amp;stn=KGSO&amp;model=gfs&amp;time=current&amp;field=temp" target="_blank">Model Forecast Temperature Profile for KGSO</a><br />
-<a href="https://alerts.weather.gov/cap/nc.php?x=1" target="_blank">Current Advisories, Watches, and Warnings for North Carolina</a><br />
-<a href="https://rmp.nc.gov/portal/#" target="_blank">North Carolina Risk Management Portal</a><br />
-<a href="http://www.indexmundi.com/facts/united-states/quick-facts/north-carolina/land-area#chart" target="_blank">North Carolina Counties ranked by Land Area</a><br />
-<a href="https://ncosbm.s3.amazonaws.com/s3fs-public/demog/countygrowth_cert_2015.html" target="_blank">2015 NC County Population Estimates</a><br />
-<a href="http://outagemap.duke-energy.com/ncsc/default.html" target="_blank"> Duke Energy Outage Map - Carolinas </a><br />
-<a href="http://data.nconemap.com/geoportal/catalog/main/home.page" target="_blank">NC OneMap GeoSpatial Portal</a><br />
-<a href="http://www.floodmap.net/Elevation/CountryElevationMap/?ct=US&amp;st=NC" target="_blank">Elevation Maps of Cities/Towns/Villages in North Carolina</a><br />
-<a href="http://www.basic.ncsu.edu/ncgap/FinalReport.html" target="_blank">North Carolina Gap Analysis Project [NC-GAP] Final Report</a><br />
-<a href="https://connect.ncdot.gov/resources/State-Mapping/Pages/default.aspx" target="_blank">State Mapping Resources</a><br />
-<a href="https://www.osbm.nc.gov/demog/county-estimates" target="_blank">Various County Data Estimates - NC Office of State Budget and Management [OSBM]</a><br />
-<a href="https://www.fema.gov/disasters/grid/state-tribal-government/51" target="_blank">Disaster Declarations for North Carolina</a><br />
+<a href="https://www.ncep.noaa.gov/" target="_blank">National Centers for Environmental Prediction [NCEP]</a><br />
+<a href="https://www.aviationweather.gov/" target="_blank">Aviation Weather Center [AWC]</a><br />
+<a href="https://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
+<a href="https://www.nco.ncep.noaa.gov/" target="_blank">NCEP Central Operations [NCO]</a><br />
+<a href="https://www.nhc.noaa.gov/" target="_blank">National Hurricane Center [NHC]</a><br />
+<a href="https://www.opc.ncep.noaa.gov/" target="_blank">Ocean Prediction Center [OPC]</a><br />
+<a href="https://www.spc.noaa.gov/" target="_blank">Storm Prediction Center [SPC]</a><br />
+<a href="https://www.swpc.noaa.gov/" target="_blank">Space Weather Prediction Center [SWPC]</a><br />
+<a href="https://www.wpc.ncep.noaa.gov/" target="_blank">Weather Prediction Center [WPC]</a><br />
+<a href="https://www.natice.noaa.gov/" target="_blank">National Ice Center [USNIC]</a><br />
+<a href="https://www.tsunami.gov/" target="_blank">Tsunami Warning Center [TWC]</a><br />
+<a href="https://ptwc.weather.gov/?region=1&amp;id=pacific.TSUPAC.2014.04.02.0131" target="_blank">Pacific Tsunami Warning Center [PTWC]</a><br />
+<a href="https://www.ndbc.noaa.gov/" target="_blank">National Data Buoy Center [NDBC]</a><br />
+<a href="https://www.emc.ncep.noaa.gov/" target="_blank">Environmental Modeling Center [EMC]</a><br />
+<a href="https://www.atdd.noaa.gov/" target="_blank">NOAA Atmospheric Turbulence and Diffusion Division</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -485,70 +479,174 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.weathergraphics.com/" target="_blank">WeatherGraphics.com [Paid]</a><br />
 <a href="https://sos.noaa.gov/sos-explorer/download-sos-explorer-lite/" target="_blank">Science on a Sphere [SOS] SOSx Lite 2.0 [Free]</a><br />
 <a href="https://www.giss.nasa.gov/tools/mars24/" target="_blank">Mars24 Sunclock — Time on Mars [Free]</a><br />
-<div style="font-size: 20px;">
-<u>Mesonets:</u></div>
-<a href="http://www.deos.udel.edu/" target="_blank">Delaware Environmental Observing System [DEOS]</a><br />
-<a href="http://mesowest.utah.edu/" target="_blank">MesoWest Data - Univ. of Utah</a><br />
-<a href="http://www.mesonet.ttu.edu/" target="_blank">West Texas Mesonet</a><br />
-<a href="https://mesonet.agron.iastate.edu/" target="_blank">Iowa Environmental Mesonet [IEM]</a><br />
-<a href="http://www.kymesonet.org/" target="_blank">Kentucky Mesonet</a><br />
-<a href="http://climate.ncsu.edu/econet" target="_blank">North Carolina Environment and Climate Observing Network [ECONet]</a><br />
-<a href="http://agebb.missouri.edu/weather/stations/" target="_blank">Missouri Mesonet</a><br />
-<a href="http://www.nysmesonet.org/mesonow#?stid=VOOR" target="_blank">New York State Mesonet</a><br />
-<a href="https://fawn.ifas.ufl.edu/" target="_blank">Florida Automated Weather Network [FAWN]</a><br />
-<a href="http://www.georgiaweather.net/" target="_blank">Georgia Weather Network</a><br />
-<a href="https://www.mesonet.org/" target="_blank">Oklahoma Mesonet</a><br />
-<a href="https://mesonet.unl.edu/" target="_blank">Nebraska Mesonet</a><br />
-<a href="http://mesonet.k-state.edu/" target="_blank">Kansas Mesonet</a><br />
-<a href="https://ndawn.ndsu.nodak.edu/" target="_blank">North Dakota Agricultural Weather Network [NDAWN]</a><br />
-<a href="http://agweathernetwork.com/" target="_blank">Central Minnesota Ag Weather Network</a><br />
-<a href="http://climate.umt.edu/mesonet/default.php" target="_blank">Montana Mesonet</a><br />
-<a href="http://www.jma.go.jp/en/amedas/" target="_blank">Automated Meteorological Data Acquisition System [AMeDAS] - Japan Mesonet</a><br />
-<br />
-<br />
-<hr />
+<br>
+<hr>
+
 <a href="http://andrewswxcenter.com/Useful-Links/" name="6"></a>
 
 <br />
 <div style="font-size: 24px;">
 <u>Severe Weather Forecasting:</u></div>
-<a href="http://www.nhc.noaa.gov/" target="_blank">National Hurricane Center</a><br />
-<a href="http://derecho.math.uwm.edu/models/" target="_blank">Hurricane Forecast Model Output (University of Milwaukee-Wisconsin)</a><br />
-<a href="http://rammb.cira.colostate.edu/ramsdis/online/tropical.asp" target="_blank">Tropical RAMSDIS Online Satellite Imagery</a><br />
-<a href="http://www.vastormphoto.com/hurricanecategories.htm" target="_blank">Hurricane Intensity and Categories</a><br />
-<a href="http://www.cpc.ncep.noaa.gov/products/people/wwang/cfsv2fcst/htmls/glbSSTe1Sea.html" target="_blank">CFSv2 Forecast Seasonal Sea Surface Temperature [SST] Anomalies</a><br />
-<a href="http://www.spaghettimodels.com/" target="_blank">Hurricane Spaghetti Models</a><br />
-<a href="http://www.nhc.noaa.gov/climo/" target="_blank">Tropical Cyclone Climatology</a><br />
-<a href="https://www.coast.noaa.gov/floodexposure/#/select" target="_blank">Coastal Flood Exposure Mapper</a><br />
-<a href="http://www.skeetobiteweather.com/" target="_blank">Skeetobite Weather</a><br />
-<a href="http://www.tropicalstormrisk.com/" target="_blank">tropicalstormrisk.com</a><br />
-<a href="http://moe.met.fsu.edu/tcgengifs/" target="_blank">Experimental Forecast Tropical Cyclone Genesis Potential Fields - Florida State Univ.</a><br />
-<a href="http://nchurricane.com/index.php" target="_blank">NCHurricane.com</a><br />
-<a href="http://www.emc.ncep.noaa.gov/gmb/tpm/emchurr/tcgen/" target="_blank">NCEP/EMC Cyclogenesis Tracking Page</a><br />
-<a href="http://www.atmos.albany.edu/facstaff/abrammer/maps/genesis/" target="_blank">Experimental Tracks and Probabilities - Univ. at Albany, SUNY</a><br />
-<a href="https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=3e04cf33cd9747f2b553e14b92a188b9" target="_blank">ESRI How-To: Hurricane Map</a><br />
-<a href="http://www.hurrtracker.com/Main/home.html" target="_blank">hurrtracker.com - Hurricane Tracker [Paid]</a><br />
-<a href="http://www.aoml.noaa.gov/hrd/hurdat/metadata_master.html" target="_blank">Documentation of Atlantic Tropical Cyclones Changes in HURDAT</a><br />
-<a href="http://canetalk.com/" target="_blank">CaneTalk</a><br />
-<a href="http://wind.mit.edu/~emanuel/pcmin/climo.html" target="_blank">Hurricane Climatological Potential Intensity Maps and Tables</a><br />
-<a href="https://emanuel.mit.edu/products" target="_blank">Kerry Emanuel Tropical Forecasting Products</a><br />
-<a href="http://tropical.atmos.colostate.edu/Realtime/index.php?loc=northatlantic" target="_blank">Colorado State Univ. - Real-Time North Atlantic Ocean Statistics by Storm</a><br />
-<a href="https://marine.rutgers.edu/cool/sat_data/?nothumbs=0&amp;product=sst_comp&amp;region=gulfmexico" target="_blank">Sea Surface Temperature Daily Composite - Gulf of Mexico - Rutgers Univ.</a><br />
-<a href="http://tropicalatlantic.com/recon/recon.cgi" target="_blank">Aerial Reconnaissance in the North Atlantic Basin - TropicalAtlantic</a><br />
-<a href="http://andrew.rsmas.miami.edu/bmcnoldy/tropics/radar/" target="_blank">Tropical Cyclone Radar Loops</a><br />
-<a href="https://coast.noaa.gov/hurricanes/" target="_blank">Historical Hurricane Tracks - coast.noaa.gov</a><br />
-<a href="https://slosh.nws.noaa.gov/?fbclid=IwAR1T7nHzbVrnZrpcA2jpjZOTr5soIrIvkZu_CGWL6I3UQVIvJV7os3NEeSs" target="_blank">Sea Lake and Overland Surge from Hurricanes [SLOSH] model and other resources</a><br />
-<a href="https://www.nrlmry.navy.mil/TC.html?fbclid=IwAR0SQFUVXtNkDGUmIdeRTJXnNY7L77qp7aEhfOR1Wlk5kLiVZ2kJKCNtT1w" target="_blank">Naval Research Laboratory [NRL] Tropical Cyclone Page</a><br />
-<a href="http://wxmaps.org/pix/hurpot?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Maximum Potential Hurricane Intensity Maps - Dr. Kerry Emanuel Methodology</a><br />
-<a href="https://ncics.org/portfolio/monitor/mjo/?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Tropical Monitoring Page - North Carolina Institute for Climate Sutides [NCICS]</a><br />
+<a href="http://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=17" target="_blank">SPC Mesoscale Analysis</a><br />
+<a href="http://www.weather.gov/crh/impact" target="_blank">Severe Weather Impact Graphics</a><br />
+<a href="https://nwschat.weather.gov/lsr/#/201404250400/201404260359/0100" target="_blank">NWSChat Local Storm Report Viewer</a><br />
+<a href="http://www.ssec.wisc.edu/data/paw/tornado.html" target="_blank">Current Tornado Warnings (PDA Animated Weather)</a><br />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
 
-<br />
-<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="http://andrewswxcenter.com/Useful-Links/" name="7"></a>
 
 <br />
 <div style="font-size: 24px;">
 <u>Lightning/Atmospheric Electricity:</u></div>
+<a href="https://lightning.nsstc.nasa.gov/" target="_blank">Lightning and Atmospheric Electricity Research from Global Hydrology Resource Center [GHRC]</a><br />
+<a href="http://thunderstorm.vaisala.com/explorer.html" target="_blank">Vaisala Lightning Explorer</a><br />
+<a href="http://www.lightningmaps.org/realtime" target="_blank">Real-Time Lightning Map</a><br />
+<a href="http://lightning.nsstc.nasa.gov/lma/dclma/" target="_blank">Mid-Atlantic Lightning Mapping Array</a><br />
+<a href="http://www.weatherzone.com.au/radar" target="_blank">Australian Radar and Lightning Tracker</a><br />
+<a href="http://www.ncdc.noaa.gov/thredds/catalog/lightning/catalog.html" target="_blank">Lightning Data Catalog - NCDC</a><br />
+<a href="http://nwas.org/membership/committees/remote-sensing/lightning/" target="_blank">NWA Lightning Detection Page</a><br />
+<a href="http://www.albany.edu/faculty/rgk/atm101/sprite.htm" target="_blank">Sprites, Jets, and Elves (Yes, these are real lightning terms!)</a><br />
+<a href="http://lightningsafety.com/nlsi_info/thunder2.html" target="_blank">The Science of Thunder - National Lightning Safety Institute</a><br />
+<a href="http://en.blitzortung.org/historical_maps.php?map=30" target="_blank">Blitzortung.org - Real Time Lightning Maps and Lightning Exploration</a><br />
+<a href="https://www.weather.gov/safety/lightning-fatalities" target="_blank">United States Lightning Deaths and Statistics</a><br />
+<a href="http://www.techlib.com/electronics/lightning.html" target="_blank">Information and Schematics of Lightning Detectors</a><br />
+<a href="http://weather.weatherbug.com/alerts/spark/durham-nc-27707?center=36.4389612,-81.7712402,7" target="_blank">WeatherBug "Spark"</a><br />
+<a href="https://cimmse.wordpress.com/2014/06/24/an-8-year-lightning-climatology-of-north-carolina/" target="_blank">An 8 Year Lightning Climatology of North Carolina - [CIMMSE] Collaboration for Improved Meteorology in the Mid-Atlantic and Southeast</a><br />
+<a href="http://www.nssl.noaa.gov/education/svrwx101/lightning/faq/" target="_blank">Lightning FAQ - [NSSL] National Severe Storms Laboratory</a><br />
+<a href="http://wrf.nssl.noaa.gov/ltg3_loop.html" target="_blank">4km WRF Hourly Maximum Lightning Threat Forecast Loop</a><br />
+<a href="https://www.aldis.at/en/lightning-statistics/amplitudes/" target="_blank">Lightning Amplitudes - ALDIS</a><br />
+<a href="http://www.public.asu.edu/~gbadams/lightning/lightning.html" target="_blank">Lightning - Arizona State Univ.</a><br />
+<a href="https://ghrc.nsstc.nasa.gov/hydro/details/lohrfc" target="_blank">LIS/OTD 0.5 Degree High Resolution Full Globe Lightning Climatology (HRFC)</a><br />
+<a href="https://lightning.nsstc.nasa.gov/data/data_lis-otd-climatology.html" target="_blank">TRMM-LIS/OTD Gridded Lightning Climatology Data Sets</a><br />
+<a href="http://lightning.nmt.edu/oklma/" target="_blank">Oklahoma Lightning Mapping Array [OKLMA]</a><br />
+<br />
+<br />
+<hr />
+
+
+
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="8"></a>
+<br>
+<div style="font-size: 24px;">
+<u>Soil Science:</u></div>
+<a href="http://websoilsurvey.nrcs.usda.gov/app/" target="_blank">Web Soil Survey</a><br />
+<a href="https://www.soils.org/discover-soils/soil-basics/soil-types" target="_blank">Soil Types</a><br />
+<a href="http://www.cpc.ncep.noaa.gov/products/Soilmst_Monitoring/US/Soilmst/Soilmst.shtml" target="_blank">CPC Soil Moisture Monitoring</a><br />
+<a href="http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=NC" target="_blank">North Carolina Soil Surveys by County</a><br />
+<a href="http://www.usda.gov/wps/portal/usda/usdahome" target="_blank">United States Department of Agriculture [USDA]</a><br />
+<a href="http://www.ncagr.gov/stats/index.htm" target="_blank">North Carolina Agricultural Statistics</a><br />
+<a href="https://www.nass.usda.gov/Statistics_by_State/North_Carolina/" target="_blank">USDA National Agricultural Statistics Service [NASS] (North Carolina)</a><br />
+<a href="http://www.ncagr.gov/paffairs/agreview/index.htm" target="_blank">North Carolina Agricultural Review</a><br />
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167" target="_blank">Soil Texture Triangle</a><br />
+<a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch06s06.html" target="_blank">Soil Porosity</a><br />
+<a href="http://www.southfact.com/map/" target="_blank">SouthFACT Map Viewer</a><br />
+<a href="http://cropwatch.unl.edu/" target="_blank">CropWatch - Univ. of Nebraska-Lincoln</a><br />
+<a href="https://www.cocorahs.org/MasterGardenersClimateResourcesGuide1.0/" target="_blank">CoCoRaHS Climate Resources for Master Gardeners</a><br>
+<a href="http://agroclimate.org/" target="_blank">AgroClimate</a><br />
+<a href="https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20CAROLINA" target="_blank">2016 North Carolina State Agriculture Overview - USDA/NASS</a><br />
+<a href="http://www.ncagr.gov/stats/general/overview.htm" target="_blank">North Carolina Agriculture Overview</a><br />
+<a href="https://raintreenursery.com/plantcare/plant-care/chill-hours-requirements/" target="_blank">Chill Hours - Raintree Nursery</a><br />
+<a href="http://usablight.org/" target="_blank">USAblight</a><br />
+<a href="https://www.fs.fed.us/" target="_blank">U.S. Forest Service</a><br />
+<a href="https://www.fia.fs.fed.us/" target="_blank">Forest Inventory and Analysis National Program [FIA]</a><br />
+<a href="https://www.fia.fs.fed.us/library/maps/" target="_blank">FIA Map Library</a><br />
+<a href="http://www.plantmaps.com/interactive-north-carolina-2012-usda-plant-zone-hardiness-map.php" target="_blank">North Carolina 2012 USDA Plant Hardiness Zone Map (plus several other maps)</a><br />
+<a href="https://soilseries.sc.egov.usda.gov/" target="_blank">Official Soil Series Descriptions and Series Classification</a><br />
+<a href="https://www.kudzubug.org/grower/" target="_blank">The Kudzu Bug</a><br />
+<a href="https://nassgeodata.gmu.edu/CropScape/" target="_blank">CropScape - Cropland Data Layer</a><br />
+<a href="https://nassgeodata.gmu.edu/VegScape/" target="_blank">VegScape - Vegetation Condition Explorer</a><br />
+<a href="https://www.nass.usda.gov/Charts_and_Maps/Crops_County/index.php" target="_blank">Crop Data by County - USDA/NASS</a><br />
+<a href="https://www.agcensus.usda.gov/Publications/2012/Online_Resources/County_Profiles/North_Carolina/" target="_blank">2012 NC Census of Agriculture Publications</a><br />
+<a href="https://vegdri.cr.usgs.gov/" target="_blank">Monitoring Vegetation Drought Stress - USGS</a><br />
+<a href="http://www.geotechdata.info/parameter/soil-porosity.html" target="_blank">Soil Porosity Information</a><br />
+<a href="https://www.khanacademy.org/science/biology/photosynthesis-in-plants/photorespiration--c3-c4-cam-plants/a/c3-c4-and-cam-plants-agriculture" target="_blank">What is the difference between C3 plants and C4 plants?</a><br />
+<a href="http://www.cropsreview.com/c3-plants.html" target="_blank">Plant Types: C3 Plants, C4 Plants, and CAM Plants</a><br />
+<a href="http://nsidc.org/data/smap" target="_blank">Soil Moisture Active Passive Data</a><br />
+<a href="https://www.ces.ncsu.edu/" target="_blank">North Carolina Cooperative Extension</a><br />
+<a href="https://project543.visitnc.com/longleaf-pine/" target="_blank">The World's Oldest Longleaf Pine Tree</a><br />
+<a href="https://observant.zendesk.com/hc/en-us/articles/208067926-Monitoring-Soil-Moisture-for-Optimal-Crop-Growth" target="_blank">Monitoring Soil Moisture for Optimal Crop Growth</a><br />
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/use/worldsoils/?cid=nrcs142p2_054010" target="_blank">World Soil Resources Map Index</a><br />
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=stelprdb1254424" target="_blank">Digital Soil Mapping</a><br />
+<a href="http://geospatial.wvu.edu/detailed-soil-atlas" target="_blank">Detailed Soil Atlas - West Virginia Univ.</a><br />
+<a href="http://www.fao.org/docrep/X0490E/x0490e08.htm" target="_blank">Penman-Monteith Equation for Determining Reference Evapotranspiration</a><br />
+<a href="http://162.242.222.244/resources/fote/states/map_northcarolina.asp" target="_blank">North Carolina Farmland in the Path of Development - American Farmland Trust</a><br />
+<a href="https://biodiversitymapping.org/wordpress/index.php/usa-trees/" target="_blank">Tree Biodiversity in the United States of America</a><br />
+<a href="https://weather.msfc.nasa.gov/sport/case_studies/lis_NC.html?fbclid=IwAR2PvyJNGPxvT5qvaKrf7rudmPCLmreDZM87eylgOTcsHxa0VWbY8xrfnbU" target="_blank">Short-term Prediction Research and Transition Center [SPoRT] Real-time 3km Land Information System over NC</a><br />
+<br />
+<br />
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="9"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Hydrology:</u></div>
 <div style="font-size: 20px;">
 <u>Flooding/Drought:</u></div>
 <a href="http://water.weather.gov/ahps2/inundation/faq_google.php" target="_blank">Flooding and Inundation FAQs</a><br />
@@ -650,63 +748,18 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <br />
 <hr />
-<a href="http://andrewswxcenter.com/Useful-Links/" name="8"></a>
+
+
+
+
+
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="10"></a>
 
 <br />
 <div style="font-size: 24px;">
-<u>Soil Science:</u></div>
-<a href="http://websoilsurvey.nrcs.usda.gov/app/" target="_blank">Web Soil Survey</a><br />
-<a href="https://www.soils.org/discover-soils/soil-basics/soil-types" target="_blank">Soil Types</a><br />
-<a href="http://www.cpc.ncep.noaa.gov/products/Soilmst_Monitoring/US/Soilmst/Soilmst.shtml" target="_blank">CPC Soil Moisture Monitoring</a><br />
-<a href="http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=NC" target="_blank">North Carolina Soil Surveys by County</a><br />
-<a href="http://www.usda.gov/wps/portal/usda/usdahome" target="_blank">United States Department of Agriculture [USDA]</a><br />
-<a href="http://www.ncagr.gov/stats/index.htm" target="_blank">North Carolina Agricultural Statistics</a><br />
-<a href="https://www.nass.usda.gov/Statistics_by_State/North_Carolina/" target="_blank">USDA National Agricultural Statistics Service [NASS] (North Carolina)</a><br />
-<a href="http://www.ncagr.gov/paffairs/agreview/index.htm" target="_blank">North Carolina Agricultural Review</a><br />
-<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167" target="_blank">Soil Texture Triangle</a><br />
-<a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch06s06.html" target="_blank">Soil Porosity</a><br />
-<a href="http://www.southfact.com/map/" target="_blank">SouthFACT Map Viewer</a><br />
-<a href="http://cropwatch.unl.edu/" target="_blank">CropWatch - Univ. of Nebraska-Lincoln</a><br />
-<a href="https://www.cocorahs.org/MasterGardenersClimateResourcesGuide1.0/" target="_blank">CoCoRaHS Climate Resources for Master Gardeners</a><br>
-<a href="http://agroclimate.org/" target="_blank">AgroClimate</a><br />
-<a href="https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20CAROLINA" target="_blank">2016 North Carolina State Agriculture Overview - USDA/NASS</a><br />
-<a href="http://www.ncagr.gov/stats/general/overview.htm" target="_blank">North Carolina Agriculture Overview</a><br />
-<a href="https://raintreenursery.com/plantcare/plant-care/chill-hours-requirements/" target="_blank">Chill Hours - Raintree Nursery</a><br />
-<a href="http://usablight.org/" target="_blank">USAblight</a><br />
-<a href="https://www.fs.fed.us/" target="_blank">U.S. Forest Service</a><br />
-<a href="https://www.fia.fs.fed.us/" target="_blank">Forest Inventory and Analysis National Program [FIA]</a><br />
-<a href="https://www.fia.fs.fed.us/library/maps/" target="_blank">FIA Map Library</a><br />
-<a href="http://www.plantmaps.com/interactive-north-carolina-2012-usda-plant-zone-hardiness-map.php" target="_blank">North Carolina 2012 USDA Plant Hardiness Zone Map (plus several other maps)</a><br />
-<a href="https://soilseries.sc.egov.usda.gov/" target="_blank">Official Soil Series Descriptions and Series Classification</a><br />
-<a href="https://www.kudzubug.org/grower/" target="_blank">The Kudzu Bug</a><br />
-<a href="https://nassgeodata.gmu.edu/CropScape/" target="_blank">CropScape - Cropland Data Layer</a><br />
-<a href="https://nassgeodata.gmu.edu/VegScape/" target="_blank">VegScape - Vegetation Condition Explorer</a><br />
-<a href="https://www.nass.usda.gov/Charts_and_Maps/Crops_County/index.php" target="_blank">Crop Data by County - USDA/NASS</a><br />
-<a href="https://www.agcensus.usda.gov/Publications/2012/Online_Resources/County_Profiles/North_Carolina/" target="_blank">2012 NC Census of Agriculture Publications</a><br />
-<a href="https://vegdri.cr.usgs.gov/" target="_blank">Monitoring Vegetation Drought Stress - USGS</a><br />
-<a href="http://www.geotechdata.info/parameter/soil-porosity.html" target="_blank">Soil Porosity Information</a><br />
-<a href="https://www.khanacademy.org/science/biology/photosynthesis-in-plants/photorespiration--c3-c4-cam-plants/a/c3-c4-and-cam-plants-agriculture" target="_blank">What is the difference between C3 plants and C4 plants?</a><br />
-<a href="http://www.cropsreview.com/c3-plants.html" target="_blank">Plant Types: C3 Plants, C4 Plants, and CAM Plants</a><br />
-<a href="http://nsidc.org/data/smap" target="_blank">Soil Moisture Active Passive Data</a><br />
-<a href="https://www.ces.ncsu.edu/" target="_blank">North Carolina Cooperative Extension</a><br />
-<a href="https://project543.visitnc.com/longleaf-pine/" target="_blank">The World's Oldest Longleaf Pine Tree</a><br />
-<a href="https://observant.zendesk.com/hc/en-us/articles/208067926-Monitoring-Soil-Moisture-for-Optimal-Crop-Growth" target="_blank">Monitoring Soil Moisture for Optimal Crop Growth</a><br />
-<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/use/worldsoils/?cid=nrcs142p2_054010" target="_blank">World Soil Resources Map Index</a><br />
-<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=stelprdb1254424" target="_blank">Digital Soil Mapping</a><br />
-<a href="http://geospatial.wvu.edu/detailed-soil-atlas" target="_blank">Detailed Soil Atlas - West Virginia Univ.</a><br />
-<a href="http://www.fao.org/docrep/X0490E/x0490e08.htm" target="_blank">Penman-Monteith Equation for Determining Reference Evapotranspiration</a><br />
-<a href="http://162.242.222.244/resources/fote/states/map_northcarolina.asp" target="_blank">North Carolina Farmland in the Path of Development - American Farmland Trust</a><br />
-<a href="https://biodiversitymapping.org/wordpress/index.php/usa-trees/" target="_blank">Tree Biodiversity in the United States of America</a><br />
-<a href="https://weather.msfc.nasa.gov/sport/case_studies/lis_NC.html?fbclid=IwAR2PvyJNGPxvT5qvaKrf7rudmPCLmreDZM87eylgOTcsHxa0VWbY8xrfnbU" target="_blank">Short-term Prediction Research and Transition Center [SPoRT] Real-time 3km Land Information System over NC</a><br />
-
-<br />
-<br />
-<hr />
-<a href="http://andrewswxcenter.com/Useful-Links/" name="9"></a>
-
-<br />
-<div style="font-size: 24px;">
-<u>Hydrology:</u></div>
+<u>Space Weather:</u></div>
 <div style="font-size: 20px;">
 <u>Solar Data/Monitoring/Eclipses:</u></div>
 <a href="http://spaceweather.com/" target="_blank">SpaceWeather.com</a><br />
@@ -803,140 +856,90 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://www.jpss.noaa.gov/" target="_blank">Joint Polar Satellite System [JPSS]</a><br />
 <br />
 <hr />
-<a href="http://andrewswxcenter.com/Useful-Links/" name="10"></a>
 
-<br />
-<div style="font-size: 24px;">
-<u>Space Weather:</u></div>
-<a href="http://www.pollen.com/allergy-weather-forecast.asp" target="_blank">Pollen Monitoring</a><br />
-<a href="http://www.epa.gov/" target="_blank"> Environmental Protection Agency [EPA]</a><br />
-<a href="http://www.usairnet.com/weather/maps/current/north-carolina/visibility/" target="_blank">North Carolina Visibility Map</a><br />
-<a href="http://airnow.gov/index.cfm?action=airnow.main" target="_blank">Air Quality Index [AQI] Observations from AIRNow.gov</a><br />
-<a href="http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/bulletin.txt" target="_blank">UV Index Forecast Bulletin</a><br />
-<a href="http://www.creativemethods.com/airquality/maps/north_carolina.htm" target="_blank">North Carolina Air Quality Static Map</a><br />
-<a href="https://xapps.ncdenr.org/aq/ambient/Pollen.jsp" target="_blank">Most Recent Pollen Report for Raleigh, NC</a><br />
-<a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=RAH&amp;product=AQI&amp;format=CI&amp;version=1&amp;glossary=0&amp;highlight=off" target="_blank">NWS Raleigh Air Quality Report</a><br />
-<a href="http://deq.nc.gov/about/divisions/air-quality" target="_blank">NC DEQ Air Quality</a><br />
-<a href="http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/gif_files/uv_g211.png" target="_blank">UV Index Forecast Graphic Map</a><br />
-<a href="http://aqicn.org/map/world/" target="_blank">Real-Time World Air Quality</a><br />
-<a href="http://airquality.weather.gov/" target="_blank">National Weather Service Air Quality Forecast Guidance</a><br />
-<a href="https://xapps.ncdenr.org/aq/ForecastCenter" target="_blank">North Carolina Air Quality Forecast Center</a><br />
-<a href="https://www3.epa.gov/airdata/" target="_blank">AirData Mart Access - EPA</a><br />
-<a href="http://www.aaaai.org/global/nab-pollen-counts/south-atlantic-region" target="_blank">NAB: Pollen &amp; Spore Levels - South Atlantic</a><br />
-<a href="https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions" target="_blank">Sources of Greenhouse Gas Emissions - EPA</a><br />
-<a href="http://alg.umbc.edu/usaq/" target="_blank">The Smog Blog - U.S. Air Quality</a><br />
-<a href="http://www2.ncair.org/airaware/forecast/Models/" target="_blank">NC DAQ CMAQ Forecasts</a><br />
-<a href="https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot" target="_blank">Outdoor Air Quality Data - Multiyear Tile Plot</a><br />
-<a href="https://www.epa.gov/indoor-air-quality-iaq/protect-indoor-air-quality-your-home" target="_blank">Indoor Air Quality in Your Home</a><br />
-<a href="https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=5f239fd3e72f424f98ef3d5def547eb5&amp;extent=-146.2334,13.1913,-46.3896,56.5319" target="_blank">AirData Air Quality Monitors Mapper</a><br />
-<a href="https://www.star.nesdis.noaa.gov/smcd/spb/aq/index.php?product_id=0" target="_blank">Infusing Satellite Data into Environmental Applications [IDEA]</a><br />
-<a href="http://deq.nc.gov/about/divisions/air-quality/social-media-air-quality-notifications/enviroflash" target="_blank">EnviroFlash Air Quality Forecast Subscription [Free]</a><br />
-<a href="http://weather.hawaii.edu/vmap/hysplit/animate.cgi?domain=bigis&variable=so2&ftype=ensmax01" target="_blank">Sulfur Dioxide Concentration Monitoring Model from Univ. of Hawai'i at Manoa</a><br />
-<a href="https://vsc-ash.wr.usgs.gov/ashgui/#/publicruns" target="_blank">Ash3d Public Run Results (North/South American Volcano Ash Cloud Models)</a><br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<div style="font-size: 23px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hr />
+
+
+
+
+
 
 <a href="http://andrewswxcenter.com/Useful-Links/" name="11"></a>
 
 <br />
 <div style="font-size: 24px;">
 <u>Applied Meteorology/Climate:</u></div>
+<div style="font-size: 20px;">
+<u>Applied Meteorology/Meteorological Research:</u></div>
+<a href="http://www.tornadohistoryproject.com/" target="_blank">The Tornado History Project</a><br />
+<a href="http://www.nssl.noaa.gov/projects/vortexse/" target="_blank"> National Severe Storms Laboratory [NSSL] - Verification of the Origins of Rotation in Tornadoes Experiment-Southeast [VORTEX-SE]</a><br />
+<a href="http://www.estofex.org/" target="_blank">European Storm Forecast Experiment [ESTOFEX]</a><br />
+<a href="http://sunsetwx.com/" target="_blank">sunsetwx.com - How good will your sunrise/sunset be?</a><br />
+<a href="http://www.sercc.com/hhvt/" target="_blank">NC Heat Health Vulnerability Tool</a><br />
+<a href="https://www.ncdc.noaa.gov/sotc/tornadoes/201104" target="_blank">Summary of the April 2011 Tornadoes</a><br />
+<a href="http://cswr.org/contents/twirl.php" target="_blank">Tornadic Winds: In-situ and Radar observation at Low levels [TWIRL] Research</a><br />
+<a href="https://www.epa.gov/heat-islands/heat-island-community-actions-database" target="_blank">Heat Island Community Actions Database</a><br />
+<a href="http://nssl.noaa.gov/projects/" target="_blank">National Severe Storms Laboratory [NSSL] Projects Overview</a><br />
+<a href="http://www.nssl.noaa.gov/projects/pecan/" target="_blank">PECAN: Plains Elevated Convection at Night (Former NSSL Project)</a><br />
+<a href="https://swco-ir.tdl.org/swco-ir/handle/10605/298" target="_blank">Fujita, Dr. Tetsuya Theodore "Ted", Papers, 1896-2003 and undated</a><br />
+<a href="https://www.slu.edu/arts-and-sciences/earth-atmospheric-sciences/research-centers/quantum-weather.php" target="_blank">Quantum Weather</a><br />
+
+<div style="font-size: 20px;">
+<u>Meteorology in the News:</u></div>
+<a href="https://www.congress.gov/bill/115th-congress/house-bill/353/text" target="_blank">H.R.353 - Weather Research and Forecasting Innovation Act of 2017</a><br />
+
+<div style="font-size: 20px;">
+<u>Miscellaneous:</u></div>
+<a href="https://www.weather.gov/bro/mapcolors" target="_blank">All NWS Warnings and their colors</a><br />
+<a href="http://www.wdssii.org/" target="_blank">Warning Decision Support System - Integrated Information</a><br />
+<a href="https://geoguessr.com/" target="_blank">GeoGuessr</a><br />
+<a href="http://www.faa.gov/airports/runway_safety/diagrams/" target="_blank">FAA Airport Diagrams</a><br />
+<a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2015/02/13/quiz-can-you-identify-the-airports-in-these-minimalist-maps/" target="_blank">"Identify the Airport Diagram" Quiz</a><br />
+<a href="http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium" target="_blank">WebGL Fluid Experiment</a><br />
+<a href="http://www.spc.noaa.gov/faq/tornado/f5torns.html" target="_blank">F5 and EF5 Tornadoes of the United States (Since 1950)</a><br />
+<a href="https://www.youtube.com/watch?v=H0W4T1FCf_A" target="_blank">Hail Roar</a><br />
+<a href="http://weather.cod.edu/text/" target="_blank">Next Generation Weather Lab - Text Products</a><br />
+<a href="http://labs.minutelabs.io/Mass-Energy-Scale/" target="_blank">Mass-Energy Scale Explanation - (E=mc^2 Explained)</a><br />
+<a href="http://www.daftlogic.com/projects-google-maps-distance-calculator.htm" target="_blank">Google Distance Calculator</a><br />
+<a href="http://aviationweather.gov/adds/metars/" target="_blank">Aviation Digital Data Service - METARs</a><br />
+<a href="http://kamala.cod.edu/svr/" target="_blank">Severe Weather Warnings Page - College of DuPage Meteorology​</a><br />
+<a href="http://www.flightradar24.com/ABX403/2d91738" target="_blank">FlightRadar24 (Live air traffic)</a><br />
+<a href="http://www.wdtb.noaa.gov/tools/BUFKIT/" target="_blank">NWS BUFKIT Version 15.11.2</a><br />
+<a href="http://knowbeforeyoufly.org/air-space-map/" target="_blank">United States Restricted Air Space Map</a><br />
+<a href="http://www.oldmapsonline.org/" target="_blank">Old Maps Online</a><br />
+<a href="https://www.airnav.com/" target="_blank">AirNav.com - Aviation Information</a><br />
+<a href="http://live.bigbrainsmedia.com/" target="_blank">WeatherBrains</a><br />
+<a href="http://www.findlatitudeandlongitude.com/antipode-map/#.WAFadPkrJhF" target="_blank">Antipodes Map [Find exact opposite points on the planet]</a><br />
+<a href="http://www.asm.transitdocs.com/" target="_blank">Amtrak/VIA Real Time Location Map</a><br />
+<a href="http://narukawa-lab.jp/wp-content/uploads/2016/02/f5c88809c713a8ad3188e1bc123a0728-1.png" target="_blank">Idealized world map with true size proportions</a><br />
+<a href="http://maps.huge.info/zip.htm" target="_blank">U.S. Zip-code Map</a><br />
+<a href="http://senseable.mit.edu/treepedia" target="_blank">Treepedia</a><br />
+<a href="https://www.google.org/crisismap/weather_and_events" target="_blank">Google Crisis Map</a><br />
+<a href="https://www.disasterscharter.org/web/guest/home" target="_blank">International Charter Space &amp; Major Disasters</a><br />
+<a href="http://globeofbirdmigration.com/" target="_blank">The Globe of Bird Migration</a><br />
+<a href="https://www.shipmap.org/" target="_blank">ShipMap - Global Cargo Ship Visualization</a><br />
+<a href="https://www.gfdl.noaa.gov/fv3/" target="_blank">FV3: Finite-Volume Cubed-Sphere Dynamical Core</a><br />
+<a href="http://dinosaurpictures.org/ancient-earth/#200" target="_blank">Ancient Earth Globe</a><br />
+<a href="http://discovery.dartmouth.edu/megaregions/" target="_blank">The Megaregions of the United States</a><br />
+<a href="http://www.gis.osu.edu/misc/map-projections/" target="_blank">Different Scales and Projections of Earth's Surface</a><br />
+<a href="http://www.geo.utexas.edu/courses/371c/Labs/GIS_Workshop/Spatial_Analysis_An_Antarctic_Example.htm" target="_blank">Spatial Analysis of Raster data - An Antarctic Example</a><br />
+<a href="http://inrix.com/scorecard/" target="_blank">INRIX Global Traffic Scorecard</a><br />
+<a href="http://www.malmeroads.net/ncfutints/index.html" target="_blank">North Carolina's New and Future Interstates</a><br />
+<a href="http://www.enchantedlearning.com/usa/states/area.shtml" target="_blank">Total Land/Water Area and Ranking of U.S. States</a><br />
+<a href="https://www.census.gov/geo/reference/ua/urban-rural-2010.html" target="_blank">2010 Census Urban and Rural Classification and Urban Area Criteria</a><br />
+<a href="http://www.infrastructurereportcard.org/" target="_blank">2017 Infrastructure Report Card</a><br />
+<a href="https://www.boem.gov/Gulf-of-Mexico-Deepwater-Bathymetry/" target="_blank">BOEM Northern Gulf of Mexico Deepwater Bathymetry Grid from 3D Seismic</a><br />
+<a href="https://www.daftlogic.com/sandbox-google-maps-find-altitude.htm" target="_blank">DaftLogic Google Maps Find Altitude</a><br />
+<a href="https://observer.globe.gov/science-connections/eclipse2017" target="_blank">How "Cool" is the Eclipse?</a><br />
+<a href="http://nc-biodiversity.com/" target="_blank">North Carolina Biodiversity Project</a><br />
+<a href="http://www.buildyourownearth.com/" target="_blank">Build Your Own Earth - Univ. of Manchester</a><br />
+<a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank">MarineTraffic: Global Ship Tracking Intelligence</a><br />
+<a href="https://www.geotab.com/americas-quietest-routes/" target="_blank">America's Quietest Roads</a><br />
+<a href="http://www.joshuastevens.net/portfolio/" target="_blank">Meteorological and Climatological Data Visualization - Joshua Stevens</a><br />
+<a href="https://www.weather.gov/oun/stormanxiety" target="_blank">Storm Stress and Anxiety</a><br />
+<a href="https://bl.ocks.org/mbostock/3711652" target="_blank">Global Projection Transitions</a><br />
+<br />
+<hr />
 <br />
 
 
@@ -987,26 +990,27 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Exclusive to North Carolina:</u></div>
-<a href="https://www.ncep.noaa.gov/" target="_blank">National Centers for Environmental Prediction [NCEP]</a><br />
-<a href="https://www.aviationweather.gov/" target="_blank">Aviation Weather Center [AWC]</a><br />
-<a href="https://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
-<a href="https://www.nco.ncep.noaa.gov/" target="_blank">NCEP Central Operations [NCO]</a><br />
-<a href="https://www.nhc.noaa.gov/" target="_blank">National Hurricane Center [NHC]</a><br />
-<a href="https://www.opc.ncep.noaa.gov/" target="_blank">Ocean Prediction Center [OPC]</a><br />
-<a href="https://www.spc.noaa.gov/" target="_blank">Storm Prediction Center [SPC]</a><br />
-<a href="https://www.swpc.noaa.gov/" target="_blank">Space Weather Prediction Center [SWPC]</a><br />
-<a href="https://www.wpc.ncep.noaa.gov/" target="_blank">Weather Prediction Center [WPC]</a><br />
-<a href="https://www.natice.noaa.gov/" target="_blank">National Ice Center [USNIC]</a><br />
-<a href="https://www.tsunami.gov/" target="_blank">Tsunami Warning Center [TWC]</a><br />
-<a href="https://ptwc.weather.gov/?region=1&amp;id=pacific.TSUPAC.2014.04.02.0131" target="_blank">Pacific Tsunami Warning Center [PTWC]</a><br />
-<a href="https://www.ndbc.noaa.gov/" target="_blank">National Data Buoy Center [NDBC]</a><br />
-<a href="https://www.emc.ncep.noaa.gov/" target="_blank">Environmental Modeling Center [EMC]</a><br />
-<a href="https://www.atdd.noaa.gov/" target="_blank">NOAA Atmospheric Turbulence and Diffusion Division</a><br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=RAH&amp;product=AFD&amp;format=ci&amp;version=1&amp;glossary=1&amp;highlight=off" target="_blank">NWS RAH AFD (NWS Raleigh Area Forecast Discussion)</a><br />
+<a href="http://www.weather.gov/rah/" target="_blank">NWS Raleigh [KRAH]</a><br />
+<a href="http://www.weather.gov/mhx/" target="_blank">NWS Newport/Morehead City [KMHX]</a><br />
+<a href="http://www.weather.gov/ilm/" target="_blank">NWS Wilmington [KILM]</a><br />
+<a href="http://www.weather.gov/gsp/" target="_blank">NWS Greenville/Spartanburg, SC [KGSP]</a><br />
+<a href="http://www.weather.gov/rnk/" target="_blank">NWS Blacksburg, VA [KRNK]</a><br />
+<a href="http://climate.ncsu.edu/" target="_blank">State Climate Office of North Carolina</a><br />
+<a href="http://w2.weather.gov/climate/index.php?wfo=rah" target="_blank">Climate Database (NWS Raleigh)</a><br />
+<a href="http://coolwx.com/cgi-bin/getbufr.cgi?region=NC&amp;stn=KGSO&amp;model=gfs&amp;time=current&amp;field=prec" target="_blank">Model Forecast Precipitation for KGSO</a><br />
+<a href="http://coolwx.com/cgi-bin/getbufr.cgi?region=NC&amp;stn=KGSO&amp;model=gfs&amp;time=current&amp;field=temp" target="_blank">Model Forecast Temperature Profile for KGSO</a><br />
+<a href="https://alerts.weather.gov/cap/nc.php?x=1" target="_blank">Current Advisories, Watches, and Warnings for North Carolina</a><br />
+<a href="https://rmp.nc.gov/portal/#" target="_blank">North Carolina Risk Management Portal</a><br />
+<a href="http://www.indexmundi.com/facts/united-states/quick-facts/north-carolina/land-area#chart" target="_blank">North Carolina Counties ranked by Land Area</a><br />
+<a href="https://ncosbm.s3.amazonaws.com/s3fs-public/demog/countygrowth_cert_2015.html" target="_blank">2015 NC County Population Estimates</a><br />
+<a href="http://outagemap.duke-energy.com/ncsc/default.html" target="_blank"> Duke Energy Outage Map - Carolinas </a><br />
+<a href="http://data.nconemap.com/geoportal/catalog/main/home.page" target="_blank">NC OneMap GeoSpatial Portal</a><br />
+<a href="http://www.floodmap.net/Elevation/CountryElevationMap/?ct=US&amp;st=NC" target="_blank">Elevation Maps of Cities/Towns/Villages in North Carolina</a><br />
+<a href="http://www.basic.ncsu.edu/ncgap/FinalReport.html" target="_blank">North Carolina Gap Analysis Project [NC-GAP] Final Report</a><br />
+<a href="https://connect.ncdot.gov/resources/State-Mapping/Pages/default.aspx" target="_blank">State Mapping Resources</a><br />
+<a href="https://www.osbm.nc.gov/demog/county-estimates" target="_blank">Various County Data Estimates - NC Office of State Budget and Management [OSBM]</a><br />
+<a href="https://www.fema.gov/disasters/grid/state-tribal-government/51" target="_blank">Disaster Declarations for North Carolina</a><br />
 <br />
 <br />
 <br />
@@ -1018,6 +1022,49 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Other Weather Websites:</u></div>
+<a href="http://simuawips.com/" target="_blank">simuawips.com</a><br />
+<a href="http://www.wunderground.com/" target="_blank">weatherunderground.com</a><br />
+<a href="http://coolwx.com/" target="_blank">coolwx.com</a><br />
+<a href="http://www.wxcaster.com//weather.php" target="_blank">wxcaster.com</a><br />
+<a href="http://www.intellicast.com/" target="_blank">intellicast.com</a><br />
+<a href="http://weather.weatherbug.com/" target="_blank">weatherburg.com</a><br />
+<a href="http://www.wright-weather.com/" target="_blank">wright-weather.com</a><br />
+<a href="http://www.baronweather.com/" target="_blank">baronweather.com</a><br />
+<a href="http://www.almanac.com/" target="_blank">Old Farmer's Almanac</a><br />
+<a href="http://weatherspark.com/#!dashboard;q=Greensboro%2C%20North%20Carolina%2C%20United%20States" target="_blank">WeatherSpark</a><br />
+<a href="https://stormtrack.org/" target="_blank">Stormtrack Forums &amp; Discussion Boards</a><br />
+<a href="http://www.iweathernet.com/" target="_blank">iWeatherNet.com</a><br />
+<a href="http://www.iweathernet.com/snow/snow-depth-and-percent-coverage" target="_blank">iWeatherNet.com Snow Depth and Percent Coverage Maps</a><br />
+<a href="http://www.weatheronline.co.uk/" target="_blank">weatheronline.co.uk</a><br />
+<a href="http://severestudios.com/" target="_blank">severestudios.com</a><br />
+<a href="http://www.greatlakes.salsite.com/high_CAPE_1.html" target="_blank">Great Lakes Weather - Historical Weather and Weather Links Page</a><br />
+<a href="http://www.theweatherprediction.com/" target="_blank">theweatherprediction.com</a><br />
+<a href="http://oplao.com/en_US/weather/Raleigh_US" target="_blank">Oplao Weather</a><br />
+<a href="https://www.weatherstem.com/" target="_blank">WeatherSTEM</a><br />
+<a href="https://www.ventusky.com/?p=34.3%3B-70.7%3B4&amp;l=freezing" target="_blank">VentuSky</a><br />
+<a href="https://darksky.net/forecast/" target="_blank">Dark Sky Web App</a><br />
+<a href="https://www.earthnetworks.com/" target="_blank">Earth Networks Realtime Data Viewer</a><br />
+<a href="https://www.windyty.com/?35.746,-78.724,6" target="_blank"> Windyty - Wind Map and Forecast</a><br />
+<a href="http://hint.fm/wind/">Live Wind Map</a><br />
+<a href="http://www.iwindsurf.com/windandwhere.iws?regionID=111" target="_blank">iWindsurf.com</a><br />
+<a href="http://earth.nullschool.net/" target="_blank">earth.nullschool.net</a><br />
+<a href="http://southernwx.com/community/">SouthernWX Community Forum</a><br />
+<a href="http://talkweather.com/index.php" target="_blank">TalkWeather Community Forum</a><br />
+<a href="https://www.youtube.com/channel/UCc9YCB6iO5jmBtQ6yALZMiQ" target="_blank">WeatherDecoded</a><br />
+<a href="https://www.forecastclash.com/" target="_blank">Forecast Clash - Crowdsourced Weather Modeling</a><br />
+<a href="http://wxweb.meteostar.com/" target="_blank">MeteoStar Weather Products</a><br />
+<a href="https://weather.us/model-charts/euro/usa" target="_blank">U.S. Model Charts</a><br />
+<a href="http://www.ogimet.com/" target="_blank">OGIMET</a><br />
+<a href="https://weather.us/" target="_blank">weather.us</a><br />
+<br>
+<hr
+<br />
+<br />
+<a href="http://andrewswxcenter.com/Useful-Links/" name="3"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Radar:</u></div>
 <a href="http://radar.weather.gov/Conus/full.php" target="_blank">NWS Continental United States [CONUS] Radar Mosaic</a><br />
 <a href="http://radar.weather.gov/radar.php?rid=fcx&amp;product=N0R&amp;overlay=11101111&amp;loop=no" target="_blank">NWS (NC/VA) Radar Mosaic</a><br />
 <a href="http://radar.weather.gov/radar.php?rid=rax&amp;product=N0R&amp;overlay=11101111&amp;loop=no" target="_blank">NWS (Eastern NC/VA/SC) Radar Mosaic</a><br />
@@ -1043,14 +1090,24 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://arrc.ou.edu/radar_px1000.html" target="_blank">Polarimetric X-band 1000 Overview - Univ. of Oklahoma</a><br />
 <a href="https://www.weather.gov/media/lmk/soo/SpectrumWidth_Operational_Use.pdf" target="_blank">Operational Uses for Spectrum Width data</a><br />
 <br />
-<br />
-<br />
-<hr />
-<a href="http://andrewswxcenter.com/Useful-Links/" name="3"></a>
+<br><hr>
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="4"></a>
 
 <br />
 <div style="font-size: 24px;">
-<u>Radar:</u></div>
+<u>Climate Data/Change/Resilience:</u></div>
 <div style="font-size: 20px;">
 <u>Climate Data/Information:</u></div>
 <a href="http://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
@@ -1172,89 +1229,8 @@ States Will Suffer More Than Others"</a><br />
 <a href="https://350.org/" target="_blank">350.org</a><br />
 <a href="https://www.drawdown.org/solutions-summary-by-rank" target="_blank">Summary of Carbon Drawdown Solutions by Overall Efficacy</a><br />
 <a href="http://globalwarmingindex.org/" target="_blank">Current Global Warming Index</a><br />
-
 <br />
 <hr />
-<a href="http://andrewswxcenter.com/Useful-Links/" name="4"></a>
-
-<br />
-<div style="font-size: 24px;">
-<u>Climate Data/Change/Resilience:</u></div>
-<a href="http://simuawips.com/" target="_blank">simuawips.com</a><br />
-<a href="http://www.wunderground.com/" target="_blank">weatherunderground.com</a><br />
-<a href="http://coolwx.com/" target="_blank">coolwx.com</a><br />
-<a href="http://www.wxcaster.com//weather.php" target="_blank">wxcaster.com</a><br />
-<a href="http://www.intellicast.com/" target="_blank">intellicast.com</a><br />
-<a href="http://weather.weatherbug.com/" target="_blank">weatherburg.com</a><br />
-<a href="http://www.wright-weather.com/" target="_blank">wright-weather.com</a><br />
-<a href="http://www.baronweather.com/" target="_blank">baronweather.com</a><br />
-<a href="http://www.almanac.com/" target="_blank">Old Farmer's Almanac</a><br />
-<a href="http://weatherspark.com/#!dashboard;q=Greensboro%2C%20North%20Carolina%2C%20United%20States" target="_blank">WeatherSpark</a><br />
-<a href="https://stormtrack.org/" target="_blank">Stormtrack Forums &amp; Discussion Boards</a><br />
-<a href="http://www.iweathernet.com/" target="_blank">iWeatherNet.com</a><br />
-<a href="http://www.iweathernet.com/snow/snow-depth-and-percent-coverage" target="_blank">iWeatherNet.com Snow Depth and Percent Coverage Maps</a><br />
-<a href="http://www.weatheronline.co.uk/" target="_blank">weatheronline.co.uk</a><br />
-<a href="http://severestudios.com/" target="_blank">severestudios.com</a><br />
-<a href="http://www.greatlakes.salsite.com/high_CAPE_1.html" target="_blank">Great Lakes Weather - Historical Weather and Weather Links Page</a><br />
-<a href="http://www.theweatherprediction.com/" target="_blank">theweatherprediction.com</a><br />
-<a href="http://oplao.com/en_US/weather/Raleigh_US" target="_blank">Oplao Weather</a><br />
-<a href="https://www.weatherstem.com/" target="_blank">WeatherSTEM</a><br />
-<a href="https://www.ventusky.com/?p=34.3%3B-70.7%3B4&amp;l=freezing" target="_blank">VentuSky</a><br />
-<a href="https://darksky.net/forecast/" target="_blank">Dark Sky Web App</a><br />
-<a href="https://www.earthnetworks.com/" target="_blank">Earth Networks Realtime Data Viewer</a><br />
-<a href="https://www.windyty.com/?35.746,-78.724,6" target="_blank"> Windyty - Wind Map and Forecast</a><br />
-<a href="http://hint.fm/wind/">Live Wind Map</a><br />
-<a href="http://www.iwindsurf.com/windandwhere.iws?regionID=111" target="_blank">iWindsurf.com</a><br />
-<a href="http://earth.nullschool.net/" target="_blank">earth.nullschool.net</a><br />
-<a href="http://southernwx.com/community/">SouthernWX Community Forum</a><br />
-<a href="http://talkweather.com/index.php" target="_blank">TalkWeather Community Forum</a><br />
-<a href="https://www.youtube.com/channel/UCc9YCB6iO5jmBtQ6yALZMiQ" target="_blank">WeatherDecoded</a><br />
-<a href="https://www.forecastclash.com/" target="_blank">Forecast Clash - Crowdsourced Weather Modeling</a><br />
-<a href="http://wxweb.meteostar.com/" target="_blank">MeteoStar Weather Products</a><br />
-<a href="https://weather.us/model-charts/euro/usa" target="_blank">U.S. Model Charts</a><br />
-<a href="http://www.ogimet.com/" target="_blank">OGIMET</a><br />
-<a href="https://weather.us/" target="_blank">weather.us</a><br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -1281,51 +1257,6 @@ States Will Suffer More Than Others"</a><br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <hr />
 <a href="http://andrewswxcenter.com/Useful-Links/" name="5"></a>
 
@@ -1345,7 +1276,7 @@ States Will Suffer More Than Others"</a><br />
 <a href="http://www.nohrsc.noaa.gov/nh_snowcover/" target="_blank">U.S. and Northern Hemisphere Snow Cover</a><br />
 <a href="http://satepsanone.nesdis.noaa.gov/southern_hemisphere_multisensor.html" target="_blank">Multisensor Snow/Ice Cover Maps: Southern Hemisphere</a><br />
 <a href="https://www.weather.gov/rah/winter" target="_blank">NWS Raleigh Winter Weather Page</a><br />
-<br />
+<a href="https://mping.ou.edu/display/" target="_blank">mPing Data Display</a><br />
 <br />
 <br />
 <br />
@@ -1492,36 +1423,228 @@ States Will Suffer More Than Others"</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Tropical Weather Forecasting:</u></div>
-<a href="https://lightning.nsstc.nasa.gov/" target="_blank">Lightning and Atmospheric Electricity Research from Global Hydrology Resource Center [GHRC]</a><br />
-<a href="http://thunderstorm.vaisala.com/explorer.html" target="_blank">Vaisala Lightning Explorer</a><br />
-<a href="http://www.lightningmaps.org/realtime" target="_blank">Real-Time Lightning Map</a><br />
-<a href="http://lightning.nsstc.nasa.gov/lma/dclma/" target="_blank">Mid-Atlantic Lightning Mapping Array</a><br />
-<a href="http://www.weatherzone.com.au/radar" target="_blank">Australian Radar and Lightning Tracker</a><br />
-<a href="http://www.ncdc.noaa.gov/thredds/catalog/lightning/catalog.html" target="_blank">Lightning Data Catalog - NCDC</a><br />
-<a href="http://nwas.org/membership/committees/remote-sensing/lightning/" target="_blank">NWA Lightning Detection Page</a><br />
-<a href="http://www.albany.edu/faculty/rgk/atm101/sprite.htm" target="_blank">Sprites, Jets, and Elves (Yes, these are real lightning terms!)</a><br />
-<a href="http://lightningsafety.com/nlsi_info/thunder2.html" target="_blank">The Science of Thunder - National Lightning Safety Institute</a><br />
-<a href="http://en.blitzortung.org/historical_maps.php?map=30" target="_blank">Blitzortung.org - Real Time Lightning Maps and Lightning Exploration</a><br />
-<a href="https://www.weather.gov/safety/lightning-fatalities" target="_blank">United States Lightning Deaths and Statistics</a><br />
-<a href="http://www.techlib.com/electronics/lightning.html" target="_blank">Information and Schematics of Lightning Detectors</a><br />
-<a href="http://weather.weatherbug.com/alerts/spark/durham-nc-27707?center=36.4389612,-81.7712402,7" target="_blank">WeatherBug "Spark"</a><br />
-<a href="https://cimmse.wordpress.com/2014/06/24/an-8-year-lightning-climatology-of-north-carolina/" target="_blank">An 8 Year Lightning Climatology of North Carolina - [CIMMSE] Collaboration for Improved Meteorology in the Mid-Atlantic and Southeast</a><br />
-<a href="http://www.nssl.noaa.gov/education/svrwx101/lightning/faq/" target="_blank">Lightning FAQ - [NSSL] National Severe Storms Laboratory</a><br />
-<a href="http://wrf.nssl.noaa.gov/ltg3_loop.html" target="_blank">4km WRF Hourly Maximum Lightning Threat Forecast Loop</a><br />
-<a href="https://www.aldis.at/en/lightning-statistics/amplitudes/" target="_blank">Lightning Amplitudes - ALDIS</a><br />
-<a href="http://www.public.asu.edu/~gbadams/lightning/lightning.html" target="_blank">Lightning - Arizona State Univ.</a><br />
-<a href="https://ghrc.nsstc.nasa.gov/hydro/details/lohrfc" target="_blank">LIS/OTD 0.5 Degree High Resolution Full Globe Lightning Climatology (HRFC)</a><br />
-<a href="https://lightning.nsstc.nasa.gov/data/data_lis-otd-climatology.html" target="_blank">TRMM-LIS/OTD Gridded Lightning Climatology Data Sets</a><br />
-<a href="http://lightning.nmt.edu/oklma/" target="_blank">Oklahoma Lightning Mapping Array [OKLMA]</a><br />
-
-<br />
+<a href="http://www.nhc.noaa.gov/" target="_blank">National Hurricane Center</a><br />
+<a href="http://derecho.math.uwm.edu/models/" target="_blank">Hurricane Forecast Model Output (University of Milwaukee-Wisconsin)</a><br />
+<a href="http://rammb.cira.colostate.edu/ramsdis/online/tropical.asp" target="_blank">Tropical RAMSDIS Online Satellite Imagery</a><br />
+<a href="http://www.vastormphoto.com/hurricanecategories.htm" target="_blank">Hurricane Intensity and Categories</a><br />
+<a href="http://www.cpc.ncep.noaa.gov/products/people/wwang/cfsv2fcst/htmls/glbSSTe1Sea.html" target="_blank">CFSv2 Forecast Seasonal Sea Surface Temperature [SST] Anomalies</a><br />
+<a href="http://www.spaghettimodels.com/" target="_blank">Hurricane Spaghetti Models</a><br />
+<a href="http://www.nhc.noaa.gov/climo/" target="_blank">Tropical Cyclone Climatology</a><br />
+<a href="https://www.coast.noaa.gov/floodexposure/#/select" target="_blank">Coastal Flood Exposure Mapper</a><br />
+<a href="http://www.skeetobiteweather.com/" target="_blank">Skeetobite Weather</a><br />
+<a href="http://www.tropicalstormrisk.com/" target="_blank">tropicalstormrisk.com</a><br />
+<a href="http://moe.met.fsu.edu/tcgengifs/" target="_blank">Experimental Forecast Tropical Cyclone Genesis Potential Fields - Florida State Univ.</a><br />
+<a href="http://nchurricane.com/index.php" target="_blank">NCHurricane.com</a><br />
+<a href="http://www.emc.ncep.noaa.gov/gmb/tpm/emchurr/tcgen/" target="_blank">NCEP/EMC Cyclogenesis Tracking Page</a><br />
+<a href="http://www.atmos.albany.edu/facstaff/abrammer/maps/genesis/" target="_blank">Experimental Tracks and Probabilities - Univ. at Albany, SUNY</a><br />
+<a href="https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=3e04cf33cd9747f2b553e14b92a188b9" target="_blank">ESRI How-To: Hurricane Map</a><br />
+<a href="http://www.hurrtracker.com/Main/home.html" target="_blank">hurrtracker.com - Hurricane Tracker [Paid]</a><br />
+<a href="http://www.aoml.noaa.gov/hrd/hurdat/metadata_master.html" target="_blank">Documentation of Atlantic Tropical Cyclones Changes in HURDAT</a><br />
+<a href="http://canetalk.com/" target="_blank">CaneTalk</a><br />
+<a href="http://wind.mit.edu/~emanuel/pcmin/climo.html" target="_blank">Hurricane Climatological Potential Intensity Maps and Tables</a><br />
+<a href="https://emanuel.mit.edu/products" target="_blank">Kerry Emanuel Tropical Forecasting Products</a><br />
+<a href="http://tropical.atmos.colostate.edu/Realtime/index.php?loc=northatlantic" target="_blank">Colorado State Univ. - Real-Time North Atlantic Ocean Statistics by Storm</a><br />
+<a href="https://marine.rutgers.edu/cool/sat_data/?nothumbs=0&amp;product=sst_comp&amp;region=gulfmexico" target="_blank">Sea Surface Temperature Daily Composite - Gulf of Mexico - Rutgers Univ.</a><br />
+<a href="http://tropicalatlantic.com/recon/recon.cgi" target="_blank">Aerial Reconnaissance in the North Atlantic Basin - TropicalAtlantic</a><br />
+<a href="http://andrew.rsmas.miami.edu/bmcnoldy/tropics/radar/" target="_blank">Tropical Cyclone Radar Loops</a><br />
+<a href="https://coast.noaa.gov/hurricanes/" target="_blank">Historical Hurricane Tracks - coast.noaa.gov</a><br />
+<a href="https://slosh.nws.noaa.gov/?fbclid=IwAR1T7nHzbVrnZrpcA2jpjZOTr5soIrIvkZu_CGWL6I3UQVIvJV7os3NEeSs" target="_blank">Sea Lake and Overland Surge from Hurricanes [SLOSH] model and other resources</a><br />
+<a href="https://www.nrlmry.navy.mil/TC.html?fbclid=IwAR0SQFUVXtNkDGUmIdeRTJXnNY7L77qp7aEhfOR1Wlk5kLiVZ2kJKCNtT1w" target="_blank">Naval Research Laboratory [NRL] Tropical Cyclone Page</a><br />
+<a href="http://wxmaps.org/pix/hurpot?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Maximum Potential Hurricane Intensity Maps - Dr. Kerry Emanuel Methodology</a><br />
+<a href="https://ncics.org/portfolio/monitor/mjo/?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Tropical Monitoring Page - North Carolina Institute for Climate Sutides [NCICS]</a><br />
 <br />
 <hr />
+
+
+
 <a href="http://andrewswxcenter.com/Useful-Links/" name="7"></a>
 
 <br />
 <div style="font-size: 24px;">
 <u>Radio/Meteorological Instrumentation:</u></div>
+
+<div style="font-size: 20px;">
+<u>Radio:</u></div>
+<a href="http://www.radio-locator.com/cgi-bin/finder?state=NC&amp;country=u&amp;count=20&amp;s=T&amp;sr=1&amp;is_lic=Y&amp;is_cp=Y&amp;is_unl=Y&amp;is_ful=Y&amp;is_lp=Y&amp;scope=all&amp;prev=320" target="_blank">Radio Station Finder</a><br />
+<a href="http://earlyradiohistory.us/kwtrivia.htm" target="_blank">Why do some radio stations start with K and some with W?</a><br />
+<a href="http://www.nws.noaa.gov/nwr/" target="_blank">NOAA All Hazards Radio Information</a><br />
+<a href="http://tunein.com/radio/Weather-g263/" target="_blank">NOAA Weather Radio Online</a><br />
+<a href="http://www.antennasearch.com/" target="_blank">AntennaSearch.com - Information on nearby antennas, radio, and TV towers</a><br />
+<a href="http://www.nws.noaa.gov/nwr/info/newvoice.html" target="_blank">Voices Used on NOAA Weather Radio</a><br />
+<a href="http://www.fmfool.com/index.php?option=com_wrapper&amp;Itemid=29" target="_blank">FM Signal Locater - FM Fool</a><br />
+<a href="http://www.v-soft.com/on-line-based-software/zipsignal" target="_blank">Zip Code Signal Strength - vSoft Communications</a><br />
+<a href="http://www.nws.noaa.gov/nwr/Maps/PHP/NC.php" target="_blank">NOAA Weather Radio [NWR] Coverage in North Carolina</a><br />
+<a href="http://radio.garden/" target="_blank">Radio Garden</a><br />
+
+<div style="font-size: 20px;">
+<u>Weather Sensors &amp; Equipment:</u></div>
+<a href="http://www.vaisala.com/en/Pages/default.aspx" target="_blank">Vaisala</a><br />
+<a href="http://www.youngusa.com/" target="_blank">R.M. Young Company</a><br />
+<a href="https://www.campbellsci.com/" target="_blank">Campbell Scientific</a><br />
+<a href="http://www.delta-t.co.uk/" target="_blank">Delta-T Devices</a><br />
+<a href="http://www.decagon.com/en/" target="_blank">Decagon Devices</a><br />
+<a href="https://www.scientificsales.com/" target="_blank">Scientific Sales Inc.</a><br />
+<a href="https://www.weathershack.com/" target="_blank">WeatherShack</a><br />
+<a href="http://windingwayweather.com/weather/equipment.html" target="_blank">Equipment - Winding Way Weather</a><br />
+
+<div style="font-size: 20px;">
+<u>Mesonets:</u></div>
+<a href="http://www.deos.udel.edu/" target="_blank">Delaware Environmental Observing System [DEOS]</a><br />
+<a href="http://mesowest.utah.edu/" target="_blank">MesoWest Data - Univ. of Utah</a><br />
+<a href="http://www.mesonet.ttu.edu/" target="_blank">West Texas Mesonet</a><br />
+<a href="https://mesonet.agron.iastate.edu/" target="_blank">Iowa Environmental Mesonet [IEM]</a><br />
+<a href="http://www.kymesonet.org/" target="_blank">Kentucky Mesonet</a><br />
+<a href="http://climate.ncsu.edu/econet" target="_blank">North Carolina Environment and Climate Observing Network [ECONet]</a><br />
+<a href="http://agebb.missouri.edu/weather/stations/" target="_blank">Missouri Mesonet</a><br />
+<a href="http://www.nysmesonet.org/mesonow#?stid=VOOR" target="_blank">New York State Mesonet</a><br />
+<a href="https://fawn.ifas.ufl.edu/" target="_blank">Florida Automated Weather Network [FAWN]</a><br />
+<a href="http://www.georgiaweather.net/" target="_blank">Georgia Weather Network</a><br />
+<a href="https://www.mesonet.org/" target="_blank">Oklahoma Mesonet</a><br />
+<a href="https://mesonet.unl.edu/" target="_blank">Nebraska Mesonet</a><br />
+<a href="http://mesonet.k-state.edu/" target="_blank">Kansas Mesonet</a><br />
+<a href="https://ndawn.ndsu.nodak.edu/" target="_blank">North Dakota Agricultural Weather Network [NDAWN]</a><br />
+<a href="http://agweathernetwork.com/" target="_blank">Central Minnesota Ag Weather Network</a><br />
+<a href="http://climate.umt.edu/mesonet/default.php" target="_blank">Montana Mesonet</a><br />
+<a href="http://www.jma.go.jp/en/amedas/" target="_blank">Automated Meteorological Data Acquisition System [AMeDAS] - Japan Mesonet</a><br />
+<br />
+<br />
+<hr />
+<div style="font-size: 21px;">
+&nbsp;</div>
+<div style="font-size: 22px;">
+&nbsp;</div>
+<div style="font-size: 22px;">
+&nbsp;</div>
+<div style="font-size: 22px;">
+&nbsp;</div>
+<div style="font-size: 21px;">
+&nbsp;</div>
+<div style="font-size: 22px;">
+&nbsp;</div>
+<div style="font-size: 22px;">
+&nbsp;</div>
+<div style="font-size: 22px;">
+&nbsp;</div>
+<div style="font-size: 22px;">
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />
+
+
+
+
+
+
+
+
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="8"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Seismology/Geology:</u></div>
+<a href="http://www.usgs.gov/" target="_blank">United States Geological Survey [USGS]</a><br />
+<a href="http://earthquake.usgs.gov/earthquakes/map/" target="_blank">USGS Earthquake Map</a><br />
+<a href="http://www.ioc-sealevelmonitoring.org/station.php?code=anch" target="_blank">Sea Level Station Monitoring Facility</a><br />
+<a href="http://igp.colorado.edu/" target="_blank">Interactive Geology Project - University of Colorado Boulder</a><br />
+<a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank">OneGeology Portal</a><br />
+<a href="http://deq.nc.gov/about/divisions/energy-mineral-land-resources/north-carolina-geological-survey/interactive-geologic-maps" target="_blank">Interactive Geologic Maps - NC DEQ</a><br />
+<a href="http://volcanoes.usgs.gov/index.html" target="_blank">U.S. Volcanoes and Current Activity Levels</a><br />
+<a href="http://hvo.wr.usgs.gov/volcanowatch/" target="_blank">Hawaiian Volcano Observatory [HVO] Volcano Watch</a><br />
+<a href="http://www.lpi.usra.edu/education/fieldtrips/2007/explorations/grand_prismatic/" target="_blank">Grand Prismatic Spring</a><br />
+<a href="https://www.iris.edu/hq/inclass/software-web-app/rapid_earthquake_viewer" target="_blank">Rapid Earthquake Viewer [REV]</a><br />
+<a href="http://earthquake-report.com/2011/02/13/glossary-of-earthquake-terms/" target="_blank">Glossary of Seismology/Earthquake Terms</a><br />
+<a href="http://quake.utah.edu/earthquake-center/heli-map" target="_blank">Stations with live Seismograms - Univ. of Utah</a><br />
+<a href="http://www.iris.edu/hq/programs/gsn" target="_blank">Global Seismographic Network - Incorporated Research Institutions for Seismology [IRIS]</a><br />
+<a href="http://www.seismolab.caltech.edu/earthquakes.html" target="_blank">Seismological Laboratory - California Institute of Technology</a><br />
+<a href="http://www.gemdat.org/" target="_blank">Gemstone Database</a><br />
+<a href="http://volcano.si.axismaps.io/" target="_blank">Smithsonian Eruptions, Earthquakes, and Emissions Animations</a><br />
+<a href="http://volcano.si.edu/search_volcano.cfm" target="_blank">Global Volcanism Program - Volcano Database Search</a><br />
+<a href="https://coast.noaa.gov/inventory/" target="_blank">United States Interagency Elevation Inventory</a><br />
+<a href="http://maps.ngdc.noaa.gov/viewers/wcs-client/" target="_blank">NOAA Topography Explorer Grid Extract</a><br />
+<a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/elabund.html" target="_blank">Abundances of the Elements in the Earth's Crust</a><br />
+<a href="https://macrostrat.org/burwell/#5/38.651/-99.866" target="_blank">Macrostat - Geologic Map</a><br />
+<a href="http://ds.iris.edu/seismon/" target="_blank">Seismic Monitor - [IRIS]</a><br />
+<a href="https://www.clisap.de/fileadmin/B-Research/IA/IA5/LITHOMAP/dev/lithomap.html?utm_content=bufferf5090&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">Lithological Map Viewer</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />
+<a href="http://andrewswxcenter.com/Useful-Links/" name="9"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Environmental Science:</u></div>
 <a href="http://inciweb.nwcg.gov/" target="_blank">InciWeb (Wildfires)</a><br />
 <a href="http://climate.ncsu.edu/pinemap/index.php?tool=summer_temp" target="_blank">PINEMAP Decision Support System</a><br />
 <a href="http://cwfis.cfs.nrcan.gc.ca/interactive-map" target="_blank">Canadian Wildland Fire Information System</a><br />
@@ -1623,232 +1746,45 @@ States Will Suffer More Than Others"</a><br />
 <br />
 <br />
 <hr />
-<a href="http://andrewswxcenter.com/Useful-Links/" name="8"></a>
 
-<br />
-<div style="font-size: 24px;">
-<u>Seismology/Geology:</u></div>
-<a href="http://www.usgs.gov/" target="_blank">United States Geological Survey [USGS]</a><br />
-<a href="http://earthquake.usgs.gov/earthquakes/map/" target="_blank">USGS Earthquake Map</a><br />
-<a href="http://www.ioc-sealevelmonitoring.org/station.php?code=anch" target="_blank">Sea Level Station Monitoring Facility</a><br />
-<a href="http://igp.colorado.edu/" target="_blank">Interactive Geology Project - University of Colorado Boulder</a><br />
-<a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank">OneGeology Portal</a><br />
-<a href="http://deq.nc.gov/about/divisions/energy-mineral-land-resources/north-carolina-geological-survey/interactive-geologic-maps" target="_blank">Interactive Geologic Maps - NC DEQ</a><br />
-<a href="http://volcanoes.usgs.gov/index.html" target="_blank">U.S. Volcanoes and Current Activity Levels</a><br />
-<a href="http://hvo.wr.usgs.gov/volcanowatch/" target="_blank">Hawaiian Volcano Observatory [HVO] Volcano Watch</a><br />
-<a href="http://www.lpi.usra.edu/education/fieldtrips/2007/explorations/grand_prismatic/" target="_blank">Grand Prismatic Spring</a><br />
-<a href="https://www.iris.edu/hq/inclass/software-web-app/rapid_earthquake_viewer" target="_blank">Rapid Earthquake Viewer [REV]</a><br />
-<a href="http://earthquake-report.com/2011/02/13/glossary-of-earthquake-terms/" target="_blank">Glossary of Seismology/Earthquake Terms</a><br />
-<a href="http://quake.utah.edu/earthquake-center/heli-map" target="_blank">Stations with live Seismograms - Univ. of Utah</a><br />
-<a href="http://www.iris.edu/hq/programs/gsn" target="_blank">Global Seismographic Network - Incorporated Research Institutions for Seismology [IRIS]</a><br />
-<a href="http://www.seismolab.caltech.edu/earthquakes.html" target="_blank">Seismological Laboratory - California Institute of Technology</a><br />
-<a href="http://www.gemdat.org/" target="_blank">Gemstone Database</a><br />
-<a href="http://volcano.si.axismaps.io/" target="_blank">Smithsonian Eruptions, Earthquakes, and Emissions Animations</a><br />
-<a href="http://volcano.si.edu/search_volcano.cfm" target="_blank">Global Volcanism Program - Volcano Database Search</a><br />
-<a href="https://coast.noaa.gov/inventory/" target="_blank">United States Interagency Elevation Inventory</a><br />
-<a href="http://maps.ngdc.noaa.gov/viewers/wcs-client/" target="_blank">NOAA Topography Explorer Grid Extract</a><br />
-<a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/elabund.html" target="_blank">Abundances of the Elements in the Earth's Crust</a><br />
-<a href="https://macrostrat.org/burwell/#5/38.651/-99.866" target="_blank">Macrostat - Geologic Map</a><br />
-<a href="http://ds.iris.edu/seismon/" target="_blank">Seismic Monitor - [IRIS]</a><br />
-<a href="https://www.clisap.de/fileadmin/B-Research/IA/IA5/LITHOMAP/dev/lithomap.html?utm_content=bufferf5090&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">Lithological Map Viewer</a><br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hr />
-<a href="http://andrewswxcenter.com/Useful-Links/" name="9"></a>
 
-<br />
-<div style="font-size: 24px;">
-<u>Environmental Science:</u></div>
-<div style="font-size: 20px;">
-<u>Radio:</u></div>
-<a href="http://www.radio-locator.com/cgi-bin/finder?state=NC&amp;country=u&amp;count=20&amp;s=T&amp;sr=1&amp;is_lic=Y&amp;is_cp=Y&amp;is_unl=Y&amp;is_ful=Y&amp;is_lp=Y&amp;scope=all&amp;prev=320" target="_blank">Radio Station Finder</a><br />
-<a href="http://earlyradiohistory.us/kwtrivia.htm" target="_blank">Why do some radio stations start with K and some with W?</a><br />
-<a href="http://www.nws.noaa.gov/nwr/" target="_blank">NOAA All Hazards Radio Information</a><br />
-<a href="http://tunein.com/radio/Weather-g263/" target="_blank">NOAA Weather Radio Online</a><br />
-<a href="http://www.antennasearch.com/" target="_blank">AntennaSearch.com - Information on nearby antennas, radio, and TV towers</a><br />
-<a href="http://www.nws.noaa.gov/nwr/info/newvoice.html" target="_blank">Voices Used on NOAA Weather Radio</a><br />
-<a href="http://www.fmfool.com/index.php?option=com_wrapper&amp;Itemid=29" target="_blank">FM Signal Locater - FM Fool</a><br />
-<a href="http://www.v-soft.com/on-line-based-software/zipsignal" target="_blank">Zip Code Signal Strength - vSoft Communications</a><br />
-<a href="http://www.nws.noaa.gov/nwr/Maps/PHP/NC.php" target="_blank">NOAA Weather Radio [NWR] Coverage in North Carolina</a><br />
-<a href="http://radio.garden/" target="_blank">Radio Garden</a><br />
-<div style="font-size: 20px;">
-<u>Weather Sensors &amp; Equipment:</u></div>
-<a href="http://www.vaisala.com/en/Pages/default.aspx" target="_blank">Vaisala</a><br />
-<a href="http://www.youngusa.com/" target="_blank">R.M. Young Company</a><br />
-<a href="https://www.campbellsci.com/" target="_blank">Campbell Scientific</a><br />
-<a href="http://www.delta-t.co.uk/" target="_blank">Delta-T Devices</a><br />
-<a href="http://www.decagon.com/en/" target="_blank">Decagon Devices</a><br />
-<a href="https://www.scientificsales.com/" target="_blank">Scientific Sales Inc.</a><br />
-<a href="https://www.weathershack.com/" target="_blank">WeatherShack</a><br />
-<a href="http://windingwayweather.com/weather/equipment.html" target="_blank">Equipment - Winding Way Weather</a><br />
-<br />
-<br />
-<div style="font-size: 21px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 21px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hr />
 <a href="http://andrewswxcenter.com/Useful-Links/" name="10"></a>
 
 <br />
 <div style="font-size: 24px;">
 <u>Air Quality:</u></div>
-<div style="font-size: 20px;">
-<u>Applied Meteorology/Meteorological Research:</u></div>
-<a href="http://www.tornadohistoryproject.com/" target="_blank">The Tornado History Project</a><br />
-<a href="http://www.nssl.noaa.gov/projects/vortexse/" target="_blank"> National Severe Storms Laboratory [NSSL] - Verification of the Origins of Rotation in Tornadoes Experiment-Southeast [VORTEX-SE]</a><br />
-<a href="http://www.estofex.org/" target="_blank">European Storm Forecast Experiment [ESTOFEX]</a><br />
-<a href="http://sunsetwx.com/" target="_blank">sunsetwx.com - How good will your sunrise/sunset be?</a><br />
-<a href="http://www.sercc.com/hhvt/" target="_blank">NC Heat Health Vulnerability Tool</a><br />
-<a href="https://www.ncdc.noaa.gov/sotc/tornadoes/201104" target="_blank">Summary of the April 2011 Tornadoes</a><br />
-<a href="http://cswr.org/contents/twirl.php" target="_blank">Tornadic Winds: In-situ and Radar observation at Low levels [TWIRL] Research</a><br />
-<a href="https://www.epa.gov/heat-islands/heat-island-community-actions-database" target="_blank">Heat Island Community Actions Database</a><br />
-<a href="http://nssl.noaa.gov/projects/" target="_blank">National Severe Storms Laboratory [NSSL] Projects Overview</a><br />
-<a href="http://www.nssl.noaa.gov/projects/pecan/" target="_blank">PECAN: Plains Elevated Convection at Night (Former NSSL Project)</a><br />
-<a href="https://swco-ir.tdl.org/swco-ir/handle/10605/298" target="_blank">Fujita, Dr. Tetsuya Theodore "Ted", Papers, 1896-2003 and undated</a><br />
-<a href="https://www.slu.edu/arts-and-sciences/earth-atmospheric-sciences/research-centers/quantum-weather.php" target="_blank">Quantum Weather</a><br />
-
-<div style="font-size: 20px;">
-<u>Meteorology in the News:</u></div>
-<a href="https://www.congress.gov/bill/115th-congress/house-bill/353/text" target="_blank">H.R.353 - Weather Research and Forecasting Innovation Act of 2017</a><br />
-
-<div style="font-size: 20px;">
-<u>Miscellaneous:</u></div>
-<a href="https://www.weather.gov/bro/mapcolors" target="_blank">All NWS Warnings and their colors</a><br />
-<a href="http://www.wdssii.org/" target="_blank">Warning Decision Support System - Integrated Information</a><br />
-<a href="https://geoguessr.com/" target="_blank">GeoGuessr</a><br />
-<a href="http://www.faa.gov/airports/runway_safety/diagrams/" target="_blank">FAA Airport Diagrams</a><br />
-<a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2015/02/13/quiz-can-you-identify-the-airports-in-these-minimalist-maps/" target="_blank">"Identify the Airport Diagram" Quiz</a><br />
-<a href="http://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Medium" target="_blank">WebGL Fluid Experiment</a><br />
-<a href="http://www.spc.noaa.gov/faq/tornado/f5torns.html" target="_blank">F5 and EF5 Tornadoes of the United States (Since 1950)</a><br />
-<a href="https://www.youtube.com/watch?v=H0W4T1FCf_A" target="_blank">Hail Roar</a><br />
-<a href="http://weather.cod.edu/text/" target="_blank">Next Generation Weather Lab - Text Products</a><br />
-<a href="http://labs.minutelabs.io/Mass-Energy-Scale/" target="_blank">Mass-Energy Scale Explanation - (E=mc^2 Explained)</a><br />
-<a href="http://www.daftlogic.com/projects-google-maps-distance-calculator.htm" target="_blank">Google Distance Calculator</a><br />
-<a href="http://aviationweather.gov/adds/metars/" target="_blank">Aviation Digital Data Service - METARs</a><br />
-<a href="http://kamala.cod.edu/svr/" target="_blank">Severe Weather Warnings Page - College of DuPage Meteorology​</a><br />
-<a href="http://www.flightradar24.com/ABX403/2d91738" target="_blank">FlightRadar24 (Live air traffic)</a><br />
-<a href="http://www.wdtb.noaa.gov/tools/BUFKIT/" target="_blank">NWS BUFKIT Version 15.11.2</a><br />
-<a href="http://knowbeforeyoufly.org/air-space-map/" target="_blank">United States Restricted Air Space Map</a><br />
-<a href="http://www.oldmapsonline.org/" target="_blank">Old Maps Online</a><br />
-<a href="https://www.airnav.com/" target="_blank">AirNav.com - Aviation Information</a><br />
-<a href="http://live.bigbrainsmedia.com/" target="_blank">WeatherBrains</a><br />
-<a href="http://www.findlatitudeandlongitude.com/antipode-map/#.WAFadPkrJhF" target="_blank">Antipodes Map [Find exact opposite points on the planet]</a><br />
-<a href="http://www.asm.transitdocs.com/" target="_blank">Amtrak/VIA Real Time Location Map</a><br />
-<a href="http://narukawa-lab.jp/wp-content/uploads/2016/02/f5c88809c713a8ad3188e1bc123a0728-1.png" target="_blank">Idealized world map with true size proportions</a><br />
-<a href="http://maps.huge.info/zip.htm" target="_blank">U.S. Zip-code Map</a><br />
-<a href="http://senseable.mit.edu/treepedia" target="_blank">Treepedia</a><br />
-<a href="https://www.google.org/crisismap/weather_and_events" target="_blank">Google Crisis Map</a><br />
-<a href="https://www.disasterscharter.org/web/guest/home" target="_blank">International Charter Space &amp; Major Disasters</a><br />
-<a href="http://globeofbirdmigration.com/" target="_blank">The Globe of Bird Migration</a><br />
-<a href="https://www.shipmap.org/" target="_blank">ShipMap - Global Cargo Ship Visualization</a><br />
-<a href="https://www.gfdl.noaa.gov/fv3/" target="_blank">FV3: Finite-Volume Cubed-Sphere Dynamical Core</a><br />
-<a href="http://dinosaurpictures.org/ancient-earth/#200" target="_blank">Ancient Earth Globe</a><br />
-<a href="http://discovery.dartmouth.edu/megaregions/" target="_blank">The Megaregions of the United States</a><br />
-<a href="http://www.gis.osu.edu/misc/map-projections/" target="_blank">Different Scales and Projections of Earth's Surface</a><br />
-<a href="http://www.geo.utexas.edu/courses/371c/Labs/GIS_Workshop/Spatial_Analysis_An_Antarctic_Example.htm" target="_blank">Spatial Analysis of Raster data - An Antarctic Example</a><br />
-<a href="http://inrix.com/scorecard/" target="_blank">INRIX Global Traffic Scorecard</a><br />
-<a href="http://www.malmeroads.net/ncfutints/index.html" target="_blank">North Carolina's New and Future Interstates</a><br />
-<a href="http://www.enchantedlearning.com/usa/states/area.shtml" target="_blank">Total Land/Water Area and Ranking of U.S. States</a><br />
-<a href="https://www.census.gov/geo/reference/ua/urban-rural-2010.html" target="_blank">2010 Census Urban and Rural Classification and Urban Area Criteria</a><br />
-<a href="http://www.infrastructurereportcard.org/" target="_blank">2017 Infrastructure Report Card</a><br />
-<a href="https://www.boem.gov/Gulf-of-Mexico-Deepwater-Bathymetry/" target="_blank">BOEM Northern Gulf of Mexico Deepwater Bathymetry Grid from 3D Seismic</a><br />
-<a href="https://www.daftlogic.com/sandbox-google-maps-find-altitude.htm" target="_blank">DaftLogic Google Maps Find Altitude</a><br />
-<a href="https://observer.globe.gov/science-connections/eclipse2017" target="_blank">How "Cool" is the Eclipse?</a><br />
-<a href="http://nc-biodiversity.com/" target="_blank">North Carolina Biodiversity Project</a><br />
-<a href="http://www.buildyourownearth.com/" target="_blank">Build Your Own Earth - Univ. of Manchester</a><br />
-<a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank">MarineTraffic: Global Ship Tracking Intelligence</a><br />
-<a href="https://www.geotab.com/americas-quietest-routes/" target="_blank">America's Quietest Roads</a><br />
-<a href="http://www.joshuastevens.net/portfolio/" target="_blank">Meteorological and Climatological Data Visualization - Joshua Stevens</a><br />
-<a href="https://www.weather.gov/oun/stormanxiety" target="_blank">Storm Stress and Anxiety</a><br />
-<a href="https://bl.ocks.org/mbostock/3711652" target="_blank">Global Projection Transitions</a><br />
+<a href="http://www.pollen.com/allergy-weather-forecast.asp" target="_blank">Pollen Monitoring</a><br />
+<a href="http://www.epa.gov/" target="_blank"> Environmental Protection Agency [EPA]</a><br />
+<a href="http://www.usairnet.com/weather/maps/current/north-carolina/visibility/" target="_blank">North Carolina Visibility Map</a><br />
+<a href="http://airnow.gov/index.cfm?action=airnow.main" target="_blank">Air Quality Index [AQI] Observations from AIRNow.gov</a><br />
+<a href="http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/bulletin.txt" target="_blank">UV Index Forecast Bulletin</a><br />
+<a href="http://www.creativemethods.com/airquality/maps/north_carolina.htm" target="_blank">North Carolina Air Quality Static Map</a><br />
+<a href="https://xapps.ncdenr.org/aq/ambient/Pollen.jsp" target="_blank">Most Recent Pollen Report for Raleigh, NC</a><br />
+<a href="http://forecast.weather.gov/product.php?site=NWS&amp;issuedby=RAH&amp;product=AQI&amp;format=CI&amp;version=1&amp;glossary=0&amp;highlight=off" target="_blank">NWS Raleigh Air Quality Report</a><br />
+<a href="http://deq.nc.gov/about/divisions/air-quality" target="_blank">NC DEQ Air Quality</a><br />
+<a href="http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/gif_files/uv_g211.png" target="_blank">UV Index Forecast Graphic Map</a><br />
+<a href="http://aqicn.org/map/world/" target="_blank">Real-Time World Air Quality</a><br />
+<a href="http://airquality.weather.gov/" target="_blank">National Weather Service Air Quality Forecast Guidance</a><br />
+<a href="https://xapps.ncdenr.org/aq/ForecastCenter" target="_blank">North Carolina Air Quality Forecast Center</a><br />
+<a href="https://www3.epa.gov/airdata/" target="_blank">AirData Mart Access - EPA</a><br />
+<a href="http://www.aaaai.org/global/nab-pollen-counts/south-atlantic-region" target="_blank">NAB: Pollen &amp; Spore Levels - South Atlantic</a><br />
+<a href="https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions" target="_blank">Sources of Greenhouse Gas Emissions - EPA</a><br />
+<a href="http://alg.umbc.edu/usaq/" target="_blank">The Smog Blog - U.S. Air Quality</a><br />
+<a href="http://www2.ncair.org/airaware/forecast/Models/" target="_blank">NC DAQ CMAQ Forecasts</a><br />
+<a href="https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot" target="_blank">Outdoor Air Quality Data - Multiyear Tile Plot</a><br />
+<a href="https://www.epa.gov/indoor-air-quality-iaq/protect-indoor-air-quality-your-home" target="_blank">Indoor Air Quality in Your Home</a><br />
+<a href="https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=5f239fd3e72f424f98ef3d5def547eb5&amp;extent=-146.2334,13.1913,-46.3896,56.5319" target="_blank">AirData Air Quality Monitors Mapper</a><br />
+<a href="https://www.star.nesdis.noaa.gov/smcd/spb/aq/index.php?product_id=0" target="_blank">Infusing Satellite Data into Environmental Applications [IDEA]</a><br />
+<a href="http://deq.nc.gov/about/divisions/air-quality/social-media-air-quality-notifications/enviroflash" target="_blank">EnviroFlash Air Quality Forecast Subscription [Free]</a><br />
+<a href="http://weather.hawaii.edu/vmap/hysplit/animate.cgi?domain=bigis&variable=so2&ftype=ensmax01" target="_blank">Sulfur Dioxide Concentration Monitoring Model from Univ. of Hawai'i at Manoa</a><br />
+<a href="https://vsc-ash.wr.usgs.gov/ashgui/#/publicruns" target="_blank">Ash3d Public Run Results (North/South American Volcano Ash Cloud Models)</a><br />
 <br />
-<hr />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr>
 
 
 <a href="http://andrewswxcenter.com/Useful-Links/" name="11"></a>
