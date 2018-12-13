@@ -34,11 +34,13 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
     <option value="https://andrewswxcenter.com/links/#10">Space Weather</option>
     <option value="https://andrewswxcenter.com/links/#10">Air Quality</option>
     <option value="https://andrewswxcenter.com/links/#11">Applied Meteorology/Climate</option>
-    <option value="https://andrewswxcenter.com/links/#11">Miscellaneous</option>
+    <option value="https://andrewswxcenter.com/links/#11">Fire Weather</option>
     <option value="https://andrewswxcenter.com/links/#12">Citizen Science</option>
     <option value="https://andrewswxcenter.com/links/#12">User Submitted</option>
     <option value="https://andrewswxcenter.com/links/#13">Postsecondary Meteorology</option>
     <option value="https://andrewswxcenter.com/links/#13">Data Visualization</option>
+    <option value="https://andrewswxcenter.com/links/#14">Weather and the Law</option>
+    <option value="https://andrewswxcenter.com/links/#14">Miscellaneous</option>
 </select>​</center>
 <br />
 <br />
@@ -230,7 +232,6 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://w1.weather.gov/glossary/" target="_blank">NWS Glossary</a><br />
 <a href="http://www.theweatherprediction.com/habyhints/249/" target="_blank">What is Vertically Integrated Liquid? [VIL]</a><br />
 <a href="http://www.theweatherprediction.com/habyhints2/457/" target="_blank">What is a trough and a ridge?</a><br />
-<a href="http://rammb.cira.colostate.edu/visit/video/dvorak/player.html" target="_blank">The Dvorak Technique for Hurricane Strength Estimation</a><br />
 <a href="http://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank">Types of Lightning and Lightning Facts</a><br />
 <a href="http://www.theweatherprediction.com/habyhints/190/" target="_blank">What exactly is the Dew Point?</a><br />
 <a href="http://www.wunderground.com/education/shear.asp" target="_blank">Wind Shear Tutorial</a><br />
@@ -266,8 +267,6 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.starpath.com/transpac/discussionterms.htm" target="_blank">Abbreviations used in official forecast discussions</a><br />
 <a href="http://bangladeshtornadoes.org/EML/emlpage.html" target="_blank">The Elevated Mixed Layer</a><br />
 <a href="http://www.prh.noaa.gov/cphc/pages/FAQ/Hurricanes_vs_tornadoes.php" target="_blank">Hurricanes and Tornadoes</a><br />
-<a href="http://www.weather.gov/careers/" target="_blank">Careers in Meteorology, Hydrology, Information Technology/Electronics Maintenance, and Physical Science</a><br />
-<a href="http://atlas.niu.edu/ertaf/" target="_blank">Extended Range Tornado Activity Forecasts [ERTAF] - Univ. of Northern Illinois</a><br />
 <br>
 <div style="font-size: 20px;">
 <u>Education Modules/Tutorials/Notes:</u></div>
@@ -283,15 +282,11 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.theweatherprediction.com/wxtest/test/" target="_blank">Meteorology Practice Test</a><br />
 <a href="http://www.theweatherprediction.com/wxtest/answers/" target="_blank">^ Meteorology Practice Test Answers</a><br />
 <a href="http://www.pbs.org/wgbh/nova/labs/lab/cloud/research/intro/" target="_blank">The Cloud Lab</a><br />
-<a href="http://davieswx.blogspot.com/" target="_blank">Jon Davies Severe Weather Notes</a><br />
 <a href="https://www.weather.gov/bmx/outreach_microbursts" target="_blank">What is a Microburst? - NWS Birmingham, AL</a><br />
-<a href="http://www.nhc.noaa.gov/outreach/games/movncane.htm" target="_blank">Hurricane Tracks for Idealized Environment Flows</a><br />
 <a href="http://www.nssl.noaa.gov/education/hotseat/" target="_blank">HotSeat: You be the Forecaster! (Beta)</a><br />
 <a href="https://scijinks.gov/" target="_blank">SciJinks</a><br />
 <a href="http://www.meteor.iastate.edu/classes/mt432/mteor432_lectures.html" target="_blank">Meteorology 432 Lectures - Iowa State Univ.</a><br />
-<a href="https://www.youtube.com/watch?v=WL7jc4-03Uc&feature=youtu.be" target="_blank">Skip Talbot's Field Tactics for Practical Storm Spotting [Free]</a><br />
 <a href="https://stormandsky.com/stormanalysis101" target="_blank">Storm Analysis 101 Educational Video [Paid]</a><br />
-<a href="http://atlas.niu.edu/pperfect/" target="_blank">SPC Modified Practically Perfect Severe Weather Verification - Univ. of Northern Illinois</a><br />
 <a href="https://www.weather.gov/jetstream/skewt_samples?fbclid=IwAR3EYlUF8MWTqu-slGJrRWnAgswJ5jISKvxkPkGef6iTZF8ep5gXidDtYbw" target="_blank">Skew-T and Sensible Weather: Examples</a><br />
 <br />
 <div style="font-size: 20px;">
@@ -303,10 +298,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.wpc.ncep.noaa.gov/html/sfc2.shtml" target="_blank">Current North American Surface Analysis</a><br />
 <a href="http://forecast.weather.gov/product_types.php?site=NWS" target="_blank">NWS Forecast Office Product Listing</a><br />
 <a href="http://climate.ncsu.edu/kiosk/" target="_blank">North Carolina WIS</a><br />
-<a href="http://mesonet.agron.iastate.edu/vtec/#2014-O-NEW-KRAH-SV-W-0073/USCOMP-N0Q-201404300425" target="_blank">IEM SvrWx (Update map with current date)</a><br />
 <a href="http://www.ncdc.noaa.gov/wct/?singlefile=%7BOPENDAP%7D" target="_blank">NOAA's Weather and Climate Toolkit</a><br />
 <a href="http://www.ncdc.noaa.gov/stormevents/" target="_blank">NCEI Storm Events Database</a><br />
-<a href="http://www.ncdc.noaa.gov/swdi/#Intro" target="_blank">NOAA's Severe Weather Data Inventory</a><br />
 <a href="http://cimss.ssec.wisc.edu/oakfield/frame.html" target="_blank">Contour Analysis (CIMSS)</a><br />
 <a href="http://www.aos.wisc.edu/~hopkins/aos100/sfc-anl.htm" target="_blank">Surface Weather Analysis Chart</a><br />
 <a href="http://weather.org/weatherorg_records_and_averages.htm" target="_blank">Weather.Org - Weather History</a><br />
@@ -331,7 +324,6 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.iweathernet.com/severe-weather/visualization-active-storm-cells" target="_blank">Active Storm Cell Visualization - iWeatherNet.com</a><br />
 <a href="http://wms.ssec.wisc.edu/" target="_blank">RealEarth - SSEC</a><br />
 <a href="https://www.weather.gov/jetstream/wfos" target="_blank">NWS Weather Forecast Offices Overview</a><br />
-<a href="https://apps.dat.noaa.gov/StormDamage/DamageViewer/" target="_blank">NWS Damage Assessment Toolkit</a><br />
 <a href="http://www.spc.noaa.gov/publications/" target="_blank">SPC Publications</a><br />
 <a href="http://www.rcc-acis.org/examples.html" target="_blank">Featured Regional Climate Center Products</a><br />
 <a href="https://www.ncdc.noaa.gov/swdi/#TileSearch" target="_blank">NOAA's Severe Weather Data Inventory Tile Search</a><br />
@@ -352,10 +344,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.nws.noaa.gov/om/hazstats.shtml" target="_blank">Weather Fatalities Statistics</a><br />
 <a href="https://www.weather.gov/safety/lightning-struck" target="_blank">Lightning Science: Five Ways Lightning Strikes People</a><br />
 <a href="https://www.weather.gov/subscribe" target="_blank">Email and SMS Weather Alert Services - National Weather Service</a><br />
-<a href="https://www.epa.gov/hurricane-response/hurricane-response-fact-sheets" target="_blank">Hurricane Response Fact Sheets</a><br />
 <a href="https://www.ready.gov/power-outages" target="_blank">How to Prepare for Power Outages</a><br />
 <a href="https://www.ready.gov/" target="_blank">Ready.gov</a><br />
-<a href="https://tornadotalk.com/" target="_blank">TornadoTalk</a><br />
 <a href="http://mtarchive.geol.iastate.edu/" target="_blank">mtarchive.geol.iastate.edu (Weather data archive hosted by Iowa State Univ. Environmental Mesonet)</a><br />
 <br />
 <br />
@@ -442,12 +432,9 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://hrrr.chpc.utah.edu/" target="_blank">HRRR Archive at the Univ. of Utah</a><br />
 <div style="font-size: 20px;">
 <u>Other Model Data/Private Models:</u></div>
-<a href="http://www.tornadohq.com/" target="_blank">Tornado HQ</a><br />
 <a href="http://www.spc.noaa.gov/wcm/" target="_blank">Storm Prediction Center WCM (Warning Coordination Meteorologist) Page</a><br />
-<a href="http://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html" target="_blank">CIMSS Morphed Integrated Microwave Imagery [MIMIC] Total Precipitable Water Loop</a><br />
 <a href="https://www.arl.noaa.gov/hysplit/hysplit/" target="_blank">Air Resources Laboratory - HYSPLIT Model (Air parcel trajectories)</a><br />
 <a href="https://ready.arl.noaa.gov/hypub-bin/trajtype.pl" target="_blank">HYSPLIT Trajectory Model - Track a Parcel</a><br />
-<a href="http://www.spc.noaa.gov/exper/outbreaks/#" target="_blank">U.S. Tornado Outbreak Interface</a><br />
 <a href="http://www.f5wx.com/" target="_blank">f5Wx Development (Models for purchase)</a><br />
 <a href="http://hazwx.com/" target="_blank">hazwx.com</a><br />
 <a href="http://atmograph.com/index.html" target="_blank">ATMOGRAPH ModelVis - Advanced Earth Sciences Software</a><br />
@@ -461,13 +448,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://www.spc.noaa.gov/exper/ma_archive/" target="_blank">RTWX SPC Mesoanalysis Archive Animator</a><br />
 <a href="http://archive.atmos.colostate.edu/" target="_blank">NWS DIFAX Weather Map Archive</a><br />
 <a href="http://mesonet.agron.iastate.edu/cow/" target="_blank">IEM Cow Storm Based Warning Verification</a><br />
-<a href="http://cimss.ssec.wisc.edu/severe_conv/probsev.html" target="_blank">NOAA/CIMSS ProbSevere Model</a><br />
-<a href="http://www.wpc.ncep.noaa.gov/index.shtml#page=tls" target="_blank">Forecaster's Toolbox - Weather Prediction Center</a><br />
 <a href="https://nemac.unca.edu/" target="_blank">National Environmental Modeling and Analysis Center</a><br />
 <a href="http://predict.habhub.org/" target="_blank">CUSF Landing Predictor 2.5</a><br />
 <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepthunder/" target="_blank">IBM's Deep Thunder Model</a><br />
 <a href="https://www.weather.gov/mdl/ekdmos_home" target="_blank">Ensemble Kernel Density Model Output Statistics [EKDMOS]</a><br />
-<a href="http://moe.met.fsu.edu/cyclonephase/" target="_blank">Cyclone phase evolution: Analyses and Forecasts, Florida State Univ.</a><br />
 <div style="font-size: 20px;">
 <u>Software:</u></div>
 <a href="http://pykl3radar.com/index.php" target="_blank">PYKL3 Radar [Paid]</a><br />
@@ -491,23 +475,18 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.weather.gov/crh/impact" target="_blank">Severe Weather Impact Graphics</a><br />
 <a href="https://nwschat.weather.gov/lsr/#/201404250400/201404260359/0100" target="_blank">NWSChat Local Storm Report Viewer</a><br />
 <a href="http://www.ssec.wisc.edu/data/paw/tornado.html" target="_blank">Current Tornado Warnings (PDA Animated Weather)</a><br />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<a href="http://atlas.niu.edu/ertaf/" target="_blank">Extended Range Tornado Activity Forecasts [ERTAF] - Univ. of Northern Illinois</a><br />
+<a href="http://davieswx.blogspot.com/" target="_blank">Jon Davies Severe Weather Notes</a><br />
+<a href="https://www.youtube.com/watch?v=WL7jc4-03Uc&feature=youtu.be" target="_blank">Skip Talbot's Field Tactics for Practical Storm Spotting [Free]</a><br />
+<a href="http://atlas.niu.edu/pperfect/" target="_blank">SPC Modified Practically Perfect Severe Weather Verification - Univ. of Northern Illinois</a><br />
+<a href="http://mesonet.agron.iastate.edu/vtec/#2014-O-NEW-KRAH-SV-W-0073/USCOMP-N0Q-201404300425" target="_blank">IEM SvrWx (Update map with current date)</a><br />
+<a href="http://www.ncdc.noaa.gov/swdi/#Intro" target="_blank">NOAA's Severe Weather Data Inventory</a><br />
+<a href="https://apps.dat.noaa.gov/StormDamage/DamageViewer/" target="_blank">NWS Damage Assessment Toolkit</a><br />
+<a href="https://tornadotalk.com/" target="_blank">TornadoTalk</a><br />
+<a href="http://www.tornadohq.com/" target="_blank">Tornado HQ</a><br />
+<a href="http://www.spc.noaa.gov/exper/outbreaks/#" target="_blank">U.S. Tornado Outbreak Interface</a><br />
+<a href="http://cimss.ssec.wisc.edu/severe_conv/probsev.html" target="_blank">NOAA/CIMSS ProbSevere Model</a><br />
+<a href="http://www.wpc.ncep.noaa.gov/index.shtml#page=tls" target="_blank">Forecaster's Toolbox - Weather Prediction Center</a><br />
 <br>
 <br>
 <br>
@@ -516,23 +495,6 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <br>
 <br>
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -956,7 +918,18 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Postsecondary Meteorology:</u></div>
+<a href="http://www.weather.gov/careers/" target="_blank">Careers in Meteorology, Hydrology, Information Technology/Electronics Maintenance, and Physical Science</a><br />
 <br />
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="14"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Weather and the Law:</u></div>
+<br />
+
+
 
 </div>
 
@@ -1452,6 +1425,12 @@ States Will Suffer More Than Others"</a><br />
 <a href="https://www.nrlmry.navy.mil/TC.html?fbclid=IwAR0SQFUVXtNkDGUmIdeRTJXnNY7L77qp7aEhfOR1Wlk5kLiVZ2kJKCNtT1w" target="_blank">Naval Research Laboratory [NRL] Tropical Cyclone Page</a><br />
 <a href="http://wxmaps.org/pix/hurpot?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Maximum Potential Hurricane Intensity Maps - Dr. Kerry Emanuel Methodology</a><br />
 <a href="https://ncics.org/portfolio/monitor/mjo/?fbclid=IwAR0ixeHYBDbXP9AwVtHsoFtuYUk2WA2OUfWoGjKOaGy7NhMOKBAemah6U7Q" target="_blank">Tropical Monitoring Page - North Carolina Institute for Climate Sutides [NCICS]</a><br />
+<a href="http://rammb.cira.colostate.edu/visit/video/dvorak/player.html" target="_blank">The Dvorak Technique for Hurricane Strength Estimation</a><br />
+<a href="http://www.nhc.noaa.gov/outreach/games/movncane.htm" target="_blank">Hurricane Tracks for Idealized Environment Flows</a><br />
+<a href="https://www.epa.gov/hurricane-response/hurricane-response-fact-sheets" target="_blank">Hurricane Response Fact Sheets</a><br />
+<a href="http://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html" target="_blank">CIMSS Morphed Integrated Microwave Imagery [MIMIC] Total Precipitable Water Loop</a><br />
+<a href="http://moe.met.fsu.edu/cyclonephase/" target="_blank">Cyclone phase evolution: Analyses and Forecasts, Florida State Univ.</a><br />
+<a href="https://ncics.org/portfolio/monitor/mjo/" target="_blank">CICS-NC: Tropical Monitoring</a><br />
 <br />
 <hr />
 
@@ -1677,7 +1656,7 @@ States Will Suffer More Than Others"</a><br />
 <a href="https://www.eia.gov/totalenergy/data/monthly/" target="_blank">Monthly Energy Review - U.S. Energy Information Administration [EIA]</a><br />
 <a href="http://chm.pops.int/TheConvention/ThePOPs/The12InitialPOPs/tabid/296/Default.aspx" target="_blank">The 12 Initial Persistent Organic Pollutants [POPs] Under the Stockholm Convention</a><br />
 <a href="https://www.ewg.org/research/dirty-dozen-list-endocrine-disruptors#.WoenVxPwaAw" target="_blank">Dirty Dozen Endocrine Disruptors - Environmental Working Group [EWG]</a><br />
-<br />
+<a href="https://ncdenr.maps.arcgis.com/apps/webappviewer/index.html?id=58e9afca8b724b3f82cc81a8b825f83e" target="_blank">NCDWR Algal Bloom Map</a><br />
 <br />
 <br />
 <br />
@@ -1791,7 +1770,9 @@ States Will Suffer More Than Others"</a><br />
 
 <br />
 <div style="font-size: 24px;">
-<u>Miscellaneous:</u></div>
+<u>Fire Weather:</u></div>
+<a href="https://fsapps.nwcg.gov/" target="_blank">USDA Forest Service Active Fire Mapping Program</a><br />
+
 <br />
 
 
@@ -1808,6 +1789,14 @@ States Will Suffer More Than Others"</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Data Visualization:</u></div>
+<br />
+
+
+<a href="http://andrewswxcenter.com/Useful-Links/" name="14"></a>
+
+<br />
+<div style="font-size: 24px;">
+<u>Miscellaneous:</u></div>
 <br />
 
 
