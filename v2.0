@@ -138,16 +138,6 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://ge.ssec.wisc.edu/modis-today/index.php?viewcal=true&satellite=t1&product=true_color&fbclid=IwAR0EBYvp00txqcwTj6CBX0PTGzIteV4dz9TKzbWRwKQoXKg2g8As5N5uqwo" target="_blank">MODIS Today: TERRA Satellite Image of the Day, Space Science and Engineering Center [SSEC], Univ. of Wisconsin-Madison</a><br />
 <br />
 <br />
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 23px;">
-&nbsp;</div>
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -228,8 +218,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <br />
 <div style="font-size: 24px;">
 <u> Weather Information/Education:</u></div>
-<div style="font-size: 20px;">
-<u>Meteorological Definitions/Descriptions:</u></div>
+
+<br>
+
+<b><i>Meteorological Definitions/Descriptions:</i></b><br>
 <a href="http://w1.weather.gov/glossary/" target="_blank">NWS Glossary</a><br />
 <a href="http://www.theweatherprediction.com/habyhints/249/" target="_blank">What is Vertically Integrated Liquid? [VIL]</a><br />
 <a href="http://www.theweatherprediction.com/habyhints2/457/" target="_blank">What is a trough and a ridge?</a><br />
@@ -270,8 +262,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.prh.noaa.gov/cphc/pages/FAQ/Hurricanes_vs_tornadoes.php" target="_blank">Hurricanes and Tornadoes</a><br />
 <a href="http://www.weathergraphics.com/identifiers/" target="_blank">Weather Station Identifiers Primer (MILD, ICAO, WBAN, etc.)</a><br />
 <br>
-<div style="font-size: 20px;">
-<u>Education Modules/Tutorials/Notes:</u></div>
+<b><i>Education Modules/Tutorials/Notes:</i></b><br>
 <a href="http://stream1.cmatc.cn/pub/comet/ConvectiveWeather/usehodo/comet/mesoprim/hodograf/print.htm" target="_blank">Hodograph Module</a><br />
 <a href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/cld/cldtyp/hgh/crs.rxml" target="_blank">Clouds Module - University of Illinois</a><br />
 <a href="http://www.windows2universe.org/" target="_blank">Windows to the Universe (slow link)</a><br />
@@ -291,8 +282,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://stormandsky.com/stormanalysis101" target="_blank">Storm Analysis 101 Educational Video [Paid]</a><br />
 <a href="https://www.weather.gov/jetstream/skewt_samples?fbclid=IwAR3EYlUF8MWTqu-slGJrRWnAgswJ5jISKvxkPkGef6iTZF8ep5gXidDtYbw" target="_blank">Skew-T and Sensible Weather: Examples</a><br />
 <br />
-<div style="font-size: 20px;">
-<u>Weather Data Access/Information/History:</u></div>
+
+<b><i>Weather Data Access/Information/History:</i></b><br>
 <a href="https://digital.weather.gov/" target="_blank">National Digital Forecast Database [NDFD]</a><br />
 <a href="http://www.usairnet.com/weather/maps/current/north-carolina/barometric-pressure/" target="_blank">Air Sports Net - NC Barometric Pressure Map</a><br />
 <a href="http://www.emc.ncep.noaa.gov/gmb/ens/info/ens_detbak.html" target="_blank">NCEP Ensemble Background</a><br />
@@ -343,8 +334,7 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://threadex.rcc-acis.org/" target="_blank">Threaded Station Extremes [ThreadEx]</a><br />
 
 <br />
-<div style="font-size: 20px;">
-<u>Safety:</u></div>
+<b><i>Safety:</i></b><br>
 <a href="http://www.cimms.ou.edu/~doswell/Chasing2.html" target="_blank">Storm Chasing Safety, Courtesy, and Responsibility</a><br />
 <a href="http://www.bestplaces.net/docs/studies/safest_places_from_natural_disasters.aspx" target="_blank">Safest Places from Natural Disasters</a><br />
 <a href="http://www.nws.noaa.gov/om/hazstats.shtml" target="_blank">Weather Fatalities Statistics</a><br />
@@ -356,13 +346,17 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <br />
 <br />
 <hr />
+
+
 <a href="http://andrewswxcenter.com/Useful-Links/" name="5"></a>
 
 <br />
 <div style="font-size: 24px;">
 <u>Numerical Weather Prediction:</u></div>
-<div style="font-size: 20px;">
-<u>Operations/Metadata/Model Schedules &amp; Status:</u></div>
+
+<br>
+
+<b><i>Operations/Metadata/Model Schedules &amp; Status:</i></b><br>
 <a href="http://www.nco.ncep.noaa.gov/pmb/nwprod/prodstat/" target="_blank">Current Status of NCEP Model Production</a><br />
 <a href="https://www.netweather.tv/forum/topic/3147-guide-tocharts/" target="_blank">Model Process Times and Descriptions - Netweather Community</a><br />
 <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs" target="_blank">NOAA/NCEI/NCEP Weather Model Descriptions</a><br />
@@ -371,8 +365,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://home.earthlink.net/~tkurkowski/Weather-Models/weather-models.html" target="_blank">Weather Models 101</a><br />
 <a href="http://www.weatheronline.co.uk/cgi-bin/expertcharts?MODELL=nogaps&amp;MODELLTYP=1&amp;VAR=pslv&amp;INFO=1" target="_blank">Weather Model Metadata - WeatherOnline</a><br />
 <a href="https://ssd.wrh.noaa.gov/satable/" target="_blank">Ensemble Situational Awareness Table</a><br />
-<div style="font-size: 20px;">
-<u>Model Websites:</u></div>
+
+<br>
+
+<b><i>Model Websites:</i></b><br>
 <a href="http://mp1.met.psu.edu/~fxg1/ewall.html" target="_blank">PSU e-WALL</a><br />
 <a href="http://www.twisterdata.com/" target="_blank">TwisterData</a><br />
 <a href="http://www.tropicaltidbits.com/" target="_blank">TropicalTidbits</a><br />
@@ -396,8 +392,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://schumacher.atmos.colostate.edu/weather/models.php" target="_blank">Real-time Weather Data - Colorado State Univ.</a><br />
 <a href="http://wxmaps.org/" target="_blank">Weather and Climate Data - George Mason Univ.</a><br />
 <a href="http://www.atmos.albany.edu/student/tburg/analysis/" target="_blank">Tomer Burg - GFS, NAM, and RTMA data</a><br />
-<div style="font-size: 20px;">
-<u>Long Range (~7-16 Days):</u></div>
+
+<br>
+
+<b><i>Long Range (~7-16 Days):</i></b><br>
 <a href="http://weather.rap.ucar.edu/model/?model=gfs" target="_blank">GFS, NAM, RAP runs from National Center for Atmospheric Research [NCAR]</a><br />
 <a href="http://collaboration.cmc.ec.gc.ca/cmc/cmdn/pcpn_type/pcpn_type_gem_reg.html" target="_blank">Canadian Model [CMC] REG PCPN TYPE</a><br />
 <a href="http://wxweb.meteostar.com/sample/" target="_blank">Sutron GFS Point Data</a><br />
@@ -407,8 +405,9 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://weathernerds.org/models/" target="_blank">Weathernerds GFS, ECMWF, HRRR, NAM, HWRF, and HMON Data</a><br />
 <a href="http://www.atmos.albany.edu/student/abentley/realtime.html" target="_blank">Alicia M. Bentley, Ph.D. (Univ. of Albany, SUNY) GFS Analyses and Forecasts Page</a><br />
 
-<div style="font-size: 20px;">
-<u>Short/Medium Range (~1-7 Days):</u></div>
+<br>
+
+<b><i>Short/Medium Range (~1-7 Days):</i></b><br>
 <a href="http://hp6.wright-weather.com/eastnmm.shtml" target="_blank">Hi-RES East WRF-NMM 4-km (Eastern U.S. Model Run)</a><br />
 <a href="https://rapidrefresh.noaa.gov/hrrr/HRRR/Welcome.cgi?dsKey=hrrr_jet&domain=t3&run_time=24+Mar+2013+-+23Z" target="_blank">Earth System Research Laboratory High Resolution Rapid Refresh [ESRL HRRR] Model Fields</a><br />
 <a href="http://www.nws.noaa.gov/mdl/synop/products.php" target="_blank">NWS Meteorological Development Lab Model Output Statistics [MOS] Forecast Products</a><br />
@@ -426,8 +425,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://www.spc.noaa.gov/exper/compmap/index.shtml" target="_blank">SPC IR/RAP/OBS Composite Map</a><br />
 <a href="http://weather.graphics/nbm/city.php" target="_blank">NWS Blend of Models v3.0</a><br />
 <a href="http://www.wpc.ncep.noaa.gov/medr/display/medrt.php" target="_blank">WPC high-resolution medium-range forecast display</a><br />
-<div style="font-size: 20px;">
-<u>Ensemble Forecasts:</u></div>
+
+<br>
+
+<b><i>Ensemble Forecasts:</i></b><br>
 <a href="http://www.spc.noaa.gov/exper/sref/fplumes/" target="_blank">SREF Plumes National Selection Grid</a><br />
 <a href="http://www.meteor.iastate.edu/~ckarsten/bufkit/image_loader.phtml" target="_blank">Meteogram Generator from Iowa State University</a><br />
 <a href="http://www.emc.ncep.noaa.gov/mmb/nammeteograms/" target="_blank">NAM Forecast Meteograms</a><br />
@@ -436,8 +437,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://ensemble.ucar.edu/" target="_blank">NCAR Ensemble Forecasts</a><br />
 <a href="http://ensemble.ucar.edu/" target="_blank">NCAR Ensemble Sounding Viewer</a><br />
 <a href="http://hrrr.chpc.utah.edu/" target="_blank">HRRR Archive at the Univ. of Utah</a><br />
-<div style="font-size: 20px;">
-<u>Other Model Data/Private Models:</u></div>
+
+<br>
+
+<b><i>Other Model Data/Private Models:</i></b><br>
 <a href="http://www.spc.noaa.gov/wcm/" target="_blank">Storm Prediction Center WCM (Warning Coordination Meteorologist) Page</a><br />
 <a href="https://www.arl.noaa.gov/hysplit/hysplit/" target="_blank">Air Resources Laboratory - HYSPLIT Model (Air parcel trajectories)</a><br />
 <a href="https://ready.arl.noaa.gov/hypub-bin/trajtype.pl" target="_blank">HYSPLIT Trajectory Model - Track a Parcel</a><br />
@@ -458,8 +461,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://predict.habhub.org/" target="_blank">CUSF Landing Predictor 2.5</a><br />
 <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepthunder/" target="_blank">IBM's Deep Thunder Model</a><br />
 <a href="https://www.weather.gov/mdl/ekdmos_home" target="_blank">Ensemble Kernel Density Model Output Statistics [EKDMOS]</a><br />
-<div style="font-size: 20px;">
-<u>Software:</u></div>
+
+<br>
+
+<b><i>Software:</i></b><br>
 <a href="http://pykl3radar.com/index.php" target="_blank">PYKL3 Radar [Paid]</a><br />
 <a href="http://www.weatherdefender.com/Features.aspx" target="_blank">Weather Defender [Paid]</a><br />
 <a href="https://www.weathertap.com/homepage/content?content_id=radar" target="_blank">RadarLab Imagery from weatherTAP [Paid]</a><br />
@@ -615,8 +620,10 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <br />
 <div style="font-size: 24px;">
 <u>Hydrology:</u></div>
-<div style="font-size: 20px;">
-<u>Flooding/Drought:</u></div>
+
+<br>
+
+<b><i>Flooding/Drought:</i></b><br>
 <a href="http://water.weather.gov/ahps2/inundation/faq_google.php" target="_blank">Flooding and Inundation FAQs</a><br />
 <a href="http://www.arcgis.com/home/webmap/viewer.html?webmap=2e38c1d9c2494fcfbe21384f3ddfecb4" target="_blank">ArcGIS Map - 100-Year Flood Zones</a><br />
 <a href="http://water.usgs.gov/edu/100yearflood.html" target="_blank">What is a 100-Year Flood?</a><br />
@@ -632,8 +639,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://drought.unl.edu/droughtmanagement/Home.aspx" target="_blank">National Drought Mitigation Center [NDMC] Drought Management Database (Univ. of Nebraska)</a><br />
 <a href="http://droughtatlas.unl.edu/MapViewer.aspx" target="_blank">NDMC U.S. Drought Risk Atlas</a><br />
 <a href="https://www.drought.gov/drought/soil-moisture-map" target="_blank">NIDIS CRN/SCAN Soil Moisture Map</a><br />
-<div style="font-size: 20px;">
-<u>Precipitation/Water Pollution:</u></div>
+
+<b><i>Precipitation/Water Pollution:</i></b><br>
 <a href="http://www.cocorahs.org/" target="_blank">CoCoRaHS - Community Collaborative Rain, Hail &amp; Snow Network</a><br />
 <a href="http://www.arcgis.com/home/webmap/viewer.html?webmap=0ea62c03e83e4d66b12a8eb98552dbdc&amp;extent=-93.8795%2C23.2123%2C-72.3463%2C38.403" target="_blank">Current Month Daily Mean Rainfall Anomalies</a><br />
 <a href="http://water.weather.gov/precip/" target="_blank">Precipitation Analysis - [AHPS] Advanced Hydrologic Prediction Service</a><br />
@@ -655,8 +662,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="http://finslive.mecklenburgcountync.gov/finslive/?gauge=rain&period=PT24H" target="_blank">Flood Information & Notification System [FINS] - Charlotte-Mecklenburg</a><br />
 
 <br />
-<div style="font-size: 20px;">
-<u>Inland Hydrology/Rivers/Water Quality:</u></div>
+
+<b><i>Inland Hydrology/Rivers/Water Quality:</i></b><br>
 <a href="http://wdr.water.usgs.gov/allsearch.php" target="_blank">Water-Resources data for the United States - USGS</a><br />
 <a href="http://water.usgs.gov/wsc/map_index.html" target="_blank">Locate Your Watershed</a><br />
 <a href="https://water.usgs.gov/GIS/huc.html" target="_blank">What are HUCS?</a><br />
@@ -680,8 +687,8 @@ This page is updated monthly. Last update: 1 March 2018 - Below is a collection 
 <a href="https://www.weather.gov/serfc/?fbclid=IwAR1GnKWy78qRNt7oyIGFg4P5ZU-t0HugulVjZoyG6aYt_TW5AVWhBALQXU0" target="_blank">Southeast River Forecast Center</a><br />
 <a href="http://rivernet.ncsu.edu/" target="_blank">RiverNet (Neuse and Cape Fear River Basins)</a><br />
 
-<div style="font-size: 20px;">
-<u>Coastal Hydrology/Tides/Oceanography:</u></div>
+
+<b><i>Coastal Hydrology/Tides/Oceanography:</i></b><br>
 <a href="http://oceanservice.noaa.gov/facts/light_travel.html" target="_blank">How far does light travel in the ocean?</a><br />
 <a href="http://tidesandcurrents.noaa.gov/stationhome.html?id=8651370#obs" target="_blank">NOAA Tides &amp; Currents</a><br />
 <a href="http://www.usno.navy.mil/" target="_blank">Naval Oceanography Portal</a><br />
@@ -732,8 +739,10 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Space Weather:</u></div>
-<div style="font-size: 20px;">
-<u>Solar Data/Monitoring/Eclipses:</u></div>
+
+<br>
+
+<b><i>Solar Data/Monitoring/Eclipses:</i></b><br>
 <a href="http://spaceweather.com/" target="_blank">SpaceWeather.com</a><br />
 <a href="http://www.n3kl.org/" target="_blank">N3KL.org</a><br />
 <a href="http://www.esrl.noaa.gov/gmd/grad/solcalc/azel.html" target="_blank">Solar Position Calculator</a><br />
@@ -762,8 +771,9 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://www.greatamericaneclipse.com/future/" target="_blank">Future solar eclipses in the 21st century</a><br />
 <a href="https://services.swpc.noaa.gov/text/3-day-forecast.txt" target="_blank">3-Day NOAA Geomagnetic Activity Observation and Forecast</a><br />
 
-<div style="font-size: 20px;">
-<u>Astronomical/Moon/Aurora Data/Light Pollution:</u></div>
+<br>
+
+<b><i>Astronomical/Moon/Aurora Data/Light Pollution:</i></b><br>
 <a href="http://aa.usno.navy.mil/data/docs/diskmap.php" target="_blank">Apparent Disk of Solar System Object</a><br />
 <a href="http://astro.unl.edu/classaction/animations/coordsmotion/daylighthoursexplorer.html" target="_blank">Daylight Hours Explorer</a><br />
 <a href="http://aa.usno.navy.mil/data/docs/RS_OneDay.php" target="_blank">Complete Sun and Moon Data for One Day</a><br />
@@ -777,8 +787,10 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://www.cleardarksky.com/csk/prov/North_Carolina_map.html" target="_blank">Clear Sky Charts in North Carolina</a><br />
 <a href="https://www.nasa.gov/centers/marshall/news/lunar/index.html" target="_blank">Lunar Impacts</a><br />
 <a href="http://www.aurorasaurus.org/" target="_blank">Aurorasaurus</a><br />
-<div style="font-size: 20px;">
-<u>Interstellar Activity/Celestial Bodies:</u></div>
+
+<br>
+
+<b><i>Interstellar Activity/Celestial Bodies:</i></b><br>
 <a href="http://fireballs.ndc.nasa.gov/cmor-radiants/" target="_blank">Current Location of Meteor Radiants</a><br />
 <a href="http://www.atlasoftheuniverse.com/50lys.html" target="_blank">Stars and Celestial Bodies within 50 light years of Earth</a><br />
 <a href="http://www.fourmilab.ch/cgi-bin/Solar" target="_blank">Solar System Live</a><br />
@@ -793,8 +805,10 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="http://exoplanetarchive.ipac.caltech.edu/index.html" target="_blank">NASA Exoplanet Archive</a><br />
 <a href="http://stars.chromeexperiments.com/" target="_blank">"100,000 Stars"</a><br />
 <a href="https://mars.nasa.gov/msl/mission/instruments/environsensors/rems/" target="_blank">Mars Rover Environmental Monitoring Station (REMS)</a><br />
-<div style="font-size: 20px;">
-<u>Satellites/Space Travel/Miscellaneous:</u></div>
+
+<br>
+
+<b><i>Satellites/Space Travel/Miscellaneous:</i></b><br>
 <a href="http://www.swpc.noaa.gov/" target="_blank">Space Weather Prediction Center</a><br />
 <a href="http://www.starrynighteducation.com/resources_pronunciation.html" target="_blank">Pronunciation Guide for Stellar and Interstellar Objects - Starry Night</a><br />
 <a href="http://neave.com/planetarium/" target="_blank">Online Planetarium</a><br />
@@ -841,8 +855,10 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Applied Meteorology/Climate:</u></div>
-<div style="font-size: 20px;">
-<u>Applied Meteorology/Meteorological Research:</u></div>
+
+<br>
+
+<b><i>Applied Meteorology/Meteorological Research:</i></b><br>
 <a href="http://www.tornadohistoryproject.com/" target="_blank">The Tornado History Project</a><br />
 <a href="http://www.nssl.noaa.gov/projects/vortexse/" target="_blank"> National Severe Storms Laboratory [NSSL] - Verification of the Origins of Rotation in Tornadoes Experiment-Southeast [VORTEX-SE]</a><br />
 <a href="http://www.estofex.org/" target="_blank">European Storm Forecast Experiment [ESTOFEX]</a><br />
@@ -856,12 +872,14 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://swco-ir.tdl.org/swco-ir/handle/10605/298" target="_blank">Fujita, Dr. Tetsuya Theodore "Ted", Papers, 1896-2003 and undated</a><br />
 <a href="https://www.slu.edu/arts-and-sciences/earth-atmospheric-sciences/research-centers/quantum-weather.php" target="_blank">Quantum Weather</a><br />
 
-<div style="font-size: 20px;">
-<u>Meteorology in the News:</u></div>
+<br>
+
+<b><i>Meteorology in the News:</i></b><br>
 <a href="https://www.congress.gov/bill/115th-congress/house-bill/353/text" target="_blank">H.R.353 - Weather Research and Forecasting Innovation Act of 2017</a><br />
 
-<div style="font-size: 20px;">
-<u>Miscellaneous:</u></div>
+<br>
+
+<b><i>Miscellaneous:</i></b><br>
 <a href="https://www.weather.gov/bro/mapcolors" target="_blank">All NWS Warnings and their colors</a><br />
 <a href="http://www.wdssii.org/" target="_blank">Warning Decision Support System - Integrated Information</a><br />
 <a href="https://geoguessr.com/" target="_blank">GeoGuessr</a><br />
@@ -950,6 +968,9 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <div style="font-size: 24px;">
 <u>International Meteorology Agencies:</u></div>
 <a href="https://www.wmo.int/pages/index_en.html" target="_blank">World Meteorological Organization [WMO]</a><br />
+
+<br>
+
 <b><i>Africa</i></b><br>
 <a href="http://www.meteo.dz/" target="_blank">M&eacute;t&eacute;o Alg&eacute;rie (Algeria Weather)</a><br />
 <a href="http://www.inamet.gov.ao/ao/" target="_blank">Instituto Nacional de Hidrometeorologia e Geof&iacute;sica, Angola [INAMET] (National Institute of Meteorology and Geophysics, Angola)</a><br />
@@ -1277,8 +1298,10 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <br />
 <div style="font-size: 24px;">
 <u>Climate Data/Change/Resilience:</u></div>
-<div style="font-size: 20px;">
-<u>Climate Data/Information:</u></div>
+
+<br>
+
+<b><i>Climate Data/Information:</i></b><br>
 <a href="http://www.cpc.ncep.noaa.gov/" target="_blank">Climate Prediction Center [CPC]</a><br />
 <a href="http://www.cpcpara.ncep.noaa.gov/" target="_blank">Climate Prediction Center (New Beta Site)</a><br />
 <a href="http://www.ncdc.noaa.gov/customer-support/partnerships/regional-climate-centers" target="_blank">National Climatic Data Center [NCDC]</a><br />
@@ -1353,8 +1376,9 @@ Eastern Florida Shelf High Frequency Radar Operations</a><br />
 <a href="https://climateaudit.org/station-data/" target="_blank">Climate Audit by Steve McIntyre</a><br />
 <a href="http://www.surfacestations.org/" target="_blank">surfacestations.org - Climate Station Records and Surveys</a><br />
 
-<div style="font-size: 20px;">
-<u>Climate Change:</u></div>
+<br>
+
+<b><i>Climate Change:</i></b><br>
 <a href="http://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&amp;projections=0-RCP85-SLR&amp;level=5&amp;unit=feet&amp;pois=hide" target="_blank">Surging Seas Database - Risk Zone Map</a><br />
 <a href="http://www.climatecentral.org/" target="_blank">Climate Central</a><br />
 <a href="http://nca2014.globalchange.gov/highlights/regions/southeast" target="_blank">Southeastern U.S. Impacts from the 2014 National Climate Assessment</a><br />
@@ -1388,8 +1412,8 @@ States Will Suffer More Than Others"</a><br />
 <a href="http://www.globalwarmingindex.org/" target="_blank">globalwarmingindex.org</a><br />
 
 <br />
-<div style="font-size: 20px;">
-<u>Climate Resilience:</u></div>
+
+<b><i>Climate Resilience:</i></b><br>
 <a href="http://toolkit.climate.gov/" target="_blank">U.S. Climate Resilience Toolkit</a><br />
 <a href="http://fris.nc.gov/fris/Home.aspx?ST=NC" target="_blank">North Carolina Flood Risk Information System [FRIS]</a><br />
 <a href="http://nws.weather.gov/lcat/auth/login" target="_blank">NWS Local Climate Analysis Tool</a><br />
@@ -1403,7 +1427,6 @@ States Will Suffer More Than Others"</a><br />
 <a href="https://www.drawdown.org/solutions-summary-by-rank" target="_blank">Summary of Carbon Drawdown Solutions by Overall Efficacy</a><br />
 <a href="http://globalwarmingindex.org/" target="_blank">Current Global Warming Index</a><br />
 <br />
-<hr />
 <br />
 <br />
 <br />
@@ -1412,21 +1435,6 @@ States Will Suffer More Than Others"</a><br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<div style="font-size: 21px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
 <br />
 <br />
 <br />
@@ -1500,29 +1508,6 @@ States Will Suffer More Than Others"</a><br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 23px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
 <br />
 <br />
 <br />
@@ -1643,8 +1628,9 @@ States Will Suffer More Than Others"</a><br />
 <div style="font-size: 24px;">
 <u>Radio/Meteorological Instrumentation:</u></div>
 
-<div style="font-size: 20px;">
-<u>Radio:</u></div>
+<br>
+
+<b><i>Radio:</i></b><br>
 <a href="http://www.radio-locator.com/cgi-bin/finder?state=NC&amp;country=u&amp;count=20&amp;s=T&amp;sr=1&amp;is_lic=Y&amp;is_cp=Y&amp;is_unl=Y&amp;is_ful=Y&amp;is_lp=Y&amp;scope=all&amp;prev=320" target="_blank">Radio Station Finder</a><br />
 <a href="http://earlyradiohistory.us/kwtrivia.htm" target="_blank">Why do some radio stations start with K and some with W?</a><br />
 <a href="http://www.nws.noaa.gov/nwr/" target="_blank">NOAA All Hazards Radio Information</a><br />
@@ -1656,8 +1642,9 @@ States Will Suffer More Than Others"</a><br />
 <a href="http://www.nws.noaa.gov/nwr/Maps/PHP/NC.php" target="_blank">NOAA Weather Radio [NWR] Coverage in North Carolina</a><br />
 <a href="http://radio.garden/" target="_blank">Radio Garden</a><br />
 
-<div style="font-size: 20px;">
-<u>Weather Sensors &amp; Equipment:</u></div>
+<br>
+
+<b><i>Weather Sensors &amp; Equipment:</i></b><br>
 <a href="http://www.vaisala.com/en/Pages/default.aspx" target="_blank">Vaisala</a><br />
 <a href="http://www.youngusa.com/" target="_blank">R.M. Young Company</a><br />
 <a href="https://www.campbellsci.com/" target="_blank">Campbell Scientific</a><br />
@@ -1667,8 +1654,9 @@ States Will Suffer More Than Others"</a><br />
 <a href="https://www.weathershack.com/" target="_blank">WeatherShack</a><br />
 <a href="http://windingwayweather.com/weather/equipment.html" target="_blank">Equipment - Winding Way Weather</a><br />
 
-<div style="font-size: 20px;">
-<u>Mesonets:</u></div>
+<br>
+
+<b><i>Mesonets:</i></b><br>
 <a href="http://www.deos.udel.edu/" target="_blank">Delaware Environmental Observing System [DEOS]</a><br />
 <a href="http://mesowest.utah.edu/" target="_blank">MesoWest Data - Univ. of Utah</a><br />
 <a href="http://www.mesonet.ttu.edu/" target="_blank">West Texas Mesonet</a><br />
@@ -1686,27 +1674,6 @@ States Will Suffer More Than Others"</a><br />
 <a href="http://agweathernetwork.com/" target="_blank">Central Minnesota Ag Weather Network</a><br />
 <a href="http://climate.umt.edu/mesonet/default.php" target="_blank">Montana Mesonet</a><br />
 <a href="http://www.jma.go.jp/en/amedas/" target="_blank">Automated Meteorological Data Acquisition System [AMeDAS] - Japan Mesonet</a><br />
-<br />
-<br />
-<hr />
-<div style="font-size: 21px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 21px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
 <br />
 <br />
 <br />
@@ -1895,22 +1862,6 @@ States Will Suffer More Than Others"</a><br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<div style="font-size: 21px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
-<div style="font-size: 22px;">
-&nbsp;</div>
 <br />
 <br />
 <br />
